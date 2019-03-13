@@ -1,0 +1,411 @@
+<!doctype html>
+<html class="no-main-border" lang="en">
+ <head> 
+  <title>Alumni Affairs</title> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=10.0" name="viewport"> 
+  <link href="https://www.cpp.edu/common/resources/css/css-2016.css?v=1493476946063" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/resources/css/cpp-print.css?v=1372871296540" media="print" rel="stylesheet"> 
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/resources/css/header-2016-acc.css" rel="stylesheet"> 
+  <script src="https://cdn.levelaccess.net/accessjs/YW1wMTEzOTQ/access.js" type="text/javascript"></script> 
+  <script type="text/javascript">
+  var sAId = "387";
+  var sCId = "2111";
+  
+  (function() {
+    function async_load(){
+      var s = document.createElement('script'); s.type = 'text/javascript';
+      s.src = (('https:' == document.location.protocol) ? "https://ssl.spectate.com" : "http://cdn.spectate.com") + "/s.js";
+      var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+    }
+    if(window.attachEvent) { window.attachEvent('onload', async_load); }
+    else { window.addEventListener('load', async_load, false); }
+  })();
+</script> 
+  <style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style> 
+  <style>
+#college-container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.college-module h3 {
+
+    clear: both;
+}
+</style> 
+ </head>
+ <body>
+  <div class="page-container"> 
+   <div> 
+    <header> 
+     <div id="logobar"> 
+      <div class="octo-logo"> 
+       <a href="/index.shtml" id="cpp-header-logo-link"><img alt="Cal Poly Pomona" src="https://www.cpp.edu/common/2018/assets/img/cpp-octo-web.svg"></a> 
+       <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
+      </div> 
+      <!-- for old logo uncomment
+<div class="span4 logo">
+<a href="/index.shtml" id="cpp-header-logo-link"><img alt="Cal Poly Pomona" src="https://www.cpp.edu/common/resources/img/logo.png"/></a>
+</div>
+--> 
+      <button aria-label="expand navigation menu" class="hamburger"><span class="glyphicon glyphicon-menu-hamburger"></span></button> 
+      <button aria-label="close navigation menu" class="cross" style="display:none;"><span class="glyphicon glyphicon-remove"></span></button> 
+      <button aria-label="open search box" class="search"><span class="glyphicon glyphicon-search"></span></button> 
+     </div> 
+     <div class="menu" id="full-expanded-menu" style="display:none;"> 
+      <div class="full-expanded-menu-container"> 
+       <nav aria-label="Main University Navigation"> 
+        <div class="row"> 
+         <nav id="main-university-nav"> 
+          <ul> 
+           <li class="nav-highlight"><a href="https://www.cpp.edu/~library/index.shtml">LIBRARY</a></li> 
+           <li class="nav-highlight"><a href="https://my.cpp.edu">ONLINE SERVICES</a></li> 
+           <li class="nav-highlight"><a href="https://apps.cpp.edu/bronco411/search/">DIRECTORY</a></li> 
+           <li class="nav-highlight"><a href="https://maps.cpp.edu/">MAPS</a></li> 
+           <li class="nav-highlight"><a href="https://www.cpp.edu/events/">CALENDAR</a></li> 
+          </ul> 
+         </nav> 
+        </div> 
+        <nav class="row"> 
+         <form action="https://gsa.cpp.edu/search" class="center-search" id="searchcpp" method="get" role="search"> 
+          <div class="toCenter"> 
+           <label class="acc_label" for="searchbar">SEARCH Box</label> 
+           <input class="search-query_new" id="searchbar" maxlength="256" name="q" placeholder="SEARCH CPP.EDU" size="155" style="height:35px;font-size:12pt;" title="search" type="text"> 
+           <input alt="SEARCH" class="button" id="searchbutton" src="/common/resources/img/submit_button.png" title="SEARCH" type="image"> 
+           <input name="site" type="hidden" value="default_collection"> 
+           <input name="client" type="hidden" value="cpp-fe"> 
+           <input name="output" type="hidden" value="xml_no_dtd"> 
+           <input name="proxystylesheet" type="hidden" value="cpp-fe"> 
+           <input name="markup" type="hidden" value="html5"> 
+          </div> 
+         </form> 
+        </nav> 
+        <div class="row" id="univesrity-sub-menu-nav"> 
+         <nav aria-label="About Cal Poly Pomona" class="sub-nav-column"> 
+          <ul> 
+           <li class="menu-header"><a href="/~aboutcpp/index.shtml">About Cal Poly Pomona</a></li> 
+           <li><a href="http://www.cpp.edu/~aboutcpp/index.shtml">Cal Poly Pomona Overview</a></li> 
+           <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/directions.shtml">Visitor Information</a></li> 
+           <li><a href="http://www.cpp.edu/maps/campus-tours/index.shtml">Campus Maps &amp; Tours</a></li> 
+           <li><a href="http://polycentric.cpp.edu/">News</a></li> 
+           <li><a href="http://www.cpp.edu/events">Events</a></li> 
+           <li><a href="http://www.cpp.edu/~aboutcpp/administration.shtml">Administration</a></li> 
+           <li><a href="http://www.cpp.edu/annual-security-report.shtml">Annual Security Report</a></li> 
+           <li><a href="http://www.cpp.edu/campus-safety-plan.shtml">Campus Safety Plan</a></li> 
+          </ul> 
+         </nav> 
+         <nav aria-label="Admissions Information" class="sub-nav-column"> 
+          <ul> 
+           <li class="menu-header"><a href="http://www.cpp.edu/~admissions/index.shtml">Admissions</a></li> 
+           <li><a href="http://www.cpp.edu/~admissions/index.shtml#undergraduate">Undergraduate Admissions</a></li> 
+           <li><a href="http://www.cpp.edu/~admissions/index.shtml#graduate">Graduate Admissions</a></li> 
+           <li><a href="http://www.cpp.edu/~admissions/index.shtml#international">International Admissions</a></li> 
+           <li><a href="http://www.cpp.edu/~extended-education/index.shtml">Continuing Education Admissions</a></li> 
+           <li><a href="http://www.cpp.edu/~admissions/veterans/index.shtml">Military &amp; Veterans Admissions</a></li> 
+           <li><a href="http://www.cpp.edu/~financial-aid/index.shtml">Financial Aid &amp; Scholarships</a></li> 
+           <li><a href="http://www.cpp.edu/~student-accounting/index.shtml">Student Accounts &amp; Fees</a></li> 
+           <li><a href="http://www.cpp.edu/~outreach/index.shtml">Outreach, Recruitment, &amp; Educational Partnerships </a></li> 
+          </ul> 
+         </nav> 
+         <nav aria-label="Academics Information" class="sub-nav-column"> 
+          <ul> 
+           <li class="menu-header"><a href="http://www.cpp.edu/~academics/index.shtml">Academics</a></li> 
+           <li><a href="http://www.cpp.edu/~academics/colleges-departments/index.shtml">Colleges &amp; Departments</a></li> 
+           <li><a href="http://www.cpp.edu/~academics/majors-degrees/index.shtml">Majors &amp; Degrees</a></li> 
+           <li><a href="http://www.cpp.edu/~academics/university-catalog/index.shtml">University Catalog &amp; Academic Schedules</a></li> 
+           <li><a href="http://www.cpp.edu/~library/index.shtml">University Library</a></li> 
+           <li><a href="http://www.cpp.edu/~academics/research.shtml">Research</a></li> 
+           <li><a href="http://www.cpp.edu/~academics/academic-resources/index.shtml">Academic Resources</a></li> 
+           <li><a href="http://www.cpp.edu/~registrar/index.shtml">Registrar</a></li> 
+          </ul> 
+         </nav> 
+         <nav aria-label="Campus Life Information" class="sub-nav-column"> 
+          <ul> 
+           <li class="menu-header"><a href="http://www.cpp.edu/~campus-life/index.shtml">Campus Life</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/student-services/index.shtml">Student Services</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/student-activities/index.shtml">Student Activities</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/recreation-fitness/index.shtml">Recreation &amp; Fitness</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/health-wellness/index.shtml">Health &amp; Wellness</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/housing-dining/index.shtml">Housing &amp; Dining</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/diversity/index.shtml">Diversity</a></li> 
+           <li><a href="http://events.cpp.edu">Calendars &amp; Events</a></li> 
+           <li><a href="http://www.cpp.edu/~campus-life/campus-safety-info/index.shtml">Campus Safety &amp; Emergency Info</a></li> 
+          </ul> 
+         </nav> 
+         <div class="sub-nav-column"> 
+          <nav aria-labelledby="athletics-menu-header"> 
+           <ul> 
+            <li class="menu-header" id="athletics-menu-header">Athletics</li> 
+            <li><a class="external-link" href="http://www.broncoathletics.com/">Visit Athletics Website</a></li> 
+           </ul> 
+          </nav> 
+          <nav aria-labelledby="alumni-menu-header"> 
+           <ul> 
+            <li class="menu-header" id="alumni-menu-header">Alumni</li> 
+            <li><a class="external-link" href="http://www.cpp.edu/~alumni/">Visit Alumni Website</a></li> 
+           </ul> 
+          </nav> 
+          <nav aria-label="Campus Giving Informaion"> 
+           <ul> 
+            <li class="menu-header"><a href="http://www.cpp.edu/~giving/index.shtml">Giving</a></li> 
+            <li><a href="http://www.cpp.edu/~giving/why-give/index.shtml">Why Give</a></li> 
+            <li><a href="http://www.cpp.edu/~giving/ways-to-give/index.shtml">Ways to Give</a></li> 
+            <li><a href="http://www.cpp.edu/~giving/where-to-give/index.shtml">Where to Give</a></li> 
+           </ul> 
+          </nav> 
+         </div> 
+         <button aria-label="close expaned menu" class="closemenu hidden-screen-reader-info">close expanded menu</button> 
+        </div> 
+       </nav> 
+      </div> 
+     </div> 
+    </header> 
+    <header aria-label="college header" id="college-header"> 
+     <script>
+function setSelectedPage(){
+    $(".nav li a").each(function(){
+        if(window.location.pathname.indexOf($(this).attr("href")) > -1)
+            $(this).parent().addClass("selected");
+    });
+}
+
+
+</script> 
+     <div class="row college-header" id="college-header-title"> 
+      <button aria-label="close college menu" class="college-cross"></button> 
+      <button aria-label="expand college menu" class="college-hamburger"></button> 
+      <h1><a href="/~alumni/index.shtml">Alumni <span class="no-shadow">Broncos for Life</span> </a></h1> 
+      <nav aria-label="College Navigation" class="college-navigation" id="college-navigation"> 
+       <ul class="nav flexnav"> 
+        <li> <a href="/~alumni/about/index.shtml"> About </a> </li> 
+        <li> <a href="/~alumni/chapters/index.shtml"> Chapters </a> </li> 
+        <li> <a href="/~alumni/outstanding-alumni/index.shtml"> Outstanding Alumni </a> </li> 
+        <li> <a href="/~alumni/student-outreach/index.shtml"> Student Outreach </a> </li> 
+        <li> <a href="/~alumni/programs/index.shtml"> Programs </a> </li> 
+        <li> <a href="/~alumni/events/index.shtml"> Events </a> </li> 
+        <li> <a href="/~alumni/contact/index.shtml"> Contact </a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </header>
+   </div> 
+   <div id="college-container"> 
+    <div class="row frontpage-row" id="main-body"> 
+     <div class="span12"> 
+      <div class="frontpage-module frontpage-slideshow with-shadow" id="main-frontpage-slideshow"> 
+       <a class="fpslide-control left bottom circle-bttn" data-slide="prev" href="#main-frontpage-slideshow" title="previous"></a> 
+       <a href="http://www.autoclubspeedway.com/Tickets-and-Events/CPP-Package.aspx"> <img alt="CPP Day at NASCAR-Horsepower special event" class="fpslide fpslide-active" src="/alumni/nas2.jpg"> </a> 
+       <a href="https://tix.axs.com/hIZzMgAAAACWefxWAQAAAADS%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fB2xha2luZ3MA%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f8%3d"> <img alt="CPP Night with the Los Angeles Kings" class="fpslide" hidden="true" src="/alumni/kingsslider.jpg"> </a> 
+       <a href="https://groupmatics.events/event/broncosintheoutfield"> <img alt="Broncos in the Outfield Spring Training Event at Camelback Ranch Los Angeles Dodgers vs. Los Angeles Angels Sunday February 24, 2019" class="fpslide" hidden="true" src="/alumni/img/topics/broncosintheoutfield.jpg"> </a> 
+       <a href="http://www.cpp.edu/~alumni/mentoring/"> <img alt="Bronco Mentoring Program" class="fpslide" hidden="true" src="/alumni/img/topics/Bronco-Mentoring-SliderR.jpg"> </a> 
+       <a href="http://www.cpp.edu/~alumni/programs/portfolium.shtml"> <img alt="Portfolium" class="fpslide" hidden="true" src="/alumni/img/topics/portfolium5.jpg"> </a> 
+       <a href="https://weare.cpp.edu/submit-an-impact/"> <img alt="We Are Cal Poly Pomona " class="fpslide" hidden="true" src="/alumni/img/topics/we-are-cpp-stories1.jpg"> </a> 
+       <a class="fpslide-control right bottom circle-bttn" data-slide="next" href="#main-frontpage-slideshow" title="next"></a> 
+       <div class="right-description"> 
+        <h3> <span class="fpslide-active"> <a href="http://www.autoclubspeedway.com/Tickets-and-Events/CPP-Package.aspx"> CPP Day at NASCAR </a> </span> <span hidden="true"> <a href="https://tix.axs.com/hIZzMgAAAACWefxWAQAAAADS%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fB2xha2luZ3MA%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f8%3d"> CPP Night with the Los Angeles Kings </a> </span> <span hidden="true"> <a href="https://groupmatics.events/event/broncosintheoutfield"> Broncos in the Outfield </a> </span> <span hidden="true"> <a href="http://www.cpp.edu/~alumni/mentoring/"> Bronco Mentoring Program </a> </span> <span hidden="true"> <a href="http://www.cpp.edu/~alumni/programs/portfolium.shtml"> Portfolium </a> </span> <span hidden="true"> <a href="https://weare.cpp.edu/submit-an-impact/"> We are Cal Poly Pomona </a> </span> </h3> 
+        <p> <span class="fpslide-active"> <a href="http://www.autoclubspeedway.com/Tickets-and-Events/CPP-Package.aspx"> Get a rocking deal on a ticket to NASCAR, PLUS live entertainment, interactive displays, free parking and so much more! </a> </span> <span hidden="true"> <a href="https://tix.axs.com/hIZzMgAAAACWefxWAQAAAADS%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fB2xha2luZ3MA%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f8%3d"> Join alumni, faculty, students, and the rest of the Bronco community for a fun night at the Staples Center. All tickets purchased through the Cal Poly Pomona link will receive a Cal Poly Pomona / Kings hat. CPP Night with the Los Angeles Kings </a> </span> <span hidden="true"> <a href="https://groupmatics.events/event/broncosintheoutfield"> Kick off the 2019 baseball season and join fellow alumni and the rest of the Bronco community for a trip to Spring Training! Discounted ticket packages are available starting at $23. </a> </span> <span hidden="true"> <a href="http://www.cpp.edu/~alumni/mentoring/"> Help a current Cal Poly Pomona student by becoming an alumni mentor today! </a> </span> <span hidden="true"> <a href="http://www.cpp.edu/~alumni/programs/portfolium.shtml"> New Platform Allows Students, Alumni to Post Interactive Resumes </a> </span> <span hidden="true"> <a href="https://weare.cpp.edu/submit-an-impact/"> Show your pride. Share your stories. Spread the word. This brand new site showcases our outstanding alumni. Putting a unique spin on the traditional class notes. </a> </span> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="alumni-normal-nav-row nav-collapse-extra collapse"> 
+     <center> 
+      <h2> <a href="http://give.cpp.edu/alumni">Join the Cal Poly Pomona Alumni Association</a> <a href="http://give.cpp.edu/alumni"><img height="28px" src="http://www.cpp.edu/alumni/img/univ-plaza.jpg" style="margin-bottom: 10px;" width="33px"></a> </h2> 
+     </center> 
+    </div> 
+    <div class="row frontpage-row"> 
+     <div class="span4"> 
+      <div class="frontpage-module college-module"> 
+       <h3><a href="http://www.cpp.edu/~alumni/events/index.shtml">Events</a></h3> 
+       <ul class="events"> 
+        <li class="media highlight"> <span class="date">Mar<strong>17</strong></span> 
+         <div class="media-body"> 
+          <h4> <a href="http://www.autoclubspeedway.com/Tickets-and-Events/CPP-Package.aspx"> CPP Day at NASCAR</a> </h4> 
+          <span><a href="http://www.autoclubspeedway.com/Tickets-and-Events/CPP-Package.aspx"> All Day Event </a> </span> 
+          <p> <a href="http://www.autoclubspeedway.com/Tickets-and-Events/CPP-Package.aspx"> Auto Club Speedway </a> </p> 
+         </div> </li> 
+        <li class="media highlight"> <span class="date">Mar<strong>18</strong></span> 
+         <div class="media-body"> 
+          <h4> <a href="/~alumni/events/grad-fair-april22.shtml"> </a> </h4> 
+          <span><a href="/~alumni/events/grad-fair-april22.shtml"> 09:00 AM to 06:00 PM </a> </span> 
+          <p> <a href="/~alumni/events/grad-fair-april22.shtml"> Book Store CLASS of 2019 st... </a> </p> 
+         </div> </li> 
+        <li class="media highlight"> <span class="date">Mar<strong>28</strong></span> 
+         <div class="media-body"> 
+          <h4> <a href="https://cppseniorsendoff2019.eventbrite.com"> Senior Send Off</a> </h4> 
+          <span><a href="https://cppseniorsendoff2019.eventbrite.com"> 05:30 PM to 07:30 PM </a> </span> 
+          <p> <a href="https://cppseniorsendoff2019.eventbrite.com"> Old Stables C... </a> </p> 
+         </div> </li> 
+       </ul> 
+       <div class="goto-link">
+        <a href="http://www.cpp.edu/~alumni/events/index.shtml">View More Events</a>
+       </div> 
+      </div> 
+      <div class="frontpage-module college-module"> 
+       <h3>Featured Links</h3> 
+       <ul class="directory-list"> 
+        <li class="row1"> <a href="http://www.cpp.edu/~alumni/programs/portfolium.shtml">Portfolium</a> </li> 
+        <li class="row2"> <a href="http://weare.cpp.edu/submit-a-story/">Impact Map (Class Notes)</a> </li> 
+        <li class="row1"> <a href="http://www.cpp.edu/~alumni/programs/brick-walk.shtml">Alumni Brick Walk</a> </li> 
+        <li class="row2"> <a href="http://www.cpp.edu/~alumni/signup/polyalumni.shtml">PolyAlumni Newsletter</a> </li> 
+        <li class="row1"> <a href="http://www.cpp.edu/~alumni-supporters/get-connected/family-friends.shtml">Family &amp; Friends Connection</a> </li> 
+        <li class="row2"> <a href="http://give.cpp.edu/donate">Support Cal Poly Pomona</a> </li> 
+        <li class="row1"> <a href="http://www.cpp.edu/~alumni/contact/privacy-choice.shtml">Privacy Choice</a> </li> 
+        <li class="row2"> <a href="http://www.cpp.edu/~pacesetters/">Pace Setters</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="span4"> 
+      <div class="frontpage-module college-module"> 
+       <h3>Alumni Spotlight</h3> 
+       <!-- everything in p tag is user generated content --> 
+       <p> </p>
+       <h4><strong><a href="https://www.cpp.edu/~cppmag/career-by-design.shtml" rel="noopener" target="_blank">Barbara Bouza</a><br> '85, architecture<br></strong></h4> 
+       <p><strong><a href="https://www.cpp.edu/~cppmag/career-by-design.shtml" rel="noopener" target="_blank"><img alt="Barbara Bouza" height="268" src="https://www.cpp.edu/alumni/img/spotlight/bouza1.jpg" width="370"></a></strong></p> 
+       <p>Not many teens navigating the hallowed halls of high school know definitively what they want to do for a career.<br><br>Growing up in Santa Maria, Barbara Bouza (’85, architecture) loved art, creative problem solving, and math, and she also had an analytical side.<br><br>It wasn’t until an architecture class in high school that Bouza realized she could pursue a profession that would tap into all of her passions.<br><br>“I took the course and I knew I wanted to be an architect,” she says.</p> 
+       <p><a href="https://www.cpp.edu/~cppmag/career-by-design.shtml" rel="noopener" target="_blank">Continue reading about Barbara Bouza....</a><em></em></p> 
+       <p></p> 
+       <!-- the following link should be optional for all frontpage-modules --> 
+      </div> 
+     </div> 
+     <div class="span4"> 
+      <div class="frontpage-module padded-frontpage-module focal-point alumni-connections"> 
+       <h3></h3> 
+       <h2><strong><a href="http://www.cpp.edu/~alumni/mentoring/">Bronco Mentoring Program</a></strong></h2> 
+       <p><strong>The&nbsp;Bronco Mentoring Program is open to all degreed alumni and current Cal Poly Pomona students. The goal of the program is to increase student success by connecting students with alumni who have expertise in their industry, major, or future career. <a href="https://cpp.joinhandshake.com">Sign up today!</a></strong></p> 
+       <h2><strong><a href="http://weare.cpp.edu">We Are Cal Poly Pomona</a></strong></h2> 
+       <p><strong>Visit our <a href="http://weare.cpp.edu/impact-map/">Impact Map</a> to share your Cal Poly Pomona experience and to see how others are creating an impact around the nation. </strong></p> 
+       <h2><strong><a href="https://cpp.formstack.com/forms/alumni_information_update#https://cpp.formstack.com/forms/alumni_information_update">Update your Information</a></strong></h2> 
+       <p><strong>Has your information changed? <a href="https://cpp.formstack.com/forms/alumni_information_update" rel="noopener noreferrer" target="_blank">Update Your Information</a></strong></p> 
+       <p>&nbsp;</p> 
+      </div> 
+      <div class="frontpage-module contact-module college-module"> 
+       <h3>Contact Us</h3> 
+       <ul class="contact-details span2"> 
+        <li class="location">3801 West Temple Ave. Pomona, CA 91768</li> 
+        <li class="phone"> 866-CPP-ALUM (Toll-Free) </li> 
+        <li class="phone"> 909-869-2963 </li> 
+        <li class="fax"> 909-869-4423 </li> 
+        <li class="email"> <a href="mailto: alumni@cpp.edu"> alumni@cpp.edu </a> </li> 
+       </ul> 
+       <!-- all social-detail items are optional --> 
+       <div class="social-details span2"> 
+        <h4>Stay Connected as Alumni</h4> 
+        <div class="row"> 
+         <a href="https://www.facebook.com/CPPAlumni"><img alt="on facebook" src="/common/resources/img/social/facebook.png"></a> 
+         <a href="https://twitter.com/CPPAlumni"><img alt="on twitter" src="/common/resources/img/social/twitter.png"></a> 
+         <a href="https://www.linkedin.com/school/cal-poly-pomona/"><img alt="on linkedin" src="/common/resources/img/social/linkedin.png"></a> 
+        </div> 
+        <div class="row"> 
+         <a href="http://www.instagram.com/cppalumni"><img alt="on instagram" src="/common/resources/img/social/instagram.png"></a> 
+         <a href="https://portfolium.com/network/cal-poly-pomona"><img alt="on portfolium" src="/common/resources/img/social/portfolium.png"></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <footer aria-label="Footer"> 
+   <div aria-hidden="true" class="modal hide fade" id="feedbackModal" role="dialog" tabindex="-1"></div> 
+   <div class="container"> 
+    <div class="row"> 
+     <div class="span2"> 
+      <div class="footer-nav"> 
+       <p><a aria-label="Cpp Contact Us" href="http://www.cpp.edu/contact.shtml">Contact Us</a></p> 
+       <p><a href="http://www.cpp.edu/accessibility.shtml">Accessibility</a></p> 
+       <p><a href="http://www.cpp.edu/~jobs/index.shtml">Jobs</a></p> 
+       <p><a href="http://www.cpp.edu/alpha-index/index.shtml">A-Z Index</a></p> 
+      </div> 
+     </div> 
+     <div class="span2"> 
+      <div class="footer-nav"> 
+       <p><a href="https://csupomona.intelliresponse.com">Ask Billy</a></p> 
+       <p><a href="http://www.cpp.edu/~officeofequity/titleIX/index.shtml">Title IX</a></p> 
+       <p><a href="http://www.cpp.edu/privacy.shtml">Privacy</a></p> 
+       <p><a href="http://www.cpp.edu/~safety/index.shtml">Safety&nbsp;&amp; Emergency Info</a></p> 
+      </div> 
+     </div> 
+     <div class="span2"> 
+      <div class="footer-nav"> 
+       <p><a href="https://apps.cpp.edu/idm/login.aspx?ReturnUrl=%2fidm%2fuser_account.aspx">Change Your Password</a></p> 
+       <p><a href="https://cpp.service-now.com/ehelp">eHelp</a></p> 
+       <p><a href="http://www.cpp.edu/website-feedback.php">Feedback</a></p> 
+       <p><a href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a></p> 
+      </div> 
+     </div> 
+     <div class="span2"> 
+      <div class="footer-nav"> 
+       <p><a href="http://www.cpp.edu/email.shtml">Email</a></p> 
+       <p><a href="https://my.cpp.edu">MyCPP</a></p> 
+       <p><a href="http://www.cpp.edu/~broncodirect">BroncoDirect</a></p> 
+       <p><a href="https://blackboard.cpp.edu/">Blackboard</a></p> 
+      </div> 
+     </div> 
+     <div class="span4"> 
+      <div class="social-media-links">
+       <a href="http://www.facebook.com/calpolypomona"><img alt="Facebook" src="/common/resources/img/social/facebook-60x60.png" style="height: 30px; width: 30px;"></a> 
+       <a href="http://twitter.com/calpolypomona"><img alt="Twitter" height="30" src="/common/resources/img/social/twitter-60x60.png" style="height: 30px; width: 30px;" width="30"></a> 
+       <a href="http://portfolios.cpp.edu/"><img alt="Portfolium" src="/common/resources/img/social/portfolium-60x60.png" style="height: 30px; width: 30px;"></a> 
+       <a href="https://www.linkedin.com/company/cal-poly-pomona"><img alt="LinkedIn" src="/common/resources/img/social/linkedin-60x60.png" style="height: 30px; width: 30px;"></a> 
+       <a href="http://www.youtube.com/calpolypomona"><img alt="YouTube" src="/common/resources/img/social/youtube-60x60.png" style="height: 30px; width: 30px;"></a> 
+       <a href="http://instagram.com/calpolypomona"><img alt="Instagram" src="/common/resources/img/social/instagram-60x60.png" style="height: 30px; width: 30px;"></a>
+      </div> 
+      <div class="clearfix"></div> 
+      <p align="right" class="copyright-text">© <script type="text/javascript">// <![CDATA[
+document.write(new Date().getFullYear());
+// ]]></script> California State Polytechnic University, Pomona<br><span id="sid-container"> <span class="sid"> [?]</span></span> All Rights Reserved</p> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="https://www.cpp.edu/common/resources/js/cpp75m.js" type="text/javascript"></script> 
+   <script src="https://www.cpp.edu/common/resources/js/header-2016.js" type="text/javascript"></script> 
+  </footer> 
+  <script type="text/javascript">
+var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-4659236-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>  
+ </body>
+</html>

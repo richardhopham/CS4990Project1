@@ -18,29 +18,29 @@ public class Inverted {
 		BufferedReader reader = new BufferedReader(new FileReader(fileToIndex));
 		for(String line = reader.readLine(); line != null; line = reader.readLine()) {
 			for(String chunk: line.split("\\W+")) {
-				String word = chunk.replaceAll("[^a-zA-Z0-9]", "");
+				String word = chunk.replaceAll("[^a-zA-Z]", "");
 				word = word.replaceAll("\\p{Punct}]", "");
-				boolean inside = freq.containsKey(word);
+				boolean inside = Inverted.freq.containsKey(word);
 				if(!inside) {
-					freq.put(word, 1);
+					Inverted.freq.put(word, 1);
 				} else {
-					freq.put(word, freq.get(word) + 1);
+					Inverted.freq.put(word, Inverted.freq.get(word) + 1);
 				}
 			}
 		}
-		freq.remove("");
+		Inverted.freq.remove("");
 		reader.close();
 		writeTermFreqFile();
 	}
 	
 	public void writeTermFreqFile() throws IOException {
 		StringBuilder build = null;
-		Set<String> keys = freq.keySet();
+		Set<String> keys = Inverted.freq.keySet();
 		FileWriter writer = new FileWriter(Inverted.termFile);
 		String[] arrayOfKeys = keys.toArray(new String[keys.size()]);
 		for(int i = 0; i < arrayOfKeys.length; i++) {
 			build = new StringBuilder();
-			build.append(arrayOfKeys[i]+","+freq.get(arrayOfKeys[i]));
+			build.append(arrayOfKeys[i]+","+Inverted.freq.get(arrayOfKeys[i]));
 			build.append("\n");
 			writer.write(build.toString());
 		}
@@ -49,10 +49,10 @@ public class Inverted {
 	}
 	
 	public void printHashMap() {
-		Set<String> keys = freq.keySet();
+		Set<String> keys = Inverted.freq.keySet();
 		String[] arrayOfKeys = keys.toArray(new String[keys.size()]);
 		for(int i = 0; i < arrayOfKeys.length; i++) {
-			System.out.println(arrayOfKeys[i]+": "+freq.get(arrayOfKeys[i]));
+			System.out.println(arrayOfKeys[i]+": "+ Inverted.freq.get(arrayOfKeys[i]));
 		}
 	}
 }

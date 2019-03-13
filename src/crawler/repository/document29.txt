@@ -1,0 +1,1185 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Dog breed - Wikipedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dog_breed","wgTitle":"Dog breed","wgCurRevisionId":884856869,"wgRevisionId":884856869,"wgArticleId":79676,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Archived copy as title","Use dmy dates from December 2013","Wikipedia articles with GND identifiers","Dog breeds","Rare breed conservation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dog_breed","wgRelevantArticleId":79676,"wgRequestId":"XIElYApAAEQAAG@v-HoAAADC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q39367","wgScoreNoteLanguages":{"arabic":"???????","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.33.0-wmf.19"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg/1200px-The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dog_breed"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dog_breed&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Dog_breed&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Dog_breed"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dog_breed rootpage-Dog_breed skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Dog breed</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:277px;">
+        <a href="/wiki/File:The_animal_kingdom_(Plate_XVII)_(6129695577).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg/275px-The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg" decoding="async" width="275" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg/413px-The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg/550px-The_animal_kingdom_%28Plate_XVII%29_%286129695577%29.jpg 2x" data-file-width="2725" data-file-height="2095"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:The_animal_kingdom_(Plate_XVII)_(6129695577).jpg" class="internal" title="Enlarge"></a>
+         </div>An 1897 illustration showing a range of European dog breeds
+        </div>
+       </div>
+      </div> 
+      <p><b>Dog breeds</b> are <a href="/wiki/Dog" title="Dog">dogs</a> that have relatively uniform physical characteristics developed by humans, with breeding animals selected for <a href="/wiki/Phenotype" title="Phenotype">phenotypic</a> traits such as size, coat color, structure, and behavior.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The <a href="/wiki/F%C3%A9d%C3%A9ration_Cynologique_Internationale" title="Fédération Cynologique Internationale">Fédération Cynologique Internationale</a> recognizes 337 pure dog breeds. </p>
+      <p>Other uses of the term breed when referring to dogs may include <a href="/wiki/Purebred_dog" title="Purebred dog">pure breeds</a>, <a href="/wiki/Dog_crossbreed" title="Dog crossbreed">cross-breeds</a>, <a href="/wiki/Mixed_breed_dog" class="mw-redirect" title="Mixed breed dog">mixed breeds</a> and <a href="/wiki/Landrace#dogs" title="Landrace">natural breeds</a>. </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#First_dog_breeds"><span class="tocnumber">1</span> <span class="toctext">First dog breeds</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Genetic_evidence_of_breeds"><span class="tocnumber">2</span> <span class="toctext">Genetic evidence of breeds</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Ancient_dog_breeds"><span class="tocnumber">2.1</span> <span class="toctext">Ancient dog breeds</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Dog_types"><span class="tocnumber">2.2</span> <span class="toctext">Dog types</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Basal_breeds"><span class="tocnumber">2.3</span> <span class="toctext">Basal breeds</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Medical_research"><span class="tocnumber">2.4</span> <span class="toctext">Medical research</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#Breed_temperament"><span class="tocnumber">2.5</span> <span class="toctext">Breed temperament</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Breeds"><span class="tocnumber">3</span> <span class="toctext">Breeds</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-9"><a href="#Pure_breeds"><span class="tocnumber">3.1</span> <span class="toctext">Pure breeds</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-10"><a href="#Kennel_clubs"><span class="tocnumber">3.1.1</span> <span class="toctext">Kennel clubs</span></a></li> 
+            <li class="toclevel-3 tocsection-11"><a href="#Breed_standards"><span class="tocnumber">3.1.2</span> <span class="toctext">Breed standards</span></a></li> 
+            <li class="toclevel-3 tocsection-12"><a href="#Major_registries"><span class="tocnumber">3.1.3</span> <span class="toctext">Major registries</span></a></li> 
+            <li class="toclevel-3 tocsection-13"><a href="#Health_issues"><span class="tocnumber">3.1.4</span> <span class="toctext">Health issues</span></a></li> 
+            <li class="toclevel-3 tocsection-14"><a href="#List_of_pure_breeds"><span class="tocnumber">3.1.5</span> <span class="toctext">List of pure breeds</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-15"><a href="#Cross-breeds"><span class="tocnumber">3.2</span> <span class="toctext">Cross-breeds</span></a></li> 
+          <li class="toclevel-2 tocsection-16"><a href="#Mixed-breeds"><span class="tocnumber">3.3</span> <span class="toctext">Mixed-breeds</span></a></li> 
+          <li class="toclevel-2 tocsection-17"><a href="#Natural_breeds"><span class="tocnumber">3.4</span> <span class="toctext">Natural breeds</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-18"><a href="#Groups_of_dogs_mistaken_for_breeds"><span class="tocnumber">4</span> <span class="toctext">Groups of dogs mistaken for breeds</span></a></li> 
+        <li class="toclevel-1 tocsection-19"><a href="#List"><span class="tocnumber">5</span> <span class="toctext">List</span></a></li> 
+        <li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-21"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li> 
+        <li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="First_dog_breeds">First dog breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=1" title="Edit section: First dog breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg/200px-Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg" decoding="async" width="200" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg/300px-Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg/400px-Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg 2x" data-file-width="1064" data-file-height="663"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Engag%C3%A9_mit_einem_indianischen_Hundeschlitten_by_Maximilian_zu_Wied-Neuwied.jpg" class="internal" title="Enlarge"></a>
+         </div>
+         <a href="/wiki/Sled_dog" title="Sled dog">Sled dog</a> types, sketched in 1833
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:182px;">
+        <a href="/wiki/File:Tesem2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tesem2.jpg/180px-Tesem2.jpg" decoding="async" width="180" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tesem2.jpg/270px-Tesem2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tesem2.jpg/360px-Tesem2.jpg 2x" data-file-width="442" data-file-height="341"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tesem2.jpg" class="internal" title="Enlarge"></a>
+         </div>
+         <a href="/wiki/Tesem" title="Tesem">Tesem</a>, an ancient Egyptian sighthound
+        </div>
+       </div>
+      </div> 
+      <p>The domestic dog is the first species, and the only large <a href="/wiki/Carnivore" title="Carnivore">carnivore</a>, to have been domesticated. Over the past 200 years, dogs have undergone rapid <a href="/wiki/Phenotype" title="Phenotype">phenotypic</a> change and were formed into today's modern breeds due to <a href="/wiki/Artificial_selection" class="mw-redirect" title="Artificial selection">artificial selection</a> imposed by humans. These breeds can vary in size and weight from a 0.46&nbsp;kg (1.0&nbsp;lb) teacup <a href="/wiki/Poodle" title="Poodle">poodle</a> to a 90&nbsp;kg (200&nbsp;lb) giant <a href="/wiki/Mastiff" title="Mastiff">mastiff</a>. The skull, body, and limb proportions vary significantly between breeds, with dogs displaying more phenotypic diversity than can be found within the entire order of carnivores. Some breeds demonstrate outstanding skills in herding, retrieving, scent detection, and guarding, which demonstrates the functional and behavioral diversity of dogs. The first dogs were certainly wolflike, but the phenotypic changes that coincided with the dog–wolf <a href="/wiki/Genetic_divergence" title="Genetic divergence">genetic divergence</a> are not known.<sup id="cite_ref-freedman2017_2-0" class="reference"><a href="#cite_note-freedman2017-2">[2]</a></sup> </p>
+      <p>In 2017, a study showed that 9,000 years ago the domestic dog was present at what is now <a href="/wiki/Zhokhov_Island" title="Zhokhov Island">Zhokhov Island</a>, arctic north-eastern Siberia, which was connected to the mainland at that time. The dogs were selectively bred as either sled dogs or as hunting dogs, which implies that a sled dog standard and a hunting dog standard existed at that time. The optimal maximum size for a sled dog is 20–25&nbsp;kg (44–55&nbsp;lb) based on thermo-regulation, and the ancient sled dogs were between 16–25&nbsp;kg (35–55&nbsp;lb). The same standard has been found in the remains of sled dogs from this region 2,000 ago and in the modern <a href="/wiki/Siberian_Husky" title="Siberian Husky">Siberian Husky</a> breed standard. Other dogs were more massive at 30&nbsp;kg (66&nbsp;lb) and appear to be dogs that had been crossed with wolves and used for polar-bear hunting. At death, the heads of the dogs had been carefully separated from their bodies by humans, probably for ceremonial reasons.<sup id="cite_ref-pitulko2017_3-0" class="reference"><a href="#cite_note-pitulko2017-3">[3]</a></sup> </p>
+      <p>Between 3,000 and 4,000 years ago greyhound-type dogs were depicted on pottery and paintings in Egypt and Western Asia. Mastiff-type dogs were kept for guarding and hunting, and short-legged dogs were also bred.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Most modern dog breeds are the products of the controlled breeding practices of the Victorian era (1830-1900),<sup id="cite_ref-Atlas_of_Dog_Breeds_of_the_World_5-0" class="reference"><a href="#cite_note-Atlas_of_Dog_Breeds_of_the_World-5">[5]</a></sup><sup id="cite_ref-American_Kennel_Club_2006_6-0" class="reference"><a href="#cite_note-American_Kennel_Club_2006-6">[6]</a></sup> and the accurate documenting of pedigrees with the establishment of the English Kennel Club in 1873 in imitation of other stud book registries for cattle and horses.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p> 
+      <dl>
+       <dd>
+        <i>For early depictions of dogs in art, see <a href="/wiki/Cultural_depictions_of_dogs_in_Western_art#Early_history" class="mw-redirect" title="Cultural depictions of dogs in Western art">early history in art</a>.</i>
+       </dd>
+      </dl> 
+      <h2><span class="mw-headline" id="Genetic_evidence_of_breeds">Genetic evidence of breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=2" title="Edit section: Genetic evidence of breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table style="border: 1px solid #ccc; background-color: white; vertical-align: middle; width: 248px; margin:0.2em 0 0.2em 1em; float:right; clear:right;"> 
+       <tbody>
+        <tr> 
+         <td style="border: 1px solid #dedede; padding: 3px"> <style data-mw-deduplicate="TemplateStyles:r886047358">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td{border:0;padding:0;vertical-align:middle;text-align:center}.mw-parser-output table.clade td.clade-label{width:0.8em;border:0;padding:0 0.2em;vertical-align:bottom;text-align:center}.mw-parser-output table.clade td.clade-slabel{border:0;padding:0 0.2em;vertical-align:top;text-align:center}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left;vertical-align:middle}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}</style> 
+          <table class="clade" style="font-size:75%; line-height:75%;width:300px;"> 
+           <tbody>
+            <tr> 
+             <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+             <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Wolf" title="Wolf">Wolf</a> </p> </td>
+            </tr> 
+            <tr> 
+             <td class="clade-slabel" style="border-left:1px solid;">? </td>
+            </tr> 
+            <tr> 
+             <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+             <td rowspan="2" class="clade-leaf"> 
+              <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+              <table class="clade"> 
+               <tbody>
+                <tr> 
+                 <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                 <td rowspan="2" class="clade-leaf"> 
+                  <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                  <table class="clade"> 
+                   <tbody>
+                    <tr> 
+                     <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                     <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Shar_Pei" title="Shar Pei">Shar Pei</a> </p> </td>
+                    </tr> 
+                    <tr> 
+                     <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                    </tr> 
+                    <tr> 
+                     <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                     <td rowspan="2" class="clade-leaf"> 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                      <table class="clade"> 
+                       <tbody>
+                        <tr> 
+                         <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                         <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Shiba_Inu" title="Shiba Inu">Shiba Inu</a> </p> </td>
+                        </tr> 
+                        <tr> 
+                         <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                        </tr> 
+                        <tr> 
+                         <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                         <td rowspan="2" class="clade-leaf"> 
+                          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                          <table class="clade"> 
+                           <tbody>
+                            <tr> 
+                             <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                             <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Chow_Chow" title="Chow Chow">Chow Chow</a> </p> </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                             <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Akita_Inu" class="mw-redirect" title="Akita Inu">Akita Inu</a> </p> </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-slabel">? </td>
+                            </tr>
+                           </tbody>
+                          </table> </td>
+                        </tr> 
+                        <tr> 
+                         <td class="clade-slabel">? </td>
+                        </tr>
+                       </tbody>
+                      </table> </td>
+                    </tr> 
+                    <tr> 
+                     <td class="clade-slabel">? </td>
+                    </tr>
+                   </tbody>
+                  </table> </td>
+                </tr> 
+                <tr> 
+                 <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                </tr> 
+                <tr> 
+                 <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                 <td rowspan="2" class="clade-leaf"> 
+                  <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                  <table class="clade"> 
+                   <tbody>
+                    <tr> 
+                     <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                     <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Basenji" title="Basenji">Basenji</a> </p> </td>
+                    </tr> 
+                    <tr> 
+                     <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                    </tr> 
+                    <tr> 
+                     <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                     <td rowspan="2" class="clade-leaf"> 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                      <table class="clade"> 
+                       <tbody>
+                        <tr> 
+                         <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                         <td rowspan="2" class="clade-leaf"> 
+                          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                          <table class="clade"> 
+                           <tbody>
+                            <tr> 
+                             <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                             <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Siberian_Husky" title="Siberian Husky">Siberian Husky</a> </p> </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                             <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Alaskan_Malamute" title="Alaskan Malamute">Alaskan Malamute</a> </p> </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-slabel">? </td>
+                            </tr>
+                           </tbody>
+                          </table> </td>
+                        </tr> 
+                        <tr> 
+                         <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                        </tr> 
+                        <tr> 
+                         <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                         <td rowspan="2" class="clade-leaf"> 
+                          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                          <table class="clade"> 
+                           <tbody>
+                            <tr> 
+                             <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                             <td rowspan="2" class="clade-leaf"> 
+                              <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047358"> 
+                              <table class="clade"> 
+                               <tbody>
+                                <tr> 
+                                 <td class="clade-label" style="border-bottom:1px solid;">? </td> 
+                                 <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Afghan_Hound" title="Afghan Hound">Afghan Hound</a> </p> </td>
+                                </tr> 
+                                <tr> 
+                                 <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                                </tr> 
+                                <tr> 
+                                 <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                                 <td rowspan="2" class="clade-leaf"> <p><a href="/wiki/Saluki" title="Saluki">Saluki</a> </p> </td>
+                                </tr> 
+                                <tr> 
+                                 <td class="clade-slabel">? </td>
+                                </tr>
+                               </tbody>
+                              </table> </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-slabel" style="border-left:1px solid;">? </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-label" style="border-left:1px solid;border-bottom:1px solid;">? </td> 
+                             <td rowspan="2" class="clade-leaf"> <p>other breeds in the study </p> </td>
+                            </tr> 
+                            <tr> 
+                             <td class="clade-slabel">? </td>
+                            </tr>
+                           </tbody>
+                          </table> </td>
+                        </tr> 
+                        <tr> 
+                         <td class="clade-slabel">? </td>
+                        </tr>
+                       </tbody>
+                      </table> </td>
+                    </tr> 
+                    <tr> 
+                     <td class="clade-slabel">? </td>
+                    </tr>
+                   </tbody>
+                  </table> </td>
+                </tr> 
+                <tr> 
+                 <td class="clade-slabel">? </td>
+                </tr>
+               </tbody>
+              </table> </td>
+            </tr> 
+            <tr> 
+             <td class="clade-slabel">? </td>
+            </tr>
+           </tbody>
+          </table> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align: left; font-size: 88%; border: 0; padding: 0;"><a href="/wiki/Cladogram" title="Cladogram">Cladogram</a> of 9 breeds that are genetically divergent from others<sup id="cite_ref-parker2004_8-0" class="reference"><a href="#cite_note-parker2004-8">[8]</a></sup> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Ancient_dog_breeds">Ancient dog breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=3" title="Edit section: Ancient dog breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Ancient breed of dogs was a term once used for a group of dog breeds by the American Kennel Club,<sup id="cite_ref-American_Kennel_Club_2006_6-1" class="reference"><a href="#cite_note-American_Kennel_Club_2006-6">[6]</a></sup> but no longer.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> These breeds were referred to as "ancient breeds", as opposed to modern breeds because historically it was believed that they had origins dating back over 500 years. In 2004, a study looked at the <a href="/wiki/Microsatellite#Analysis_of_microsatellites" title="Microsatellite">microsatellites</a> of 414 purebred dogs representing 85 breeds. The study found that dog breeds were so genetically distinct that 99% of individual dogs could be correctly assigned to their breed based on their <a href="/wiki/Genotype" title="Genotype">genotype</a>, indicating that breeding barriers (pure-bred breeding) has led to distinct genetic units. The study identified 9 breeds that could be represented on the branches of a <a href="/wiki/Phylogenetic_tree" title="Phylogenetic tree">phylogenetic tree</a> which grouped together with strong statistical support and could be separated from the other breeds with a modern European origin. These 9 breeds had been referred to as "ancient breeds", as opposed to the modern breeds. The study found that the <a href="/wiki/Pharaoh_Hound" title="Pharaoh Hound">Pharaoh Hound</a> and <a href="/wiki/Ibizan_Hound" title="Ibizan Hound">Ibizan Hound</a> were not as old as believed but had been recreated from combinations of other breeds, and that the <a href="/wiki/Norwegian_Elkhound" title="Norwegian Elkhound">Norwegian Elkhound</a> grouped with the other European dogs despite reports of direct Scandinavian origins dating back 5,000 years.<sup id="cite_ref-parker2004_8-1" class="reference"><a href="#cite_note-parker2004-8">[8]</a></sup> </p>
+      <p>The dog which accompanied the ancestors of Native Americans from Siberia is extinct.<sup id="cite_ref-Science7618_10-0" class="reference"><a href="#cite_note-Science7618-10">[10]</a></sup><sup id="cite_ref-UI7518_11-0" class="reference"><a href="#cite_note-UI7518-11">[11]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Dog_types">Dog types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=4" title="Edit section: Dog types">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Five_different_types_of_dogs,_woodcut,_1547_Wellcome_L0029217.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Five_different_types_of_dogs%2C_woodcut%2C_1547_Wellcome_L0029217.jpg/220px-Five_different_types_of_dogs%2C_woodcut%2C_1547_Wellcome_L0029217.jpg" decoding="async" width="220" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Five_different_types_of_dogs%2C_woodcut%2C_1547_Wellcome_L0029217.jpg/330px-Five_different_types_of_dogs%2C_woodcut%2C_1547_Wellcome_L0029217.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Five_different_types_of_dogs%2C_woodcut%2C_1547_Wellcome_L0029217.jpg/440px-Five_different_types_of_dogs%2C_woodcut%2C_1547_Wellcome_L0029217.jpg 2x" data-file-width="2982" data-file-height="3852"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Five_different_types_of_dogs,_woodcut,_1547_Wellcome_L0029217.jpg" class="internal" title="Enlarge"></a>
+         </div>"Five different types of dogs," c. 1547.
+        </div>
+       </div>
+      </div> 
+      <dl>
+       <dd>
+        <i>See further:</i> 
+        <a href="/wiki/Dog_type" title="Dog type">Dog type</a>
+       </dd>
+      </dl> 
+      <p>The spread of modern dog breeds has been difficult to resolve because many are the products of the controlled breeding practices of the Victorian era (1830–1900).<sup id="cite_ref-Atlas_of_Dog_Breeds_of_the_World_5-1" class="reference"><a href="#cite_note-Atlas_of_Dog_Breeds_of_the_World-5">[5]</a></sup><sup id="cite_ref-American_Kennel_Club_2006_6-2" class="reference"><a href="#cite_note-American_Kennel_Club_2006-6">[6]</a></sup> In 2010, a study looked at 48,000&nbsp;<a href="/wiki/SNP_genotyping" title="SNP genotyping">single nucleotide polymorphisms</a> that gave a <a href="/wiki/Genome" title="Genome">genome</a>-wide coverage of 912&nbsp;dogs representing 85&nbsp;breeds.<sup id="cite_ref-vonHoldt_etal_2010_12-0" class="reference"><a href="#cite_note-vonHoldt_etal_2010-12">[12]</a></sup> </p>
+      <p>The study found distinct genetic clusters within modern dogs that largely corresponded to <a href="/wiki/Phenotype" title="Phenotype">phenotype</a> or function. These included spitz-breeds, toy dogs, spaniels, Mastiff-like breeds, small terriers, retrievers, herding dogs, scent-hounds, and sight-hounds. There were 17&nbsp;breeds that conflicted with phenotype or function and these were thought to be the result of crossing some of the other phenotypes. As in a 2004 study that found 9&nbsp;‘ancient breeds’ to be genetically divergent, the study found 13&nbsp;breeds that were genetically divergent from the modern breeds: the <a href="/wiki/Basenji" title="Basenji">Basenji</a>, <a href="/wiki/Saluki" title="Saluki">Saluki</a>, <a href="/wiki/Afghan_hound" class="mw-redirect" title="Afghan hound">Afghan hound</a>, <a href="/wiki/Samoyed_(dog)" class="mw-redirect" title="Samoyed (dog)">Samoyed</a>, <a href="/wiki/Canaan_dog" class="mw-redirect" title="Canaan dog">Canaan dog</a>, <a href="/wiki/New_Guinea_singing_dog" title="New Guinea singing dog">New Guinea singing dog</a>, <a href="/wiki/Dingo" title="Dingo">dingo</a>, <a href="/wiki/Chow_Chow" title="Chow Chow">Chow Chow</a>, <a href="/wiki/Chinese_Shar_Pei" class="mw-redirect" title="Chinese Shar Pei">Chinese Shar Pei</a>, <a href="/wiki/Akita_(dog)" title="Akita (dog)">Akita</a>, <a href="/wiki/Alaskan_malamute" class="mw-redirect" title="Alaskan malamute">Alaskan malamute</a>, <a href="/wiki/Siberian_husky" class="mw-redirect" title="Siberian husky">Siberian husky</a> and <a href="/wiki/American_Eskimo_dog" class="mw-redirect" title="American Eskimo dog">American Eskimo dog</a>. Results also indicated that the <a href="/wiki/Basenji" title="Basenji">Basenji</a> had recent admixture with Middle Eastern wolves.<sup id="cite_ref-vonHoldt_etal_2010_12-1" class="reference"><a href="#cite_note-vonHoldt_etal_2010-12">[12]</a></sup> </p>
+      <p>The study found that there were three well-supported groups that were highly divergent and distinct from modern domestic dogs. The three groups were </p> 
+      <ul>
+       <li>an <i>Asian group</i> (<a href="/wiki/Dingo" title="Dingo">Dingo</a>, <a href="/wiki/New_Guinea_singing_dog" title="New Guinea singing dog">New Guinea singing dog</a>, <a href="/wiki/Chow_chow" class="mw-redirect" title="Chow chow">chow chow</a>, <a href="/wiki/Akita_(dog)" title="Akita (dog)">Akita</a> and <a href="/wiki/Shar_Pei" title="Shar Pei">Shar Pei</a>) that showed past admixture with Chinese wolves,</li> 
+       <li>a <i>Middle Eastern</i> group (<a href="/wiki/Afghan_hound" class="mw-redirect" title="Afghan hound">Afghan hound</a> and <a href="/wiki/Saluki" title="Saluki">Saluki</a>), and</li> 
+       <li>a <i>northern group</i> (<a href="/wiki/Alaskan_Malamute" title="Alaskan Malamute">Alaskan Malamute</a> and <a href="/wiki/Siberian_Husky" title="Siberian Husky">Siberian Husky</a>).<sup id="cite_ref-vonHoldt_etal_2010_12-2" class="reference"><a href="#cite_note-vonHoldt_etal_2010-12">[12]</a></sup></li>
+      </ul> 
+      <h3><span class="mw-headline" id="Basal_breeds">Basal breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=5" title="Edit section: Basal breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In 2012, a study looked at 49,000 <a href="/wiki/SNP_genotyping" title="SNP genotyping">Single nucleotide polymorphisms</a> that gave a <a href="/wiki/Genome" title="Genome">genome</a>-wide coverage of 1,375 dogs representing 35 breeds, 19 wolves, and previous published genetic signatures of other breeds, giving a total of 121 breeds covered. The study found a deep genetic split between old-world and new-world wolves, and confirmed the genetic divergence of 13 breeds from a 2010 study (<a href="/wiki/Afghan_Hound" title="Afghan Hound">Afghan Hound</a>, <a href="/wiki/Akita_(dog)" title="Akita (dog)">Akita</a>, <a href="/wiki/Alaskan_Malamute" title="Alaskan Malamute">Alaskan Malamute</a>, <a href="/wiki/American_Eskimo" class="mw-redirect" title="American Eskimo">American Eskimo</a>, <a href="/wiki/Basenji" title="Basenji">Basenji</a>, <a href="/wiki/Canaan_dog" class="mw-redirect" title="Canaan dog">Canaan dog</a>, <a href="/wiki/Chow_Chow" title="Chow Chow">Chow Chow</a>, <a href="/wiki/Dingo" title="Dingo">Dingo</a>, <a href="/wiki/New_Guinea_singing_dog" title="New Guinea singing dog">New Guinea singing dog</a>, <a href="/wiki/Saluki" title="Saluki">Saluki</a>, <a href="/wiki/Samoyed_(dog)" class="mw-redirect" title="Samoyed (dog)">Samoyed</a>, <a href="/wiki/Shar-Pei" class="mw-redirect" title="Shar-Pei">Shar-Pei</a>, <a href="/wiki/Siberian_Husky" title="Siberian Husky">Siberian Husky</a>), plus another 3: the <a href="/wiki/Eurasier" title="Eurasier">Eurasier</a>, <a href="/wiki/Finnish_Spitz" title="Finnish Spitz">Finnish Spitz</a> and <a href="/wiki/Shiba_Inu" title="Shiba Inu">Shiba Inu</a>. The study referred to these 16 as <a href="/wiki/Basal_(phylogenetics)" title="Basal (phylogenetics)">Basal</a> breeds, as opposed to ancient breeds, as they exhibited genetic divergence but not all of them were historically considered to be "ancient breeds". </p>
+      <p>The 2012 study found that modern breeds only emerged in the 19th century and that claims of their antiquity are based on little or no historical or empirical evidence. The study indicated that throughout history, global dog populations experienced numerous episodes of diversification and homogenization, with each round further reducing the power of genetic data derived from modern breeds to help infer their early history. </p>
+      <p>Of the basal breeds, the <a href="/wiki/American_Eskimo_Dog" title="American Eskimo Dog">American Eskimo Dog</a> and <a href="/wiki/Eurasier" title="Eurasier">Eurasier</a> were the very recent product of cross-breeding other basal breeds. Most basal breeds have hybridized with other lineages in the past. If those other lineages were other basal breeds then a basal genetic signature remains. The combination of introgression and past population bottlenecks suggested that basal breeds have little or no genetic connections to their ancestral populations and that their genetic distinctiveness does not signify ancient heritage. They are distinctive from the modern breeds because the genetic heritage of the modern breeds has become blurred due to admixture, and the basal breeds have mostly avoided admixture with them due to geographic or cultural barriers.<sup id="cite_ref-larson2012_13-0" class="reference"><a href="#cite_note-larson2012-13">[13]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Medical_research">Medical research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=6" title="Edit section: Medical research">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>As dogs are a subspecies but their breeds are distinct genetic units, and because only certain breeds share the same type of cancers as humans, the differences in the genes of different breeds may be useful in human medical research.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Breed_temperament">Breed temperament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=7" title="Edit section: Breed temperament">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In 2014, a study indicated that some breed-temperaments, such as anxiety or fear, may be linked to gene mutations. Other temperaments may be due to the legacies of 'ancient' ancestry.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Breeds">Breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=8" title="Edit section: Breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a href="/wiki/File:Dog_morphological_variation.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dog_morphological_variation.png/300px-Dog_morphological_variation.png" decoding="async" width="300" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dog_morphological_variation.png/450px-Dog_morphological_variation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dog_morphological_variation.png/600px-Dog_morphological_variation.png 2x" data-file-width="997" data-file-height="768"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Dog_morphological_variation.png" class="internal" title="Enlarge"></a>
+         </div>Montage showing the morphological variation of the dog.
+        </div>
+       </div>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Further information: 
+       <a href="/wiki/Dog_breeding" title="Dog breeding">Dog breeding</a>
+      </div> 
+      <h3><span class="mw-headline" id="Pure_breeds">Pure breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=9" title="Edit section: Pure breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <h4><span class="mw-headline" id="Kennel_clubs">Kennel clubs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=10" title="Edit section: Kennel clubs">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Belgian_Groenendael_600.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Belgian_Groenendael_600.jpg/220px-Belgian_Groenendael_600.jpg" decoding="async" width="220" height="242" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Belgian_Groenendael_600.jpg/330px-Belgian_Groenendael_600.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Belgian_Groenendael_600.jpg/440px-Belgian_Groenendael_600.jpg 2x" data-file-width="600" data-file-height="660"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Belgian_Groenendael_600.jpg" class="internal" title="Enlarge"></a>
+         </div>Four varieties of the 
+         <a href="/wiki/Belgian_Shepherd" title="Belgian Shepherd">Belgian Shepherd</a> are recognised as separate breeds by the 
+         <a href="/wiki/New_Zealand_Kennel_Club" title="New Zealand Kennel Club">New Zealand Kennel Club</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a href="/wiki/File:Big_and_little_dog_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Big_and_little_dog_1.jpg/300px-Big_and_little_dog_1.jpg" decoding="async" width="300" height="252" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Big_and_little_dog_1.jpg/450px-Big_and_little_dog_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e9/Big_and_little_dog_1.jpg 2x" data-file-width="600" data-file-height="504"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Big_and_little_dog_1.jpg" class="internal" title="Enlarge"></a>
+         </div>
+         <a href="/wiki/Chihuahua_(dog)" title="Chihuahua (dog)">Chihuahua</a> 
+         <a href="/wiki/Mixed-breed_dog" class="mw-redirect" title="Mixed-breed dog">mix</a> and purebred 
+         <a href="/wiki/Great_Dane" title="Great Dane">Great Dane</a>
+        </div>
+       </div>
+      </div> 
+      <p>Groups of owners that have dogs of the same breed and have an interest in <a href="/wiki/Dog_breeding" title="Dog breeding">dog breeding</a> can form national <a href="/wiki/Kennel_clubs" class="mw-redirect" title="Kennel clubs">Kennel clubs</a>. Kennel Clubs maintain <a href="/wiki/Breed_standard" title="Breed standard">breed standards</a>, record <a href="/wiki/Pedigree_(dog)" class="mw-redirect" title="Pedigree (dog)">pedigrees</a> in a <a href="/wiki/Breed_registry" title="Breed registry">breed registry</a> (or studbook), and issue the rules for <a href="/wiki/Conformation_dog_show" class="mw-redirect" title="Conformation dog show">conformation dog shows</a> and trials and accreditation of judges. They often serve as <a href="/wiki/Breed_registry" title="Breed registry">registries</a>, which are lists of adult <a href="/wiki/Purebred" title="Purebred">purebred</a> dogs and lists of litters of puppies born to purebred parents. </p>
+      <p>A dog breed is represented by a sufficient number of individuals to stably transfer its specific characteristics over generations. Dogs of same <a href="/wiki/Breed" title="Breed">breed</a> have similar characteristics of appearance and behavior, primarily because they come from a select set of ancestors who had the same characteristics.<sup id="cite_ref-{{ISBN|0764573020}}_16-0" class="reference"><a href="#cite_note-{{ISBN|0764573020}}-16">[16]</a></sup> Dogs of a specific breed <a href="/wiki/Breed_true" class="mw-redirect" title="Breed true">breed true</a>, producing young that are very similar to their parents. An individual dog is identified as a member of a breed through proof of ancestry, using genetic analysis or written records of ancestry. Without such proof, identification of a specific breed is not reliable.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Such records, called <a href="/wiki/Stud_book" class="mw-redirect" title="Stud book">stud books</a>, may be maintained by individuals, clubs, or other organizations. </p>
+      <p>Kennel clubs provide the recognition of distinct dog breeds, but there are many independent clubs with differing, and sometimes inconsistent standards and they need not apply scientific standards. Four varieties of the <a href="/wiki/Belgian_Shepherd_Dog" class="mw-redirect" title="Belgian Shepherd Dog">Belgian Shepherd Dog</a> are recognised as four distinct breeds by the <a href="/wiki/New_Zealand_Kennel_Club" title="New Zealand Kennel Club">New Zealand Kennel Club</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Further, some groups of dogs which clearly share a persistent set of characteristics and documented descent from a known foundation stock may still not be recognized by some clubs as breeds. For instance, the <a href="/wiki/Feist_(dog)" title="Feist (dog)">feist</a> is a hunting dog raised in the <a href="/wiki/Southern_United_States" title="Southern United States">Southern United States</a> for hunting small game. Feists have a consistent set of characteristics that reliably differentiate them from other <a href="/wiki/Dog_type" title="Dog type">dog types</a> and breeds. However, the <a href="/wiki/United_Kennel_Club" title="United Kennel Club">United Kennel Club</a> recognizes one breed of feist, the <a href="/wiki/Treeing_Feist" class="mw-redirect" title="Treeing Feist">Treeing Feist</a>, while the <a href="/wiki/American_Kennel_Club" title="American Kennel Club">American Kennel Club</a> does not recognize any feist breed. </p>
+      <p>A dog is said to be <a href="/wiki/Purebred_(dog)" class="mw-redirect" title="Purebred (dog)">purebred</a> if their parents were purebred and if the dog meets the standards of the breed. Purebred dog breeders of today "have inherited a breeding paradigm that is, at the very least, a bit anachronistic in light of modern genetic knowledge, and that first arose out of a pretty blatant misinterpretation of Darwin and an enthusiasm for social theories that have long been discredited as scientifically insupportable and morally questionable."<sup id="cite_ref-Budiansky_19-0" class="reference"><a href="#cite_note-Budiansky-19">[19]</a></sup> Morally questionable policies regarding purity of breed include obligatory surgical procedures to spay or neuter animals in numerous contexts. The American Kennel Club, for instance, allows <a href="/wiki/Mixed-breed_dog" class="mw-redirect" title="Mixed-breed dog">mixed-breed dogs</a> to be shown but requires these animals to be altered. It doesn't make such requirements for purebred dogs. California Assembly Act AB 1634 was a bill introduced in 2007 that would require all non-working dogs of mixed breed over the age of 6 months to be neutered or spayed.<sup id="cite_ref-ab1634_20-0" class="reference"><a href="#cite_note-ab1634-20">[20]</a></sup> The bill was morally controversial, leading the American Kennel Club to fight the bill.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </p>
+      <p>The Canadian department of agriculture has strict standards for the documenting of what it calls "evolving breeds".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </p> 
+      <h4><span class="mw-headline" id="Breed_standards">Breed standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=11" title="Edit section: Breed standards">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>The <a href="/wiki/Breed_standard_(dogs)" class="mw-redirect" title="Breed standard (dogs)">breed standard</a> for each breed of dog is a detailed description of the appearance and behaviour of an idealized dog of that breed.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Included in the breed standard description are externally observable aspects of appearance and behaviour that are considered by the breed club to be the most important for the breed, and externally observable details of appearance or temperament that are considered by the breed club to be unacceptable (called <i><a href="/wiki/Fault_(dog)" title="Fault (dog)">faults</a></i>). In addition, most breed standards include a historical section, describing the place of origin and the original work done by the breed or its ancestor <a href="/wiki/Dog_type" title="Dog type">types</a>. </p> 
+      <h4><span class="mw-headline" id="Major_registries">Major registries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=12" title="Edit section: Major registries">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Dogs with a breed standard may be accepted into one or more of the major registries (<a href="/wiki/Kennel_club" title="Kennel club">kennel clubs</a>) of dog breeds include the <a href="/wiki/F%C3%A9d%C3%A9ration_Cynologique_Internationale" title="Fédération Cynologique Internationale">Fédération Cynologique Internationale</a> (covering 84 countries), <a href="/wiki/The_Kennel_Club" title="The Kennel Club">The Kennel Club</a> (UK), the <a href="/wiki/Canadian_Kennel_Club" title="Canadian Kennel Club">Canadian Kennel Club</a>, the <a href="/wiki/American_Kennel_Club" title="American Kennel Club">American Kennel Club</a>, the <a href="/wiki/United_Kennel_Clubs_International" title="United Kennel Clubs International">United Kennel Clubs International</a>, the <a href="/wiki/Australian_National_Kennel_Council" title="Australian National Kennel Council">Australian National Kennel Council</a> the <a href="/wiki/New_Zealand_Kennel_Club" title="New Zealand Kennel Club">New Zealand Kennel Club</a>, and other national registries. The registry places the breed into the appropriate category, called a <a href="/wiki/Breed_groups_(dog)" class="mw-redirect" title="Breed groups (dog)">group</a>. Some Groups may be further subdivided by some registries. </p> 
+      <h4><span class="mw-headline" id="Health_issues">Health issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=13" title="Edit section: Health issues">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Pure breed dogs have more health problems than <a href="/wiki/Mongrel" title="Mongrel">mongrel</a> dogs, and require more veterinary visits,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> and tend to have lower longevity.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Indeed, studies have reported lifespans that are shorter by between one and almost two years.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Notably, dog breeds with flat faces and short noses have breathing difficulties,<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> eye trouble and other health issues.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> </p> 
+      <h4><span class="mw-headline" id="List_of_pure_breeds">List of pure breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=14" title="Edit section: List of pure breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>The <a href="/wiki/F%C3%A9d%C3%A9ration_Cynologique_Internationale" title="Fédération Cynologique Internationale">Fédération Cynologique Internationale</a> recognizes over 300 dog breeds. </p> 
+      <dl>
+       <dd>
+        <i>Refer: <a href="/wiki/List_of_dog_breeds" title="List of dog breeds">List of dog breeds</a></i>
+       </dd>
+      </dl> 
+      <h3><span class="mw-headline" id="Cross-breeds">Cross-breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=15" title="Edit section: Cross-breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Dog_crossbreed" title="Dog crossbreed">dog crossbreed</a>
+      </div> 
+      <p>A <a href="/wiki/Dog_crossbreed" title="Dog crossbreed">dog crossbreed</a> is the result of mating two different breeds.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </p> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: 
+       <a href="/wiki/List_of_dog_crossbreeds" title="List of dog crossbreeds">List of dog crossbreeds</a>
+      </div> 
+      <h3><span class="mw-headline" id="Mixed-breeds">Mixed-breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=16" title="Edit section: Mixed-breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Mongrel" title="Mongrel">Mongrel</a>
+      </div> 
+      <p>A mongrel, mixed-breed dog or mutt is a <a href="/wiki/Dog" title="Dog">dog</a> that does not belong to one officially recognized breed and is not the result of intentional <a href="/wiki/Dog_breeding" title="Dog breeding">breeding</a>.<sup id="cite_ref-Ultimate_Morris_32-0" class="reference"><a href="#cite_note-Ultimate_Morris-32">[32]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Natural_breeds">Natural breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=17" title="Edit section: Natural breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Landrace#Dogs" title="Landrace">Natural breeds</a> rose through time in response to a particular environment and in isolation from other populations of the species.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> This environment included humans but with little or no <a href="/wiki/Dog_breeding" title="Dog breeding">selective breeding by humans</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </p> 
+      <dl>
+       <dd>
+        <i>See further: <a href="/wiki/Landrace#Dogs" title="Landrace">Landraces</a></i>
+       </dd>
+      </dl> 
+      <h2><span class="mw-headline" id="Groups_of_dogs_mistaken_for_breeds">Groups of dogs mistaken for breeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=18" title="Edit section: Groups of dogs mistaken for breeds">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Dog types are broad categories of dogs based on form, function or style of work, lineage, or appearance. In contrast, modern dog breeds are particular breed standards, sharing a common set of heritable characteristics, determined by the kennel club that recognizes the breed. Examples include the huntaway and other livestock dogs of New Zealand, the <a href="/wiki/Feist_(dog)" title="Feist (dog)">feist dogs</a> of the southern United States, and the Patagonian sheepdogs of Argentina, which are collies mixed with other working dogs.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> </p> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Further information: 
+       <a href="/wiki/Dog_type" title="Dog type">Dog type</a>
+      </div> 
+      <h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=19" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main articles: 
+       <a href="/wiki/List_of_dog_breeds" title="List of dog breeds">List of dog breeds</a> and 
+       <a href="/wiki/List_of_dog_crossbreeds" title="List of dog crossbreeds">List of dog crossbreeds</a>
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Irion, D (2003). "Analysis of Genetic Variation in 28 Dog Breed Populations With 100 Microsatellite Markers". <i>Journal of Heredity</i>. <b>94</b> (1): 81–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fjhered%2Fesg004">10.1093/jhered/esg004</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12692167">12692167</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Heredity&amp;rft.atitle=Analysis+of+Genetic+Variation+in+28+Dog+Breed+Populations+With+100+Microsatellite+Markers&amp;rft.volume=94&amp;rft.issue=1&amp;rft.pages=81-7&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1093%2Fjhered%2Fesg004&amp;rft_id=info%3Apmid%2F12692167&amp;rft.au=Irion%2C+D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+        <li id="cite_note-freedman2017-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-freedman2017_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Freedman, Adam H; Wayne, Robert K (2017). "Deciphering the Origin of Dogs: From Fossils to Genomes". <i>Annual Review of Animal Biosciences</i>. <b>5</b>: 281–307. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1146%2Fannurev-animal-022114-110937">10.1146/annurev-animal-022114-110937</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27912242">27912242</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Animal+Biosciences&amp;rft.atitle=Deciphering+the+Origin+of+Dogs%3A+From+Fossils+to+Genomes&amp;rft.volume=5&amp;rft.pages=281-307&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev-animal-022114-110937&amp;rft_id=info%3Apmid%2F27912242&amp;rft.aulast=Freedman&amp;rft.aufirst=Adam+H&amp;rft.au=Wayne%2C+Robert+K&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-pitulko2017-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pitulko2017_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pitulko, Vladimir V.; Kasparov, Aleksey K. (2017). "Archaeological dogs from the Early Holocene Zhokhov site in the Eastern Siberian Arctic". <i>Journal of Archaeological Science: Reports</i>. <b>13</b>: 491–515. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.jasrep.2017.04.003">10.1016/j.jasrep.2017.04.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Archaeological+Science%3A+Reports&amp;rft.atitle=Archaeological+dogs+from+the+Early+Holocene+Zhokhov+site+in+the+Eastern+Siberian+Arctic&amp;rft.volume=13&amp;rft.pages=491-515&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jasrep.2017.04.003&amp;rft.aulast=Pitulko&amp;rft.aufirst=Vladimir+V.&amp;rft.au=Kasparov%2C+Aleksey+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Clutton-Brock, J., 1995. <a rel="nofollow" class="external text" href="https://books.google.com.au/books?id=I8HU_3ycrrEC&amp;pg=PA7&amp;lpg=PA7&amp;dq=Origins+of+the+dog:+domestication+and+early+history+/%E2%80%8B+Juliet+Clutton-Brock&amp;source=bl&amp;ots=Bd9zRFf2s3&amp;sig=mQtF9eWpSKCCt7sTQwpgBMRcTps&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwje0_TQ577bAhUMfbwKHTr4C4MQ6AEILDAB#v=onepage&amp;q=Origins%20of%20the%20dog%3A%20domestication%20and%20early%20history%20%2F%E2%80%8B%20Juliet%20Clutton-Brock&amp;f=false">Origins of the dog: domestication and early history</a>. In:Serpell, J. (Ed.), The Domestic Dog, its Evolution, Behaviour and Interactions with People. Cambridge University Press, Cambridge, pp. 16-20</span> </li> 
+        <li id="cite_note-Atlas_of_Dog_Breeds_of_the_World-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Atlas_of_Dog_Breeds_of_the_World_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Atlas_of_Dog_Breeds_of_the_World_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Wilcox, Bonnie; Walkowicz, Chris (March 1995). <i>Atlas of Dog Breeds of the World</i> (Print) (5th ed.). Neptune City, NJ Lanham, MD: TFH Publications, Inc. p.&nbsp;912. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0793812844" title="Special:BookSources/978-0793812844">978-0793812844</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Atlas+of+Dog+Breeds+of+the+World&amp;rft.place=Neptune+City%2C+NJ+Lanham%2C+MD&amp;rft.pages=912&amp;rft.edition=5th&amp;rft.pub=TFH+Publications%2C+Inc.&amp;rft.date=1995-03&amp;rft.isbn=978-0793812844&amp;rft.aulast=Wilcox&amp;rft.aufirst=Bonnie&amp;rft.au=Walkowicz%2C+Chris&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-American_Kennel_Club_2006-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-American_Kennel_Club_2006_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-American_Kennel_Club_2006_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-American_Kennel_Club_2006_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">American Kennel Club (2006). <i>Complete Dog Book</i>. Ballantine Books; 20 edition. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0345476265" title="Special:BookSources/978-0345476265">978-0345476265</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Complete+Dog+Book&amp;rft.pub=Ballantine+Books%3B+20+edition&amp;rft.date=2006&amp;rft.isbn=978-0345476265&amp;rft.au=American+Kennel+Club&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Anne_Rogers_Clark" title="Anne Rogers Clark">Clark, Annie Rodgers</a>; Brace, Andrew H. (1995). <i>The International Encyclopedia of Dogs</i>. New York: Howell Book House. p.&nbsp;8. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-87605-624-0" title="Special:BookSources/978-0-87605-624-0">978-0-87605-624-0</a>. <q>In the strictest sense, dog breeds date back only to the last couple of decades of the nineteenth century, or to more recent decades in this (the twentieth) century but distinct types of dogs have existed centuries earlier.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+International+Encyclopedia+of+Dogs&amp;rft.place=New+York&amp;rft.pages=8&amp;rft.pub=Howell+Book+House&amp;rft.date=1995&amp;rft.isbn=978-0-87605-624-0&amp;rft.au=Clark%2C+Annie+Rodgers&amp;rft.au=Brace%2C+Andrew+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-parker2004-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-parker2004_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-parker2004_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Parker, H. G.; Kim, L. V.; Sutter, N. B.; Carlson, S; Lorentzen, T. D.; Malek, T. B.; Johnson, G. S.; Defrance, H. B.; Ostrander, E. A.; Kruglyak, L (2004). "Genetic Structure of the Purebred Domestic Dog". <i>Science</i>. <b>304</b> (5674): 1160–4. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004Sci...304.1160P">2004Sci...304.1160P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.1097406">10.1126/science.1097406</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15155949">15155949</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Genetic+Structure+of+the+Purebred+Domestic+Dog&amp;rft.volume=304&amp;rft.issue=5674&amp;rft.pages=1160-4&amp;rft.date=2004&amp;rft_id=info%3Apmid%2F15155949&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1097406&amp;rft_id=info%3Abibcode%2F2004Sci...304.1160P&amp;rft.aulast=Parker&amp;rft.aufirst=H.+G.&amp;rft.au=Kim%2C+L.+V.&amp;rft.au=Sutter%2C+N.+B.&amp;rft.au=Carlson%2C+S&amp;rft.au=Lorentzen%2C+T.+D.&amp;rft.au=Malek%2C+T.+B.&amp;rft.au=Johnson%2C+G.+S.&amp;rft.au=Defrance%2C+H.+B.&amp;rft.au=Ostrander%2C+E.+A.&amp;rft.au=Kruglyak%2C+L&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">American Kennel Club. <a rel="nofollow" class="external text" href="http://www.akc.org/dog-breeds/groups/">"Dog breed groups"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dog+breed+groups&amp;rft.au=American+Kennel+Club&amp;rft_id=http%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fgroups%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-Science7618-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Science7618_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Máire Ní Leathlobhair and about 50 others (July 6, 2018). "The evolutionary history of dogs in the Americas". <i>Science</i>. <b>361</b> (6397): 81–85. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.aao4776">10.1126/science.aao4776</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/29976825">29976825</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+evolutionary+history+of+dogs+in+the+Americas&amp;rft.volume=361&amp;rft.issue=6397&amp;rft.pages=81-85&amp;rft.date=2018-07-06&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.aao4776&amp;rft_id=info%3Apmid%2F29976825&amp;rft.au=M%C3%A1ire+N%C3%AD+Leathlobhair+and+about+50+others&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-UI7518-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-UI7518_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Diana Yates (July 5, 2018). <a rel="nofollow" class="external text" href="https://news.illinois.edu/view/6367/668925">"First dogs in the Americas arrived from Siberia, disappeared after European contact"</a>. <i>news.illinois.edu</i>. University of Illinois<span class="reference-accessdate">. Retrieved <span class="nowrap">July 11,</span> 2018</span>. <q>These dogs persisted for thousands of years in the Americas, but almost completely vanished after European contact, the researchers found.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.illinois.edu&amp;rft.atitle=First+dogs+in+the+Americas+arrived+from+Siberia%2C+disappeared+after+European+contact&amp;rft.date=2018-07-05&amp;rft.au=Diana+Yates&amp;rft_id=https%3A%2F%2Fnews.illinois.edu%2Fview%2F6367%2F668925&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-vonHoldt_etal_2010-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-vonHoldt_etal_2010_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vonHoldt_etal_2010_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-vonHoldt_etal_2010_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">vonHoldt, Bridgett; Lohmueller, Kirk E.; Han, Eunjung; Parker, Heidi G.; Quignon, Pascale; Degenhardt, Jeremiah D.; Boyko, Adam R.; Earl, Dent A.; Auton, Adam; Reynolds, Andy; Bryc, Kasia; Brisbin, Abra; Knowles, James C.; Mosher, Dana S.; Spady, Tyrone C.; Elkahloun, Abdel; Geffen, Eli; Pilot, Malgorzata; Jedrzejewski, Wlodzimierz; Greco, Claudia; Randi, Ettore; Bannasch, Danika; Wilton, Alan; Shearman, Jeremy; Musiani, Marco; Cargill, Michelle; Jones, Paul G.; Qian, Zuwei; Huang, Wei; et al. (2010-03-17). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3494089">"Genome-wide SNP and haplotype analyses reveal a rich history underlying dog domestication"</a>. <i>Nature</i>. <b>464</b> (7290): 898–902. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010Natur.464..898V">2010Natur.464..898V</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnature08837">10.1038/nature08837</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3494089">3494089</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20237475">20237475</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Genome-wide+SNP+and+haplotype+analyses+reveal+a+rich+history+underlying+dog+domestication&amp;rft.volume=464&amp;rft.issue=7290&amp;rft.pages=898-902&amp;rft.date=2010-03-17&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3494089&amp;rft_id=info%3Apmid%2F20237475&amp;rft_id=info%3Adoi%2F10.1038%2Fnature08837&amp;rft_id=info%3Abibcode%2F2010Natur.464..898V&amp;rft.aulast=vonHoldt&amp;rft.aufirst=Bridgett&amp;rft.au=Lohmueller%2C+Kirk+E.&amp;rft.au=Han%2C+Eunjung&amp;rft.au=Parker%2C+Heidi+G.&amp;rft.au=Quignon%2C+Pascale&amp;rft.au=Degenhardt%2C+Jeremiah+D.&amp;rft.au=Boyko%2C+Adam+R.&amp;rft.au=Earl%2C+Dent+A.&amp;rft.au=Auton%2C+Adam&amp;rft.au=Reynolds%2C+Andy&amp;rft.au=Bryc%2C+Kasia&amp;rft.au=Brisbin%2C+Abra&amp;rft.au=Knowles%2C+James+C.&amp;rft.au=Mosher%2C+Dana+S.&amp;rft.au=Spady%2C+Tyrone+C.&amp;rft.au=Elkahloun%2C+Abdel&amp;rft.au=Geffen%2C+Eli&amp;rft.au=Pilot%2C+Malgorzata&amp;rft.au=Jedrzejewski%2C+Wlodzimierz&amp;rft.au=Greco%2C+Claudia&amp;rft.au=Randi%2C+Ettore&amp;rft.au=Bannasch%2C+Danika&amp;rft.au=Wilton%2C+Alan&amp;rft.au=Shearman%2C+Jeremy&amp;rft.au=Musiani%2C+Marco&amp;rft.au=Cargill%2C+Michelle&amp;rft.au=Jones%2C+Paul+G.&amp;rft.au=Qian%2C+Zuwei&amp;rft.au=Huang%2C+Wei&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3494089&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-larson2012-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-larson2012_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Larson, G (2012). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3384140">"Rethinking dog domestication by integrating genetics, archeology, and biogeography"</a>. <i>Proc. Natl. Acad. Sci. U.S.A</i>. <b>109</b> (23): 8878–83. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012PNAS..109.8878L">2012PNAS..109.8878L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.1203005109">10.1073/pnas.1203005109</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3384140">3384140</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22615366">22615366</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&amp;rft.atitle=Rethinking+dog+domestication+by+integrating+genetics%2C+archeology%2C+and+biogeography&amp;rft.volume=109&amp;rft.issue=23&amp;rft.pages=8878-83&amp;rft.date=2012&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3384140&amp;rft_id=info%3Apmid%2F22615366&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1203005109&amp;rft_id=info%3Abibcode%2F2012PNAS..109.8878L&amp;rft.au=Larson%2C+G&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3384140&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cadieu, Edouard; Ostrander, Elaine A. (2007). <a rel="nofollow" class="external text" href="http://cebp.aacrjournals.org/cgi/content/full/16/11/2181">"Canine Genetics Offers New Mechanisms for the Study of Human Cancer"</a>. <i>Cancer Epidemiology, Biomarkers &amp; Prevention</i>. <b>16</b> (11): 2181–2183. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1158%2F1055-9965.EPI-07-2667">10.1158/1055-9965.EPI-07-2667</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17982116">17982116</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cancer+Epidemiology%2C+Biomarkers+%26+Prevention&amp;rft.atitle=Canine+Genetics+Offers+New+Mechanisms+for+the+Study+of+Human+Cancer&amp;rft.volume=16&amp;rft.issue=11&amp;rft.pages=2181-2183&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1158%2F1055-9965.EPI-07-2667&amp;rft_id=info%3Apmid%2F17982116&amp;rft.aulast=Cadieu&amp;rft.aufirst=Edouard&amp;rft.au=Ostrander%2C+Elaine+A.&amp;rft_id=http%3A%2F%2Fcebp.aacrjournals.org%2Fcgi%2Fcontent%2Ffull%2F16%2F11%2F2181&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Serpell, James A.; Duffy, Deborah L. (2014). "Dog Breeds and Their Behavior". <i>Domestic Dog Cognition and Behavior</i>. p.&nbsp;31. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F978-3-642-53994-7_2">10.1007/978-3-642-53994-7_2</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-3-642-53993-0" title="Special:BookSources/978-3-642-53993-0">978-3-642-53993-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Dog+Breeds+and+Their+Behavior&amp;rft.btitle=Domestic+Dog+Cognition+and+Behavior&amp;rft.pages=31&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-642-53994-7_2&amp;rft.isbn=978-3-642-53993-0&amp;rft.aulast=Serpell&amp;rft.aufirst=James+A.&amp;rft.au=Duffy%2C+Deborah+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-{{ISBN|0764573020}}-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-{{ISBN|0764573020}}_16-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Donna L. Morden; Seranne, Ann; Wendell J. Sammet; Gasow, Julia (2004). <i>The joy of breeding your own show dog</i>. New York, N.Y: Howell Book House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7645-7302-6" title="Special:BookSources/978-0-7645-7302-6">978-0-7645-7302-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+joy+of+breeding+your+own+show+dog&amp;rft.place=New+York%2C+N.Y&amp;rft.pub=Howell+Book+House&amp;rft.date=2004&amp;rft.isbn=978-0-7645-7302-6&amp;rft.au=Donna+L.+Morden&amp;rft.au=Seranne%2C+Ann&amp;rft.au=Wendell+J.+Sammet&amp;rft.au=Gasow%2C+Julia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Lynn Marmer (1984). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20000926031554/http://www.grapevine.net/~wolf2dog/review.htm">"The New Breed Of Municipal Dog Control Laws:Are They Constitutional?"</a>. <i>first published in the University of Cincinnati Law Review</i>. Archived from <a rel="nofollow" class="external text" href="http://www.grapevine.net/~wolf2dog/review.htm">the original</a> on 2000-09-26<span class="reference-accessdate">. Retrieved <span class="nowrap">13 December</span> 2013</span>. <q>The court found it was impossible to identify the breed of an unregistered dog.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=first+published+in+the+University+of+Cincinnati+Law+Review&amp;rft.atitle=The+New+Breed+Of+Municipal+Dog+Control+Laws%3AAre+They+Constitutional%3F&amp;rft.date=1984&amp;rft.au=Lynn+Marmer&amp;rft_id=http%3A%2F%2Fwww.grapevine.net%2F~wolf2dog%2Freview.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nzkc.org.nz/pdf/breed_groups/working_standard.pdf">"Standards of the Breeds: Group 5 – Working"</a> <span class="cs1-format">(PDF)</span>. New Zealand Kennel Club.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standards+of+the+Breeds%3A+Group+5+%E2%80%93+Working&amp;rft.pub=New+Zealand+Kennel+Club&amp;rft_id=http%3A%2F%2Fwww.nzkc.org.nz%2Fpdf%2Fbreed_groups%2Fworking_standard.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-Budiansky-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Budiansky_19-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Budiansky", Stephen (2000). <i>The Truth About Dogs; an Inquiry into the Ancestry, Social Conventions, Mental Habits, and Moral Fiber of Canis familiaris</i>. New York, U.S.A.: Viking Penguin. p.&nbsp;35. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-670-89272-3" title="Special:BookSources/978-0-670-89272-3">978-0-670-89272-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Truth+About+Dogs%3B+an+Inquiry+into+the+Ancestry%2C+Social+Conventions%2C+Mental+Habits%2C+and+Moral+Fiber+of+Canis+familiaris&amp;rft.place=New+York%2C+U.S.A.&amp;rft.pages=35&amp;rft.pub=Viking+Penguin&amp;rft.date=2000&amp;rft.isbn=978-0-670-89272-3&amp;rft.aulast=Budiansky%22&amp;rft.aufirst=Stephen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-ab1634-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-ab1634_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091025165548/http://info.sen.ca.gov/pub/07-08/bill/asm/ab_1601-1650/ab_1634_bill_20070531_amended_asm_v94.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://info.sen.ca.gov/pub/07-08/bill/asm/ab_1601-1650/ab_1634_bill_20070531_amended_asm_v94.html">the original</a> on 25 October 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Finfo.sen.ca.gov%2Fpub%2F07-08%2Fbill%2Fasm%2Fab_1601-1650%2Fab_1634_bill_20070531_amended_asm_v94.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>)</span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.akc.org/canine_legislation/CA_action_center.cfm">http://www.akc.org/canine_legislation/CA_action_center.cfm</a></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120726205721/http://laws-lois.justice.gc.ca/eng/acts/A-11.2/FullText.html">"Animal Pedigree Act 1985"</a>. <i>Department of Justice, Canada</i>. Archived from <a rel="nofollow" class="external text" href="http://laws-lois.justice.gc.ca/eng/acts/a-11.2/FullText.html">the original</a> on 26 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">9 April</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Department+of+Justice%2C+Canada&amp;rft.atitle=Animal+Pedigree+Act+1985&amp;rft_id=http%3A%2F%2Flaws-lois.justice.gc.ca%2Feng%2Facts%2Fa-11.2%2FFullText.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.akc.org/about/glossary.cfm">American Kennel Club Glossary</a></span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Egenvall, A.; Hedhammar, A.; Bonnett, B. N.; Olson, P. (2000-04-29). <a rel="nofollow" class="external text" href="http://veterinaryrecord.bmj.com/content/146/18/519">"Gender, age, breed and distribution of morbidity and mortality in insured dogs in Sweden during 1995 and 1996"</a>. <i>Veterinary Record</i>. <b>146</b> (18): 519–525. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1136%2Fvr.146.18.519">10.1136/vr.146.18.519</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2042-7670">2042-7670</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11321213">11321213</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Veterinary+Record&amp;rft.atitle=Gender%2C+age%2C+breed+and+distribution+of+morbidity+and+mortality+in+insured+dogs+in+Sweden+during+1995+and+1996&amp;rft.volume=146&amp;rft.issue=18&amp;rft.pages=519-525&amp;rft.date=2000-04-29&amp;rft.issn=2042-7670&amp;rft_id=info%3Apmid%2F11321213&amp;rft_id=info%3Adoi%2F10.1136%2Fvr.146.18.519&amp;rft.aulast=Egenvall&amp;rft.aufirst=A.&amp;rft.au=Hedhammar%2C+A.&amp;rft.au=Bonnett%2C+B.+N.&amp;rft.au=Olson%2C+P.&amp;rft_id=http%3A%2F%2Fveterinaryrecord.bmj.com%2Fcontent%2F146%2F18%2F519&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bonnett, B. N.; Egenvall, A.; Olson, P.; Hedhammar, Å (1997-07-12). <a rel="nofollow" class="external text" href="http://veterinaryrecord.bmj.com/content/141/2/40">"Mortality in insured Swedish dogs: rates and causes of death in various breeds"</a>. <i>Veterinary Record</i>. <b>141</b> (2): 40–44. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1136%2Fvr.141.2.40">10.1136/vr.141.2.40</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2042-7670">2042-7670</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9253830">9253830</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Veterinary+Record&amp;rft.atitle=Mortality+in+insured+Swedish+dogs%3A+rates+and+causes+of+death+in+various+breeds&amp;rft.volume=141&amp;rft.issue=2&amp;rft.pages=40-44&amp;rft.date=1997-07-12&amp;rft.issn=2042-7670&amp;rft_id=info%3Apmid%2F9253830&amp;rft_id=info%3Adoi%2F10.1136%2Fvr.141.2.40&amp;rft.aulast=Bonnett&amp;rft.aufirst=B.+N.&amp;rft.au=Egenvall%2C+A.&amp;rft.au=Olson%2C+P.&amp;rft.au=Hedhammar%2C+%C3%85&amp;rft_id=http%3A%2F%2Fveterinaryrecord.bmj.com%2Fcontent%2F141%2F2%2F40&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Proschowsky, Helle Friis; Rugbjerg, Helene; Ersbøll, Annette Kjær (2003-04-30). "Mortality of purebred and mixed-breed dogs in Denmark". <i>Preventive Veterinary Medicine</i>. <b>58</b> (1–2): 63–74. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0167-5877%2803%2900010-2">10.1016/S0167-5877(03)00010-2</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12628771">12628771</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Preventive+Veterinary+Medicine&amp;rft.atitle=Mortality+of+purebred+and+mixed-breed+dogs+in+Denmark&amp;rft.volume=58&amp;rft.issue=1%E2%80%932&amp;rft.pages=63-74&amp;rft.date=2003-04-30&amp;rft_id=info%3Adoi%2F10.1016%2FS0167-5877%2803%2900010-2&amp;rft_id=info%3Apmid%2F12628771&amp;rft.aulast=Proschowsky&amp;rft.aufirst=Helle+Friis&amp;rft.au=Rugbjerg%2C+Helene&amp;rft.au=Ersb%C3%B8ll%2C+Annette+Kj%C3%A6r&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">O’Neill, D. G.; Church, D. B.; McGreevy, P. D.; Thomson, P. C.; Brodbelt, D. C. (2013-12-01). "Longevity and mortality of owned dogs in England". <i>The Veterinary Journal</i>. <b>198</b> (3): 638–643. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.tvjl.2013.09.020">10.1016/j.tvjl.2013.09.020</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24206631">24206631</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Veterinary+Journal&amp;rft.atitle=Longevity+and+mortality+of+owned+dogs+in+England&amp;rft.volume=198&amp;rft.issue=3&amp;rft.pages=638-643&amp;rft.date=2013-12-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tvjl.2013.09.020&amp;rft_id=info%3Apmid%2F24206631&amp;rft.aulast=O%E2%80%99Neill&amp;rft.aufirst=D.+G.&amp;rft.au=Church%2C+D.+B.&amp;rft.au=McGreevy%2C+P.+D.&amp;rft.au=Thomson%2C+P.+C.&amp;rft.au=Brodbelt%2C+D.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Patronek, Gary J.; Waters, David J.; Glickman, Lawrence T. (1997-05-01). <a rel="nofollow" class="external text" href="http://biomedgerontology.oxfordjournals.org/content/52A/3/B171">"Comparative Longevity of Pet Dogs and Humans: Implications for Gerontology Research"</a>. <i>The Journals of Gerontology Series A: Biological Sciences and Medical Sciences</i>. <b>52A</b> (3): B171–B178. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fgerona%2F52A.3.B171">10.1093/gerona/52A.3.B171</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1079-5006">1079-5006</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9158552">9158552</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journals+of+Gerontology+Series+A%3A+Biological+Sciences+and+Medical+Sciences&amp;rft.atitle=Comparative+Longevity+of+Pet+Dogs+and+Humans%3A+Implications+for+Gerontology+Research&amp;rft.volume=52A&amp;rft.issue=3&amp;rft.pages=B171-B178&amp;rft.date=1997-05-01&amp;rft.issn=1079-5006&amp;rft_id=info%3Apmid%2F9158552&amp;rft_id=info%3Adoi%2F10.1093%2Fgerona%2F52A.3.B171&amp;rft.aulast=Patronek&amp;rft.aufirst=Gary+J.&amp;rft.au=Waters%2C+David+J.&amp;rft.au=Glickman%2C+Lawrence+T.&amp;rft_id=http%3A%2F%2Fbiomedgerontology.oxfordjournals.org%2Fcontent%2F52A%2F3%2FB171&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/video_and_audio/headlines/37427887">How fashion has left this dog gasping for air</a></span> </li> 
+        <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-37423040">Vets warn people against buying 'flat-faced' dogs</a></span> </li> 
+        <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oxforddictionaries.com/definition/english/cross-breed">"cross-breed"</a>. <i>Oxford Dictionaries</i>. Oxford University Press. 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Dictionaries&amp;rft.atitle=cross-breed&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fwww.oxforddictionaries.com%2Fdefinition%2Fenglish%2Fcross-breed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-Ultimate_Morris-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ultimate_Morris_32-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Morris, Desmond (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=IjG-LAAACAAJ">"Feral dogs"</a>. <i>Dogs: The Ultimate Dictionary of over 1,000 Dog Breeds</i> (First Paperback ed.). Vermont: Tralfalgar Square. pp.&nbsp;696–697. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-57076-410-3" title="Special:BookSources/978-1-57076-410-3">978-1-57076-410-3</a>. <q>The mongrel is not a true breed, but it is certainly a common category of domestic dog. It has been estimated that, worldwide, there are 150 million of them."</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Feral+dogs&amp;rft.btitle=Dogs%3A+The+Ultimate+Dictionary+of+over+1%2C000+Dog+Breeds&amp;rft.place=Vermont&amp;rft.pages=696-697&amp;rft.edition=First+Paperback&amp;rft.pub=Tralfalgar+Square&amp;rft.date=2008&amp;rft.isbn=978-1-57076-410-3&amp;rft.aulast=Morris&amp;rft.aufirst=Desmond&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIjG-LAAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation book">Sponenberg, D. Phillip (May 18, 2000). <a rel="nofollow" class="external text" href="//Books.Google.com/books?id=ZL3A097IbjsC&amp;pg=PA392&amp;lpg=PA392&amp;dq=Landrace+horses&amp;source=bl&amp;ots=IxGH0a6BAx&amp;sig=t-exz-Aywo4Xfe8qgaRBgS3_JMM&amp;hl=en&amp;sa=X&amp;ei=u3hcUY-LNoSbiALs2YD4CQ&amp;ved=0CFsQ6AEwCQ#v=onepage&amp;q=Landrace%20horses&amp;f=false">"Genetic Resources and Their Conservation"</a>. In Bowling, Ann T.; Ruvinsky, Anatoly. <i>The Genetics of the Horse</i>. Wallingford, Oxfordshire, UK: CABI Publishing. pp.&nbsp;392–393. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-85199-429-1" title="Special:BookSources/978-0-85199-429-1">978-0-85199-429-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 28,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Genetic+Resources+and+Their+Conservation&amp;rft.btitle=The+Genetics+of+the+Horse&amp;rft.place=Wallingford%2C+Oxfordshire%2C+UK&amp;rft.pages=392-393&amp;rft.pub=CABI+Publishing&amp;rft.date=2000-05-18&amp;rft.isbn=978-0-85199-429-1&amp;rft.aulast=Sponenberg&amp;rft.aufirst=D.+Phillip&amp;rft_id=%2F%2FBooks.Google.com%2Fbooks%3Fid%3DZL3A097IbjsC%26pg%3DPA392%26lpg%3DPA392%26dq%3DLandrace%2Bhorses%26source%3Dbl%26ots%3DIxGH0a6BAx%26sig%3Dt-exz-Aywo4Xfe8qgaRBgS3_JMM%26hl%3Den%26sa%3DX%26ei%3Du3hcUY-LNoSbiALs2YD4CQ%26ved%3D0CFsQ6AEwCQ%23v%3Donepage%26q%3DLandrace%2520horses%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Coppinger, Raymond &amp; Lorna Coppinger. <i>Dogs</i>. Scribner 2001, 
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-684-85530-5" title="Special:BookSources/0-684-85530-5">0-684-85530-5</a>, Chapter 3, "Natural Breeds", p. 85. "Natural breeds can arise locally with no human interaction"</span> </li> 
+        <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web">Rorem, Linda. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131203122640/http://www.herdingontheweb.com/dogs.htm">"Herding Dog Breeds - Stockdog breeds"</a>. <i>Herding on the Web</i>. Archived from <a rel="nofollow" class="external text" href="http://www.herdingontheweb.com/dogs.htm">the original</a> on 3 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Herding+on+the+Web&amp;rft.atitle=Herding+Dog+Breeds+-+Stockdog+breeds&amp;rft.aulast=Rorem&amp;rft.aufirst=Linda&amp;rft_id=http%3A%2F%2Fwww.herdingontheweb.com%2Fdogs.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=21" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><cite class="citation encyclopaedia">Alderton, David (September 2008). <i>Encyclopedia of Dogs</i> (Hardcover). Bath: Parragon Inc. p.&nbsp;384. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1407524382" title="Special:BookSources/978-1407524382">978-1407524382</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Dogs&amp;rft.place=Bath&amp;rft.pages=384&amp;rft.pub=Parragon+Inc&amp;rft.date=2008-09&amp;rft.isbn=978-1407524382&amp;rft.aulast=Alderton&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+       <li><cite class="citation encyclopaedia">Coile, D. Caroline (April 1, 2005). <i>Encyclopedia of Dog Breeds: Profiles of More than 150 Breeds</i> (2nd ed.). Barron's Educational Series, Incorporated. p.&nbsp;368. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780764157004" title="Special:BookSources/9780764157004">9780764157004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Dog+Breeds%3A+Profiles+of+More+than+150+Breeds&amp;rft.pages=368&amp;rft.edition=2nd&amp;rft.pub=Barron%27s+Educational+Series%2C+Incorporated&amp;rft.date=2005-04-01&amp;rft.isbn=9780764157004&amp;rft.aulast=Coile&amp;rft.aufirst=D.+Caroline&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+       <li><cite class="citation encyclopaedia">De Prisco, Andrew; Johnson, James B. (1993). <i>Canine Lexicon</i>. T. F. H. Publications. p.&nbsp;886. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-3-929545-60-9" title="Special:BookSources/978-3-929545-60-9">978-3-929545-60-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Canine+Lexicon&amp;rft.pages=886&amp;rft.pub=T.+F.+H.+Publications&amp;rft.date=1993&amp;rft.isbn=978-3-929545-60-9&amp;rft.aulast=De+Prisco&amp;rft.aufirst=Andrew&amp;rft.au=Johnson%2C+James+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+       <li><cite class="citation book">Kister, Kenneth F. (1994). <i>Kister's Best Encyclopedias</i> (2nd ed.). Phoenix: Oryx. pp.&nbsp;329–330. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-89774-744-8" title="Special:BookSources/978-0-89774-744-8">978-0-89774-744-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kister%27s+Best+Encyclopedias&amp;rft.place=Phoenix&amp;rft.pages=329-330&amp;rft.edition=2nd&amp;rft.pub=Oryx&amp;rft.date=1994&amp;rft.isbn=978-0-89774-744-8&amp;rft.aulast=Kister&amp;rft.aufirst=Kenneth+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+       <li><cite class="citation encyclopaedia">De Vito, Dominique (September 1, 2005). <i>World Atlas of Dog Breeds</i> (Print) (6th ed.). Neptune City, NJ Lanham, MD: TFH Publications, Inc. Distributed in the U.S. to the Bookstore and library trade by National Book Network. p.&nbsp;960. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0793806560" title="Special:BookSources/978-0793806560">978-0793806560</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=World+Atlas+of+Dog+Breeds&amp;rft.place=Neptune+City%2C+NJ+Lanham%2C+MD&amp;rft.pages=960&amp;rft.edition=6th&amp;rft.pub=TFH+Publications%2C+Inc.+Distributed+in+the+U.S.+to+the+Bookstore+and+library+trade+by+National+Book+Network&amp;rft.date=2005-09-01&amp;rft.isbn=978-0793806560&amp;rft.aulast=De+Vito&amp;rft.aufirst=Dominique&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+       <li><cite class="citation encyclopaedia">DK Publishing (July 15, 2013). <i>The Dog Encyclopedia</i> (Hardcover) (1st ed.). DK Adult. p.&nbsp;360. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1465408440" title="Special:BookSources/978-1465408440">978-1465408440</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Dog+Encyclopedia&amp;rft.pages=360&amp;rft.edition=1st&amp;rft.pub=DK+Adult&amp;rft.date=2013-07-15&amp;rft.isbn=978-1465408440&amp;rft.au=DK+Publishing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+       <li><cite class="citation encyclopaedia">Wilcox, Bonnie; Walkowicz, Chris (March 1995). <i>Atlas of Dog Breeds of the World</i> (Print) (5th ed.). Neptune City, NJ Lanham, MD: TFH Publications, Inc. Distributed in the U.S. to the Bookstore and library trade by National Book Network. p.&nbsp;912. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0793812844" title="Special:BookSources/978-0793812844">978-0793812844</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Atlas+of+Dog+Breeds+of+the+World&amp;rft.place=Neptune+City%2C+NJ+Lanham%2C+MD&amp;rft.pages=912&amp;rft.edition=5th&amp;rft.pub=TFH+Publications%2C+Inc.+Distributed+in+the+U.S.+to+the+Bookstore+and+library+trade+by+National+Book+Network&amp;rft.date=1995-03&amp;rft.isbn=978-0793812844&amp;rft.aulast=Wilcox&amp;rft.aufirst=Bonnie&amp;rft.au=Walkowicz%2C+Chris&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADog+breed" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+      </ul> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dog_breed&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.fci.be/nomenclature.aspx">Fédération Cynologique Internationale breeds nomenclature</a>, lists 339 dog breeds in 78 groups</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Dogs" style="padding:3px">
+       <table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background:#c3b091;">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Domestic_dog" title="Template:Domestic dog"><abbr title="View this template" style=";background:#c3b091;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Domestic_dog" title="Template talk:Domestic dog"><abbr title="Discuss this template" style=";background:#c3b091;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Domestic_dog&amp;action=edit"><abbr title="Edit this template" style=";background:#c3b091;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Dogs" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Dog" title="Dog">Dogs</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;"><a href="/wiki/Dog_behavior" title="Dog behavior">Behavior</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bark_(sound)" title="Bark (sound)">Barking</a></li> 
+             <li><a href="/wiki/Dog_communication" title="Dog communication">Communication</a></li> 
+             <li><a href="/wiki/Emotion_in_animals#Dogs" title="Emotion in animals">Emotions</a></li> 
+             <li><a href="/wiki/Human-canine_bond" class="mw-redirect" title="Human-canine bond">Human-canine bond</a></li> 
+             <li><a href="/wiki/Dog_intelligence" title="Dog intelligence">Intelligence</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;"><a href="/wiki/Dog_health" title="Dog health">Health</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Aging_in_dogs" title="Aging in dogs">Aging</a></li> 
+             <li><a href="/wiki/Dog_anatomy" title="Dog anatomy">Anatomy</a></li> 
+             <li><a href="/wiki/Coat_(dog)" title="Coat (dog)">Coat</a></li> 
+             <li><a href="/wiki/List_of_dog_diseases" title="List of dog diseases">Diseases</a></li> 
+             <li><a href="/wiki/Dog_food" title="Dog food">Dog food</a></li> 
+             <li><a href="/wiki/Dog_odor" title="Dog odor">Odor</a></li> 
+             <li><a href="/wiki/Rabies" title="Rabies">Rabies</a></li> 
+             <li><a href="/wiki/Canine_reproduction" title="Canine reproduction">Reproduction</a></li> 
+             <li><a href="/wiki/Dog_skin_disorders" title="Dog skin disorders">Skin disorders</a></li> 
+             <li><a href="/wiki/Vaccination_of_dogs" title="Vaccination of dogs">Vaccination</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;"><a href="/wiki/Dog_training" title="Dog training">Training</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Clicker_training" title="Clicker training">Clicker</a></li> 
+             <li><a href="/wiki/Crate_training" title="Crate training">Crate training</a></li> 
+             <li><a href="/wiki/Dog_training" title="Dog training">Training</a></li> 
+             <li><a href="/wiki/Housebreaking" title="Housebreaking">Housebreaking</a></li> 
+             <li><a href="/wiki/Obedience_training" title="Obedience training">Obedience</a></li> 
+             <li><a href="/wiki/Socialization_of_animals" title="Socialization of animals">Socialization</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;"><a href="/wiki/Dog_type" title="Dog type">Types</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bandog" title="Bandog">Bandogs</a></li> 
+             <li><a href="/wiki/Bay_dog" title="Bay dog">Bay dogs</a></li> 
+             <li><a href="/wiki/Catch_dog" title="Catch dog">Catch dogs</a></li> 
+             <li><a href="/wiki/Companion_dog" title="Companion dog">Companion dogs</a></li> 
+             <li><a href="/wiki/Coonhound" title="Coonhound">Coonhounds</a></li> 
+             <li><a href="/wiki/Crossbred_dog" class="mw-redirect" title="Crossbred dog">Crossbred dogs</a></li> 
+             <li><a href="/wiki/Cur" title="Cur">Curs</a></li> 
+             <li><a href="/wiki/Dogo_(dog_type)" title="Dogo (dog type)">Dogos</a></li> 
+             <li><a href="/wiki/Canadian_Eskimo_Dog" title="Canadian Eskimo Dog">Eskimo dogs</a></li> 
+             <li><a href="/wiki/Feist_(dog)" title="Feist (dog)">Feists</a></li> 
+             <li><a href="/wiki/Feral_dog" class="mw-redirect" title="Feral dog">Feral dogs</a></li> 
+             <li><a href="/wiki/List_of_dog_fighting_breeds" title="List of dog fighting breeds">Fighting dogs</a></li> 
+             <li><a href="/wiki/Guard_dog" title="Guard dog">Guard dogs</a></li> 
+             <li><a href="/wiki/Gun_dog" title="Gun dog">Gun dogs</a> 
+              <ul>
+               <li><a href="/wiki/Pointing_breed" class="mw-redirect" title="Pointing breed">Pointers</a></li> 
+               <li><a href="/wiki/Retriever" title="Retriever">Retrievers</a></li> 
+               <li><a href="/wiki/Setter" title="Setter">Setters</a></li> 
+               <li><a href="/wiki/Water_dog" title="Water dog">Water dogs</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Hairless_dog" title="Hairless dog">Hairless dogs</a></li> 
+             <li><a href="/wiki/Herding_dog" title="Herding dog">Herding dogs</a></li> 
+             <li><a href="/wiki/Hound" title="Hound">Hounds</a> 
+              <ul>
+               <li><a href="/wiki/Scent_hound" title="Scent hound">Scenthounds</a></li> 
+               <li><a href="/wiki/Sighthound" title="Sighthound">Sighthounds</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Laika_(dog_breed)" title="Laika (dog breed)">Laika</a></li> 
+             <li><a href="/wiki/Lap_dog" title="Lap dog">Lap dogs</a></li> 
+             <li><a href="/wiki/Livestock_guardian_dog" title="Livestock guardian dog">Livestock guardian dogs</a></li> 
+             <li><a href="/wiki/Mongrel" title="Mongrel">Mongrels</a></li> 
+             <li><a href="/wiki/Mountain_dog" title="Mountain dog">Mountain dogs</a></li> 
+             <li><a href="/wiki/Molosser" title="Molosser">Molossers</a></li> 
+             <li><a href="/wiki/Meat_dog" class="mw-redirect" title="Meat dog">Meat dogs</a></li> 
+             <li><a href="/wiki/Pastoral_dog" title="Pastoral dog">Pastoral dogs</a></li> 
+             <li><a href="/wiki/Pinscher" title="Pinscher">Pinschers</a></li> 
+             <li><a href="/wiki/Pit_bull" title="Pit bull">Pit bulls</a></li> 
+             <li><a href="/wiki/Purebred_dog" title="Purebred dog">Purebred dogs</a></li> 
+             <li><a href="/wiki/Sled_dog" title="Sled dog">Sled dogs</a></li> 
+             <li><a href="/wiki/Schnauzer" title="Schnauzer">Schnauzers</a></li> 
+             <li><a href="/wiki/Spaniel" title="Spaniel">Spaniels</a></li> 
+             <li><a href="/wiki/Spitz" title="Spitz">Spitz</a></li> 
+             <li><a href="/wiki/Street_dog" title="Street dog">Street dogs</a></li> 
+             <li><a href="/wiki/Terrier" title="Terrier">Terriers</a></li> 
+             <li><a href="/wiki/Turnspit_dog" title="Turnspit dog">Turnspit dogs</a></li> 
+             <li><a href="/wiki/African_village_dog" title="African village dog">Village dogs</a></li> 
+             <li><a href="/wiki/True_wild_dog" class="mw-redirect" title="True wild dog">Wild dogs</a></li> 
+             <li><a href="/wiki/Wolfdog" title="Wolfdog">Wolfdogs</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;"><a class="mw-selflink selflink">Breeds</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_dog_breeds" title="List of dog breeds">List of breeds</a></li> 
+             <li><a href="/wiki/List_of_dog_crossbreeds" title="List of dog crossbreeds">List of crossbreeds</a></li> 
+             <li><a href="/wiki/Dog_type" title="Dog type">Breed groups</a></li> 
+             <li><a href="/wiki/Dog_breeding" title="Dog breeding">Breeding</a></li> 
+             <li><a href="/wiki/Conformation_(dog)" title="Conformation (dog)">Conformation</a></li> 
+             <li><a href="/wiki/Dog_crossbreed" title="Dog crossbreed">Crossbreeds</a></li> 
+             <li><a href="/wiki/List_of_extinct_dog_breeds" title="List of extinct dog breeds">Extinct breeds</a></li> 
+             <li><a href="/wiki/List_of_most_popular_dog_breeds" title="List of most popular dog breeds">Most popular</a></li> 
+             <li><a href="/wiki/Purebred_dog" title="Purebred dog">Purebred</a></li> 
+             <li><a href="/wiki/Rare_dog_breed" title="Rare dog breed">Rare breeds</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;"><a href="/wiki/Working_dog" title="Working dog">Work</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Assistance_dog" title="Assistance dog">Assistance dog</a></li> 
+             <li><a href="/wiki/Attack_dog" title="Attack dog">Attack dog</a></li> 
+             <li><a href="/wiki/Detection_dog" title="Detection dog">Detection dog</a></li> 
+             <li><a href="/wiki/Guard_dog" title="Guard dog">Guard dog</a></li> 
+             <li><a href="/wiki/Guide_dog" title="Guide dog">Guide dog</a></li> 
+             <li><a href="/wiki/Hearing_dog" title="Hearing dog">Hearing dog</a></li> 
+             <li><a href="/wiki/Herding_dog" title="Herding dog">Herding dog</a></li> 
+             <li><a href="/wiki/Hunting_dog" title="Hunting dog">Hunting dog</a></li> 
+             <li><a href="/wiki/Livestock_guardian_dog" title="Livestock guardian dog">Livestock guardian dog</a></li> 
+             <li><a href="/wiki/Pet" title="Pet">Pet dog</a></li> 
+             <li><a href="/wiki/Police_dog" title="Police dog">Police dog</a></li> 
+             <li><a href="/wiki/Search_and_rescue_dog" title="Search and rescue dog">Search and rescue dog</a></li> 
+             <li><a href="/wiki/Service_dog" title="Service dog">Service dog</a></li> 
+             <li><a href="/wiki/Sled_dog" title="Sled dog">Sled dog</a></li> 
+             <li><a href="/wiki/Therapy_dog" title="Therapy dog">Therapy dog</a></li> 
+             <li><a href="/wiki/Dogs_in_warfare" title="Dogs in warfare">War dog</a></li> 
+             <li><a href="/wiki/Working_group_(dogs)" class="mw-redirect" title="Working group (dogs)">Working group (dogs)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em; background:#d3bf9d;">Human–dog<br>interaction</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Animal_testing_on_dogs" class="mw-redirect" title="Animal testing on dogs">Animal testing</a></li> 
+             <li><a href="/wiki/Dog-baiting" title="Dog-baiting">Baiting</a></li> 
+             <li><a href="/wiki/Breed-specific_legislation" title="Breed-specific legislation">Breed-specific legislation</a></li> 
+             <li><a href="/wiki/Dog_attack" class="mw-redirect" title="Dog attack">Dog attack</a></li> 
+             <li><a href="/wiki/Dog_park" title="Dog park">Dog park</a></li> 
+             <li><a href="/wiki/Human-canine_bond" class="mw-redirect" title="Human-canine bond">Human-canine bond</a></li> 
+             <li><a href="/wiki/List_of_dog_sports" title="List of dog sports">Dog sports</a></li> 
+             <li><a href="/wiki/Dog_walking" title="Dog walking">Dog walking</a></li> 
+             <li><a href="/wiki/Dog_daycare" title="Dog daycare">Dog daycare</a></li> 
+             <li><a href="/wiki/Dog_grooming" title="Dog grooming">Dog grooming</a></li> 
+             <li><a href="/wiki/Famous_dog" class="mw-redirect" title="Famous dog">Famous dogs</a></li> 
+             <li><a href="/wiki/Therapy_dog" title="Therapy dog">Therapy</a></li> 
+             <li><a href="/wiki/Cynophobia" title="Cynophobia">Fear of dogs</a></li> 
+             <li><a href="/wiki/Dog_licence" title="Dog licence">Dog licence</a></li> 
+             <li><a href="/wiki/Dog_meat" title="Dog meat">Dog meat</a></li> 
+             <li><a href="/wiki/Dog_food" title="Dog food">Dog food</a> 
+              <ul>
+               <li><a href="/wiki/Dog_biscuit" title="Dog biscuit">dog biscuit</a></li> 
+               <li><a href="/wiki/2007_pet_food_recalls" title="2007 pet food recalls">2007 recalls</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Dogs_in_religion" title="Dogs in religion">Dogs in religion</a></li> 
+             <li><a href="/wiki/Origin_of_the_domestic_dog" title="Origin of the domestic dog">Origin of the domestic dog</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="background:#c3b091; font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Wikipedia:Books/Dog" class="mw-redirect" title="Wikipedia:Books/Dog">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Dogs" title="Category:Dogs">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Dogs" title="Portal:Dogs">Portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Pastoral_dogs" style="padding:3px">
+       <table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background:#CEDFF2;">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Pastoral_dogs" title="Template:Pastoral dogs"><abbr title="View this template" style=";background:#CEDFF2;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Pastoral_dogs" title="Template talk:Pastoral dogs"><abbr title="Discuss this template" style=";background:#CEDFF2;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pastoral_dogs&amp;action=edit"><abbr title="Edit this template" style=";background:#CEDFF2;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Pastoral_dogs" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Pastoral_dog" title="Pastoral dog">Pastoral dogs</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;background:#CEDFF2;"><a href="/wiki/Herding_dog" title="Herding dog">Herding and<br>droving dogs</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Australian_Cattle_Dog" title="Australian Cattle Dog">Australian Cattle Dog</a></li> 
+             <li><a href="/wiki/Australian_Kelpie" title="Australian Kelpie">Australian Kelpie</a></li> 
+             <li><a href="/wiki/Australian_Shepherd" title="Australian Shepherd">Australian Shepherd</a></li> 
+             <li><a href="/wiki/Australian_Stumpy_Tail_Cattle_Dog" title="Australian Stumpy Tail Cattle Dog">Australian Stumpy Tail Cattle Dog</a></li> 
+             <li><a href="/wiki/Basque_Shepherd_Dog" title="Basque Shepherd Dog">Basque Shepherd Dog</a></li> 
+             <li><a href="/wiki/Bearded_Collie" title="Bearded Collie">Bearded Collie</a></li> 
+             <li><a href="/wiki/Beauceron" title="Beauceron">Beauceron</a></li> 
+             <li><a href="/wiki/Bergamasco_Shepherd" title="Bergamasco Shepherd">Bergamasco Shepherd</a></li> 
+             <li><a href="/wiki/Berger_Blanc_Suisse" title="Berger Blanc Suisse">Berger Blanc Suisse</a></li> 
+             <li><a href="/wiki/Berger_Picard" title="Berger Picard">Berger Picard</a></li> 
+             <li><a href="/wiki/Blue_Lacy" title="Blue Lacy">Blue Lacy</a></li> 
+             <li><a href="/wiki/Bohemian_Shepherd" title="Bohemian Shepherd">Bohemian Shepherd</a></li> 
+             <li><a href="/wiki/Border_Collie" title="Border Collie">Border Collie</a></li> 
+             <li><a href="/wiki/Bouvier_des_Ardennes" title="Bouvier des Ardennes">Bouvier des Ardennes</a></li> 
+             <li><a href="/wiki/Bouvier_des_Flandres" title="Bouvier des Flandres">Bouvier des Flandres</a></li> 
+             <li><a href="/wiki/Briard" title="Briard">Briard</a></li> 
+             <li><a href="/wiki/Can_de_Chira" title="Can de Chira">Can de Chira</a></li> 
+             <li><a href="/wiki/C%C3%A3o_da_Serra_de_Aires" title="Cão da Serra de Aires">Cão da Serra de Aires</a></li> 
+             <li><a href="/wiki/Cardigan_Welsh_Corgi" title="Cardigan Welsh Corgi">Cardigan Welsh Corgi</a></li> 
+             <li><a href="/wiki/Carea_Castellano_Manchego" title="Carea Castellano Manchego">Carea Castellano Manchego</a></li> 
+             <li><a href="/wiki/Carea_Leon%C3%A9s" title="Carea Leonés">Carea Leonés</a></li> 
+             <li><a href="/wiki/Catahoula_bulldog" title="Catahoula bulldog">Catahoula bulldog</a></li> 
+             <li><a href="/wiki/Catalan_Sheepdog" title="Catalan Sheepdog">Catalan Sheepdog</a></li> 
+             <li><a href="/wiki/Rough_Collie" title="Rough Collie">Collie (Rough)</a></li> 
+             <li><a href="/wiki/Smooth_Collie" title="Smooth Collie">Collie (Smooth)</a></li> 
+             <li><a href="/wiki/Croatian_Sheepdog" title="Croatian Sheepdog">Croatian Sheepdog</a></li> 
+             <li><a href="/wiki/Cumberland_Sheepdog" title="Cumberland Sheepdog">Cumberland Sheepdog</a></li> 
+             <li><a href="/wiki/Dutch_Shepherd" title="Dutch Shepherd">Dutch Shepherd</a></li> 
+             <li><a href="/wiki/English_Shepherd" title="English Shepherd">English Shepherd</a></li> 
+             <li><a href="/wiki/Farm_collie" title="Farm collie">Farm collie</a></li> 
+             <li><a href="/wiki/Finnish_Lapphund" title="Finnish Lapphund">Finnish Lapphund</a></li> 
+             <li><a href="/wiki/Can_de_Palleiro" title="Can de Palleiro">Galician Palleiro</a></li> 
+             <li><a href="/wiki/Garafian_Shepherd" title="Garafian Shepherd">Garafian Shepherd</a></li> 
+             <li><a href="/wiki/German_Shepherd" title="German Shepherd">German Shepherd</a></li> 
+             <li><a href="/wiki/Groenendael_dog" title="Groenendael dog">Groenendael</a></li> 
+             <li><a href="/wiki/Huntaway" title="Huntaway">Huntaway</a></li> 
+             <li><a href="/wiki/Icelandic_Sheepdog" title="Icelandic Sheepdog">Icelandic Sheepdog</a></li> 
+             <li><a href="/wiki/King_Shepherd" title="King Shepherd">King Shepherd</a></li> 
+             <li><a href="/wiki/Koolie" title="Koolie">Koolie</a></li> 
+             <li><a href="/wiki/Laekenois_dog" title="Laekenois dog">Laekenois</a></li> 
+             <li><a href="/wiki/Lancashire_Heeler" title="Lancashire Heeler">Lancashire Heeler</a></li> 
+             <li><a href="/wiki/Lapponian_Herder" title="Lapponian Herder">Lapponian Herder</a></li> 
+             <li><a href="/wiki/Louisiana_Catahoula_Leopard_dog" title="Louisiana Catahoula Leopard dog">Louisiana Catahoula Leopard Dog</a></li> 
+             <li><a href="/wiki/Magellan_sheep_dog" title="Magellan sheep dog">Magellan sheep dog</a></li> 
+             <li><a href="/wiki/Malinois_dog" title="Malinois dog">Malinois</a></li> 
+             <li><a href="/wiki/McNab_dog" title="McNab dog">McNab dog</a></li> 
+             <li><a href="/wiki/Miniature_American_Shepherd" title="Miniature American Shepherd">Miniature American Shepherd</a></li> 
+             <li><a href="/wiki/Mudi" title="Mudi">Mudi</a></li> 
+             <li><a href="/wiki/New_Zealand_Heading_Dog" title="New Zealand Heading Dog">New Zealand Heading Dog</a></li> 
+             <li><a href="/wiki/Norwegian_Buhund" title="Norwegian Buhund">Norwegian Buhund</a></li> 
+             <li><a href="/wiki/Old_English_Sheepdog" title="Old English Sheepdog">Old English Sheepdog</a></li> 
+             <li><a href="/wiki/Old_German_herding_dogs" title="Old German herding dogs">Old German Herding Dogs (Altdeutsche)</a></li> 
+             <li><a href="/wiki/Old_Time_Farm_Shepherd" title="Old Time Farm Shepherd">Old Time Farm Shepherd</a></li> 
+             <li><a href="/wiki/Pastore_della_Lessinia_e_del_Lagorai" title="Pastore della Lessinia e del Lagorai">Pastore della Lessinia e del Lagorai</a></li> 
+             <li><a href="/wiki/Pembroke_Welsh_Corgi" title="Pembroke Welsh Corgi">Pembroke Welsh Corgi</a></li> 
+             <li><a href="/wiki/Polish_Lowland_Sheepdog" title="Polish Lowland Sheepdog">Polish Lowland Sheepdog</a></li> 
+             <li><a href="/wiki/Puli" title="Puli">Puli</a></li> 
+             <li><a href="/wiki/Pumi_dog" title="Pumi dog">Pumi</a></li> 
+             <li><a href="/wiki/Pyrenean_Shepherd" title="Pyrenean Shepherd">Pyrenean Shepherd</a></li> 
+             <li><a href="/wiki/Samoyed_dog" title="Samoyed dog">Samoyed</a></li> 
+             <li><a href="/wiki/Sardinian_Shepherd_Dog" title="Sardinian Shepherd Dog">Sardinian Shepherd Dog</a></li> 
+             <li><a href="/wiki/Schapendoes" title="Schapendoes">Schapendoes</a></li> 
+             <li><a href="/wiki/Schipperke" title="Schipperke">Schipperke</a></li> 
+             <li><a href="/wiki/Scotch_Collie" title="Scotch Collie">Scotch Collie</a></li> 
+             <li><a href="/wiki/Shetland_Sheepdog" title="Shetland Sheepdog">Shetland Sheepdog</a></li> 
+             <li><a href="/wiki/Smithfield_(dog)" title="Smithfield (dog)">Smithfield</a></li> 
+             <li><a href="/wiki/Spanish_Water_Dog" title="Spanish Water Dog">Spanish Water Dog</a></li> 
+             <li><a href="/wiki/Swedish_Lapphund" title="Swedish Lapphund">Swedish Lapphund</a></li> 
+             <li><a href="/wiki/Swedish_Vallhund" title="Swedish Vallhund">Swedish Vallhund</a></li> 
+             <li><a href="/wiki/Tervuren_dog" title="Tervuren dog">Tervuren</a></li> 
+             <li><a href="/wiki/Tibetan_Terrier" title="Tibetan Terrier">Tibetan Terrier</a></li> 
+             <li><a href="/wiki/Welsh_Sheepdog" title="Welsh Sheepdog">Welsh Sheepdog</a></li> 
+             <li><a href="/wiki/White_Shepherd" title="White Shepherd">White Shepherd</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;background:#CEDFF2;"><a href="/wiki/Livestock_guardian_dog" title="Livestock guardian dog">Livestock<br>guardian dogs</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Kuchi_dog" title="Kuchi dog">Afghan Shepherd</a></li> 
+             <li><a href="/wiki/Aidi" title="Aidi">Aidi</a></li> 
+             <li><a href="/wiki/Akbash" title="Akbash">Akbash</a></li> 
+             <li><a href="/wiki/Anatolian_Shepherd" title="Anatolian Shepherd">Anatolian Shepherd</a></li> 
+             <li><a href="/wiki/Armenian_Gampr_dog" title="Armenian Gampr dog">Armenian Gampr dog</a></li> 
+             <li><a href="/wiki/Appenzeller_Sennenhund" title="Appenzeller Sennenhund">Appenzeller Sennenhund</a></li> 
+             <li><a href="/wiki/Bernese_Mountain_Dog" title="Bernese Mountain Dog">Bernese Mountain Dog</a></li> 
+             <li><a href="/wiki/Bucovina_Shepherd_Dog" title="Bucovina Shepherd Dog">Bucovina Shepherd Dog</a></li> 
+             <li><a href="/wiki/C%C3%A3o_de_Castro_Laboreiro" title="Cão de Castro Laboreiro">Cão de Castro Laboreiro</a></li> 
+             <li><a href="/wiki/C%C3%A3o_de_Gado_Transmontano" title="Cão de Gado Transmontano">Cão de Gado Transmontano</a></li> 
+             <li><a href="/wiki/C%C3%A3o_Fila_de_S%C3%A3o_Miguel" title="Cão Fila de São Miguel">Cão Fila de São Miguel</a></li> 
+             <li><a href="/wiki/Carpathian_Shepherd_Dog" title="Carpathian Shepherd Dog">Carpathian Shepherd Dog</a></li> 
+             <li><a href="/wiki/Caucasian_Shepherd_Dog" title="Caucasian Shepherd Dog">Caucasian Shepherd Dog</a></li> 
+             <li><a href="/wiki/Central_Asian_Shepherd_Dog" title="Central Asian Shepherd Dog">Central Asian Shepherd Dog</a></li> 
+             <li><a href="/wiki/Entlebucher_Mountain_Dog" title="Entlebucher Mountain Dog">Entlebucher Mountain Dog</a></li> 
+             <li><a href="/wiki/Estrela_Mountain_Dog" title="Estrela Mountain Dog">Estrela Mountain Dog</a></li> 
+             <li><a href="/wiki/Gaddi_Kutta" title="Gaddi Kutta">Gaddi Kutta</a></li> 
+             <li><a href="/wiki/Georgian_Shepherd" title="Georgian Shepherd">Georgian Shepherd</a></li> 
+             <li><a href="/wiki/Great_Pyrenees" title="Great Pyrenees">Great Pyrenees</a></li> 
+             <li><a href="/wiki/Greater_Swiss_Mountain_Dog" title="Greater Swiss Mountain Dog">Greater Swiss Mountain Dog</a></li> 
+             <li><a href="/wiki/Greek_Shepherd" title="Greek Shepherd">Greek Shepherd</a></li> 
+             <li><a href="/wiki/Himalayan_Sheepdog" title="Himalayan Sheepdog">Himalayan Sheepdog</a></li> 
+             <li><a href="/wiki/Hovawart" title="Hovawart">Hovawart</a></li> 
+             <li><a href="/wiki/Kangal_Shepherd_Dog" title="Kangal Shepherd Dog">Kangal Shepherd Dog</a></li> 
+             <li><a href="/wiki/Karakachan_dog" title="Karakachan dog">Karakachan dog</a></li> 
+             <li><a href="/wiki/Karst_Shepherd" title="Karst Shepherd">Karst Shepherd</a></li> 
+             <li><a href="/wiki/Komondor" title="Komondor">Komondor</a></li> 
+             <li><a href="/wiki/Kumaon_Mastiff" title="Kumaon Mastiff">Kumaon Mastiff</a></li> 
+             <li><a href="/wiki/Kuvasz" title="Kuvasz">Kuvasz</a></li> 
+             <li><a href="/wiki/Landseer_dog" title="Landseer dog">Landseer</a></li> 
+             <li><a href="/wiki/Leonberger" title="Leonberger">Leonberger</a></li> 
+             <li><a href="/wiki/Maremma_Sheepdog" title="Maremma Sheepdog">Maremma Sheepdog</a></li> 
+             <li><span class="nowrap"><a href="/wiki/Moscow_Watchdog" title="Moscow Watchdog">Moscow Watchdog</a>?<sup>†</sup></span></li> 
+             <li><a href="/wiki/Mucuchies" title="Mucuchies">Mucuchies</a></li> 
+             <li><span class="nowrap"><a href="/wiki/Newfoundland_dog" title="Newfoundland dog">Newfoundland</a>?<sup>†</sup></span></li> 
+             <li><a href="/wiki/Majorca_Shepherd_Dog" title="Majorca Shepherd Dog">Perro de Pastor Mallorquin</a></li> 
+             <li><a href="/wiki/Perro_Majorero" title="Perro Majorero">Perro Majorero</a></li> 
+             <li><a href="/wiki/Polish_Tatra_Sheepdog" title="Polish Tatra Sheepdog">Polish Tatra Sheepdog</a></li> 
+             <li><a href="/wiki/Puli" title="Puli">Puli</a></li> 
+             <li><a href="/wiki/Pyrenean_Mastiff" title="Pyrenean Mastiff">Pyrenean Mastiff</a></li> 
+             <li><a href="/wiki/Rafeiro_do_Alentejo" title="Rafeiro do Alentejo">Rafeiro do Alentejo</a></li> 
+             <li><a href="/wiki/Romanian_Mioritic_Shepherd_Dog" title="Romanian Mioritic Shepherd Dog">Romanian Mioritic Shepherd Dog</a></li> 
+             <li><a href="/wiki/Romanian_Raven_Shepherd_Dog" title="Romanian Raven Shepherd Dog">Romanian Raven Shepherd Dog</a></li> 
+             <li><span class="nowrap"><a href="/wiki/St._Bernard_(dog)" title="St. Bernard (dog)">St Bernard</a>?<sup>†</sup></span></li> 
+             <li><a href="/wiki/%C5%A0arplaninac" title="Šarplaninac">Šarplaninac</a></li> 
+             <li><a href="/wiki/Slovak_Cuvac" title="Slovak Cuvac">Slovak Cuvac</a></li> 
+             <li><a href="/wiki/Spanish_Mastiff" title="Spanish Mastiff">Spanish Mastiff</a></li> 
+             <li><a href="/wiki/South_Russian_Ovcharka" title="South Russian Ovcharka">South Russian Ovcharka</a></li> 
+             <li><a href="/wiki/Tibetan_Mastiff" title="Tibetan Mastiff">Tibetan Mastiff</a></li> 
+             <li><a href="/wiki/Tornjak" title="Tornjak">Tornjak</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-size:smaller; background:#CEDFF2;">
+           <div> 
+            <ul>
+             <li>Key: <b>†</b> = Descended from and closely related to <a href="/wiki/Livestock_guardian_dog" title="Livestock guardian dog">livestock guardian dogs</a>, but traditionally used in other roles</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q39367&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q39367&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q39367" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4113973-2">4113973-2</a></span></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20190307134019
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.788 seconds
+Real time usage: 0.955 seconds
+Preprocessor visited node count: 2806/1000000
+Preprocessor generated node count: 0/1500000
+Post?expand include size: 146682/2097152 bytes
+Template argument size: 5261/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post?expand size: 122990/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.407/10.000 seconds
+Lua memory usage: 7.55 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  745.633      1 -total
+ 51.99%  387.653      1 Template:Reflist
+ 29.92%  223.130     10 Template:Clade
+ 28.12%  209.687     13 Template:Cite_journal
+ 11.51%   85.840      1 Template:Cladogram
+  6.51%   48.521      9 Template:Cite_book
+  5.71%   42.554      1 Template:ISBN
+  5.57%   41.533      5 Template:Convert
+  5.19%   38.709      1 Template:Use_dmy_dates
+  5.01%   37.345      6 Template:Cite_encyclopedia
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:79676-0!canonical and timestamp 20190307134018 and revision id 884856869
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dog_breed&amp;oldid=884856869">https://en.wikipedia.org/w/index.php?title=Dog_breed&amp;oldid=884856869</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Dog_breeds" title="Category:Dog breeds">Dog breeds</a></li>
+       <li><a href="/wiki/Category:Rare_breed_conservation" title="Category:Rare breed conservation">Rare breed conservation</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_December_2013" title="Category:Use dmy dates from December 2013">Use dmy dates from December 2013</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dog+breed" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dog+breed" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dog_breed" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Dog_breed" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dog_breed">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dog_breed&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dog_breed&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dog_breed" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dog_breed" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Dog_breed&amp;oldid=884856869" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Dog_breed&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q39367" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dog_breed&amp;id=884856869" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dog+breed">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dog+breed&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Dog_breed&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dog_breeds" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D8%A7%D9%84%D8%A9_%D9%83%D9%84%D8%A8" title="????? ??? – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">???????</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Raza_de_perru" title="Raza de perru – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ra%C3%A7a_de_gos" title="Raça de gos – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Plemena_ps%C5%AF" title="Plemena ps? – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">?eština</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hunderace" title="Hunderace – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hunderasse" title="Hunderasse – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Koerat%C3%B5ug" title="Koeratõug – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Raza_de_perro" title="Raza de perro – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/H%C3%BBneras" title="Hûneras – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ras_anjing" title="Ras anjing – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Hundategund" title="Hundategund – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%96%D7%A2%D7%99_%D7%9B%D7%9C%D7%91%D7%99%D7%9D" title="???? ????? – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">?????</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%A0un%C5%B3_veisli%C5%B3_klasifikacija" title="Šun? veisli? klasifikacija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvi?</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D1%83%D1%87%D0%B5%D1%88%D0%BA%D0%B0_%D1%80%D0%B0%D1%81%D0%B0" title="??????? ???? – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">??????????</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Baka_anjing" title="Baka anjing – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hondenras" title="Hondenras – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hunderase" title="Hunderase – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hunderasar" title="Hunderasar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Ra%C3%A7a_de_can" title="Raça de can – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rasy_psa" title="Rasy psa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B4%D1%8B_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA" title="?????? ????? – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">???????</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Pasme_psov" title="Pasme psov – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenš?ina</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Koirarotu" title="Koirarotu – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hundras" title="Hundras – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/K%C3%B6pek_%C4%B1rklar%C4%B1" title="Köpek ?rklar? – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8" title="?????? ?????? – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">??????????</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D8%AA%D9%88%DA%BA_%DA%A9%DB%8C_%D9%86%D8%B3%D9%84%DB%8C%DA%BA" title="???? ?? ????? – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">????</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Gi%E1%BB%91ng_ch%C3%B3" title="Gi?ng chó – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Ti?ng Vi?t</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8A%AC%E7%A8%AE" title="?? – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">??</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q39367#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 24 February 2019, at 13:22<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dog_breed&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.788","walltime":"0.955","ppvisitednodes":{"value":2806,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":146682,"limit":2097152},"templateargumentsize":{"value":5261,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":122990,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  745.633      1 -total"," 51.99%  387.653      1 Template:Reflist"," 29.92%  223.130     10 Template:Clade"," 28.12%  209.687     13 Template:Cite_journal"," 11.51%   85.840      1 Template:Cladogram","  6.51%   48.521      9 Template:Cite_book","  5.71%   42.554      1 Template:ISBN","  5.57%   41.533      5 Template:Convert","  5.19%   38.709      1 Template:Use_dmy_dates","  5.01%   37.345      6 Template:Cite_encyclopedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.407","limit":"10.000"},"limitreport-memusage":{"value":7919008,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20190307134019","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1273"});});</script>   
+ </body>
+</html>

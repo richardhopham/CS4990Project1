@@ -1,0 +1,692 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Before Present - Wikipedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Before_Present","wgTitle":"Before Present","wgCurRevisionId":886633149,"wgRevisionId":886633149,"wgArticleId":971107,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Calendar eras","Geochronology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Before_Present","wgRelevantArticleId":971107,"wgRequestId":"XIezqQpAAD8AAJRbPLQAAADL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q503142","wgScoreNoteLanguages":{"arabic":"???????","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.33.0-wmf.20"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Before_Present"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Before_Present&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Before_Present&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Before_Present"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Before_Present rootpage-Before_Present skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Before Present</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       "YBP" and "ybp" redirect here. For the airport with the IATA code YBP, see 
+       <a href="/wiki/Yibin_Caiba_Airport" title="Yibin Caiba Airport">Yibin Caiba Airport</a>.
+      </div> 
+      <p><b>Before Present</b> (<b>BP</b>) years is a <a href="/wiki/Geologic_time_scale" title="Geologic time scale">time scale</a> used mainly in <a href="/wiki/Archaeology" title="Archaeology">archaeology</a>, <a href="/wiki/Geology" title="Geology">geology</a> and other <a href="/wiki/Science" title="Science">scientific</a> disciplines to specify when events occurred in the past. Because the "present" time changes, standard practice is to use 1 January 1950 as the commencement date of the age scale, reflecting the origin of practical <a href="/wiki/Radiocarbon_dating" title="Radiocarbon dating">radiocarbon dating</a> in the 1950s. The abbreviation "BP" has alternatively been interpreted as "Before Physics";<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> that is, before <a href="/wiki/Nuclear_weapons_testing" title="Nuclear weapons testing">nuclear weapons testing</a> artificially altered the proportion of the <a href="/wiki/Isotopes_of_carbon" title="Isotopes of carbon">carbon isotopes</a> in the atmosphere, making dating after that time likely to be unreliable.<sup id="cite_ref-Taylor_2-0" class="reference"><a href="#cite_note-Taylor-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+      <p>In a convention that is not always observed, many sources restrict the use of BP dates to those produced with radiocarbon dating. </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Usage_of_&quot;BP&quot;"><span class="tocnumber">1</span> <span class="toctext">Usage of "BP"</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Radiocarbon_dating"><span class="tocnumber">2</span> <span class="toctext">Radiocarbon dating</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Radiocarbon_calibration"><span class="tocnumber">3</span> <span class="toctext">Radiocarbon calibration</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Other_dating_conventions"><span class="tocnumber">4</span> <span class="toctext">Other dating conventions</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id="Usage_of_.22BP.22"></span><span class="mw-headline" id="Usage_of_&quot;BP&quot;">Usage of "BP"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Before_Present&amp;action=edit&amp;section=1" title="Edit section: Usage of &quot;BP&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The BP scale is sometimes used for dates established by means other than radiocarbon dating, such as <a href="/wiki/Stratigraphy" title="Stratigraphy">stratigraphy</a>.<sup id="cite_ref-AGUStyle_4-0" class="reference"><a href="#cite_note-AGUStyle-4">[4]</a></sup><sup id="cite_ref-Strat_5-0" class="reference"><a href="#cite_note-Strat-5">[5]</a></sup> This usage differs with the recommendation by van der Plicht &amp; Hogg,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> followed by the <i>Quaternary Science Reviews</i>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> both of which requested that publications should use the unit "<a href="/wiki/Annum" class="mw-redirect" title="Annum">a</a>" for year and reserve the term "BP" for radiocarbon estimations. </p>
+      <p>Some <a href="/wiki/Archaeologist" class="mw-redirect" title="Archaeologist">archaeologists</a> use the lowercase letters <i>bp</i>, <i><a href="/wiki/Before_Christ" class="mw-redirect" title="Before Christ">bc</a></i> and <i><a href="/wiki/Anno_Domini" title="Anno Domini">ad</a></i> as terminology for uncalibrated dates for these eras.<sup id="cite_ref-Huth1994_9-0" class="reference"><a href="#cite_note-Huth1994-9">[9]</a></sup> </p>
+      <p>The Centre for Ice and Climate at the <a href="/wiki/University_of_Copenhagen" title="University of Copenhagen">University of Copenhagen</a> has proposed <b>"b2k"</b> as "years before AD 2000", based on the <a href="/w/index.php?title=Greenland_Ice_Core_Chronology_2005&amp;action=edit&amp;redlink=1" class="new" title="Greenland Ice Core Chronology 2005 (page does not exist)">Greenland Ice Core Chronology 2005</a> (GICC05) time scale.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Radiocarbon_dating">Radiocarbon dating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Before_Present&amp;action=edit&amp;section=2" title="Edit section: Radiocarbon dating">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Radiocarbon dating was first used in 1940. Beginning in 1954, <a href="/wiki/Metrologist" class="mw-redirect" title="Metrologist">metrologists</a> established 1950 as the origin year for the BP scale for use with <a href="/wiki/Radiocarbon_dating" title="Radiocarbon dating">radiocarbon dating</a>, using a 1950-based reference sample of <a href="/wiki/Oxalic_acid" title="Oxalic acid">oxalic acid</a>. According to scientist A. Currie Lloyd: </p> 
+      <style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style>
+      <blockquote class="templatequote">
+       <p>The problem was tackled by the international radiocarbon community in the late 1950s, in cooperation with the U.S. <a href="/wiki/National_Bureau_of_Standards" class="mw-redirect" title="National Bureau of Standards">National Bureau of Standards</a>. A large quantity of contemporary <a href="/wiki/Oxalic_acid" title="Oxalic acid">oxalic acid</a> <a href="/wiki/Dihydrate" class="mw-redirect" title="Dihydrate">dihydrate</a> was prepared as NBS Standard Reference Material (SRM) 4990B. Its <sup>14</sup>C concentration was about 5% above what was believed to be the natural level, so the standard for radiocarbon dating was defined as 0.95 times the <sup>14</sup>C concentration of this material, adjusted to a <sup>13</sup>C reference value of ?19 per mil (PDB). This value is defined as "modern carbon" referenced to AD 1950. Radiocarbon measurements are compared to this modern carbon value, and expressed as "fraction of modern" (fM). "Radiocarbon ages" are calculated from fM using the exponential decay relation and the "Libby half-life" 5568 a. The ages are expressed in years before present (BP) where "present" is defined as AD 1950.<sup id="cite_ref-Currie_11-0" class="reference"><a href="#cite_note-Currie-11">[11]</a></sup> </p>
+      </blockquote> 
+      <p>The year 1950 was chosen because it was the standard <a href="/wiki/Astronomical_epoch" class="mw-redirect" title="Astronomical epoch">astronomical epoch</a> at that time. It also marked<sup id="cite_ref-Taylor_2-1" class="reference"><a href="#cite_note-Taylor-2">[2]</a></sup> the publication of the first radiocarbon dates in December 1949,<sup id="cite_ref-Arnold_12-0" class="reference"><a href="#cite_note-Arnold-12">[12]</a></sup> and 1950 also antedates large scale <a href="/wiki/Nuclear_testing" class="mw-redirect" title="Nuclear testing">atmospheric testing of nuclear weapons</a>, which altered the global ratio of <a href="/wiki/Carbon-14" title="Carbon-14">carbon-14</a> to <a href="/wiki/Carbon-12" title="Carbon-12">carbon-12</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Radiocarbon_calibration">Radiocarbon calibration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Before_Present&amp;action=edit&amp;section=3" title="Edit section: Radiocarbon calibration">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Radiocarbon_dating#Calibration" title="Radiocarbon dating">Radiocarbon dating §&nbsp;Calibration</a>
+      </div> 
+      <p>Dates determined using radiocarbon dating come in two kinds: <i>uncalibrated</i> (also called <i>Libby</i> or <i>raw</i>) and <i>calibrated</i> (also called <i>Cambridge</i>) dates.<sup id="cite_ref-Archaeology_14-0" class="reference"><a href="#cite_note-Archaeology-14">[14]</a></sup> <i>Uncalibrated</i> radiocarbon dates should be clearly noted as such by "uncalibrated years BP", because they are not identical to calendar dates. This has to do with the fact that the level of atmospheric radiocarbon (<a href="/wiki/Carbon-14" title="Carbon-14">carbon-14</a> or <sup>14</sup>C) has not been strictly constant during the span of time that can be radiocarbon-dated. Uncalibrated radiocarbon ages can be converted to calendar dates by means of <a href="/wiki/Radiocarbon_dating#Calibration" title="Radiocarbon dating">calibration curves</a> based on comparison of raw radiocarbon dates of samples independently dated by other methods, such as <a href="/wiki/Dendrochronology" title="Dendrochronology">dendrochronology</a> (dating on the basis of tree growth-rings) and <a href="/wiki/Stratigraphy" title="Stratigraphy">stratigraphy</a> (dating on the basis of sediment layers in mud or sedimentary rock). Such calibrated dates are expressed as cal BP, where "cal" indicates "calibrated years", or "calendar years", before 1950. </p>
+      <p>Many scholarly/scientific journals require that published calibrated results be accompanied by the name (standard codes are used) of the laboratory concerned, and other information such as confidence levels, because of differences between the methods used by different laboratories and changes in calibrating methods. </p> 
+      <h2><span class="mw-headline" id="Other_dating_conventions">Other dating conventions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Before_Present&amp;action=edit&amp;section=4" title="Edit section: Other dating conventions">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a> <i>(AUC)</i></li> 
+       <li><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a> <i>(AD)</i></li> 
+       <li><a href="/wiki/After_the_Development_of_Agriculture" title="After the Development of Agriculture">After the Development of Agriculture</a> (ADA)</li> 
+       <li><a href="/wiki/Hijri_year" title="Hijri year">Anno Hegiri</a> <i>(AH)</i></li> 
+       <li><a href="/wiki/Anno_Mundi" title="Anno Mundi">Anno Mundi</a> <i>(AM)</i></li> 
+       <li><a href="/wiki/Before_Christ" class="mw-redirect" title="Before Christ">Before Christ</a> <i>(BC)</i></li> 
+       <li><a href="/wiki/Before_Common_Era" class="mw-redirect" title="Before Common Era">Before Common Era</a> or Before Current Era <i>(BCE)</i></li> 
+       <li><a href="/wiki/Common_Era" title="Common Era">Common Era</a> or Current Era <i>(CE)</i></li> 
+       <li><a href="/wiki/Cosmic_time" title="Cosmic time">Cosmic time</a></li> 
+       <li><a href="/wiki/Holocene_calendar" title="Holocene calendar">Holocene calendar</a> <i>(HE)</i></li> 
+       <li><a href="/wiki/Year#Abbreviations_yr_and_ya" title="Year">years ago</a> <i>(ya)</i></li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Before_Present&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Before_Present&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Flint, Richard Foster; Deevey, Edward S (1962). <a rel="nofollow" class="external text" href="https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/16458/16133">"Volume 4 – 1962"</a>. <i><a href="/wiki/Radiocarbon_(journal)" title="Radiocarbon (journal)">Radiocarbon</a></i>. <b>4</b> (1): i.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Radiocarbon&amp;rft.atitle=Volume+4+%E2%80%93+1962&amp;rft.volume=4&amp;rft.issue=1&amp;rft.pages=i&amp;rft.date=1962&amp;rft.aulast=Flint&amp;rft.aufirst=Richard+Foster&amp;rft.au=Deevey%2C+Edward+S&amp;rft_id=https%3A%2F%2Fjournals.uair.arizona.edu%2Findex.php%2Fradiocarbon%2Farticle%2Fview%2F16458%2F16133&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-Taylor-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Taylor_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Taylor_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Taylor RE (1985). "The beginnings of radiocarbon dating in American Antiquity: a historical perspective". <i>American Antiquity</i>. <b>50</b> (2): 309–325. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F280489">10.2307/280489</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Antiquity&amp;rft.atitle=The+beginnings+of+radiocarbon+dating+in+American+Antiquity%3A+a+historical+perspective&amp;rft.volume=50&amp;rft.issue=2&amp;rft.pages=309-325&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.2307%2F280489&amp;rft.au=Taylor+RE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Dincauze, Dena (2000). "Measuring time with isotopes and magnetism". <i>Environmental Archaeology: Principles and Practice</i>. Cambridge, England: Cambridge University Press. p.&nbsp;110. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-5213-1077-2" title="Special:BookSources/978-0-5213-1077-2">978-0-5213-1077-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Measuring+time+with+isotopes+and+magnetism&amp;rft.btitle=Environmental+Archaeology%3A+Principles+and+Practice&amp;rft.place=Cambridge%2C+England&amp;rft.pages=110&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2000&amp;rft.isbn=978-0-5213-1077-2&amp;rft.aulast=Dincauze&amp;rft.aufirst=Dena&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-AGUStyle-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AGUStyle_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080714134306/http://www.agu.org/pubs/style_guide_intro.html">"AGU Editorial Style Guide for Authors"</a>. American Geophysical Union. 21 September 2007. Archived from <a rel="nofollow" class="external text" href="http://www.agu.org/pubs/style_guide_intro.html">the original</a> on 2008-07-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AGU+Editorial+Style+Guide+for+Authors&amp;rft.pub=American+Geophysical+Union&amp;rft.date=2007-09-21&amp;rft_id=http%3A%2F%2Fwww.agu.org%2Fpubs%2Fstyle_guide_intro.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Strat-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Strat_5-0">^</a></b></span> <span class="reference-text"> <cite class="citation journal">North American Commission on Stratigraphic Nomenclature (November 2005). <a rel="nofollow" class="external text" href="http://ngmdb.usgs.gov/Info/NACSN/Code2/code2.html#Article13">"North American Stratigraphic Code: Article 13 (c)"</a>. <i>The American Association of Petroleum Geologists Bulletin</i>. <b>89</b> (11): 1547–1591. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1306%2F07050504129">10.1306/07050504129</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+American+Association+of+Petroleum+Geologists+Bulletin&amp;rft.atitle=North+American+Stratigraphic+Code%3A+Article+13+%28c%29&amp;rft.volume=89&amp;rft.issue=11&amp;rft.pages=1547-1591&amp;rft.date=2005-11&amp;rft_id=info%3Adoi%2F10.1306%2F07050504129&amp;rft.au=North+American+Commission+on+Stratigraphic+Nomenclature&amp;rft_id=http%3A%2F%2Fngmdb.usgs.gov%2FInfo%2FNACSN%2FCode2%2Fcode2.html%23Article13&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"> <cite class="citation journal">J. van der Plicht, A. Hogg (2006). "A note on reporting radiocarbon". <i><a href="/wiki/Quaternary_Geochronology" title="Quaternary Geochronology">Quaternary Geochronology</a></i>. <b>1</b> (4): 237–240. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.quageo.2006.07.001">10.1016/j.quageo.2006.07.001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Geochronology&amp;rft.atitle=A+note+on+reporting+radiocarbon&amp;rft.volume=1&amp;rft.issue=4&amp;rft.pages=237-240&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.quageo.2006.07.001&amp;rft.au=J.+van+der+Plicht%2C+A.+Hogg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"> <cite class="citation journal">"The use of time units in Quaternary Science Reviews". <i>Quaternary Science Reviews</i>. <b>26</b> (9–10): 1193. May 2007. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007QSRv...26.1193.">2007QSRv...26.1193.</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.quascirev.2007.04.002">10.1016/j.quascirev.2007.04.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Science+Reviews&amp;rft.atitle=The+use+of+time+units+in+Quaternary+Science+Reviews&amp;rft.volume=26&amp;rft.issue=9%E2%80%9310&amp;rft.pages=1193&amp;rft.date=2007-05&amp;rft_id=info%3Adoi%2F10.1016%2Fj.quascirev.2007.04.002&amp;rft_id=info%3Abibcode%2F2007QSRv...26.1193.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wolff, Eric W. (December 2007). "When is the "present"?". <i>Quaternary Science Reviews</i>. <b>26</b> (25–28): 3023–3024. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007QSRv...26.3023W">2007QSRv...26.3023W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.quascirev.2007.10.008">10.1016/j.quascirev.2007.10.008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Science+Reviews&amp;rft.atitle=When+is+the+%22present%22%3F&amp;rft.volume=26&amp;rft.issue=25%E2%80%9328&amp;rft.pages=3023-3024&amp;rft.date=2007-12&amp;rft_id=info%3Adoi%2F10.1016%2Fj.quascirev.2007.10.008&amp;rft_id=info%3Abibcode%2F2007QSRv...26.3023W&amp;rft.au=Wolff%2C+Eric+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Huth1994-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Huth1994_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Edward J. Huth (25 November 1994). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=PoFJ-OhE63UC&amp;pg=PA495"><i>Scientific Style and Format: The CBE Manual for Authors, Editors, and Publishers</i></a>. Cambridge University Press. pp.&nbsp;495–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-521-47154-1" title="Special:BookSources/978-0-521-47154-1">978-0-521-47154-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scientific+Style+and+Format%3A+The+CBE+Manual+for+Authors%2C+Editors%2C+and+Publishers&amp;rft.pages=495-&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1994-11-25&amp;rft.isbn=978-0-521-47154-1&amp;rft.au=Edward+J.+Huth&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPoFJ-OhE63UC%26pg%3DPA495&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iceandclimate.nbi.ku.dk/research/strat_dating/annual_layer_count/gicc05_time_scale/">"The GICC05 time scale"</a>. Centre for Ice and Climate - University of Copenhagen<span class="reference-accessdate">. Retrieved <span class="nowrap">September 17,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+GICC05+time+scale&amp;rft.pub=Centre+for+Ice+and+Climate+-+University+of+Copenhagen&amp;rft_id=http%3A%2F%2Fwww.iceandclimate.nbi.ku.dk%2Fresearch%2Fstrat_dating%2Fannual_layer_count%2Fgicc05_time_scale%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Currie-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Currie_11-0">^</a></b></span> <span class="reference-text"> <cite class="citation journal">Currie Lloyd A (2004). <a rel="nofollow" class="external text" href="http://nvl.nist.gov/pub/nistpubs/jres/109/2/j92cur.pdf">"The Remarkable Metrological History of Radiocarbon Dating [II]"</a> <span class="cs1-format">(PDF)</span>. <i>Journal of Research of the National Institute of Standards and Technology</i>. <b>109</b>: 185–217. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.6028%2Fjres.109.013">10.6028/jres.109.013</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Research+of+the+National+Institute+of+Standards+and+Technology&amp;rft.atitle=The+Remarkable+Metrological+History+of+Radiocarbon+Dating+%26%2391%3BII%26%2393%3B&amp;rft.volume=109&amp;rft.pages=185-217&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.6028%2Fjres.109.013&amp;rft.au=Currie+Lloyd+A&amp;rft_id=http%3A%2F%2Fnvl.nist.gov%2Fpub%2Fnistpubs%2Fjres%2F109%2F2%2Fj92cur.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Arnold-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Arnold_12-0">^</a></b></span> <span class="reference-text"> <cite class="citation journal">Arnold JR, Libby WF (1949-03-04). "Age determinations by radiocarbon content: Checks with samples of known age". <i>Science</i>. <b>109</b> (2827): 227–228. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1949Sci...109..227L">1949Sci...109..227L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.109.2827.227">10.1126/science.109.2827.227</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17818054">17818054</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Age+determinations+by+radiocarbon+content%3A+Checks+with+samples+of+known+age&amp;rft.volume=109&amp;rft.issue=2827&amp;rft.pages=227-228&amp;rft.date=1949-03-04&amp;rft_id=info%3Apmid%2F17818054&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.109.2827.227&amp;rft_id=info%3Abibcode%2F1949Sci...109..227L&amp;rft.au=Arnold+JR%2C+Libby+WF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencecourseware.org/VirtualDating/files/RC_3.html">AD or BC?</a> from www.ScienceCourseware.org</span> </li> 
+         <li id="cite_note-Archaeology-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archaeology_14-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Kevin_Greene_(archaeologist)" title="Kevin Greene (archaeologist)">Greene, Kevin</a> (2002). <i>Archaeology: An Introduction</i>. Philadelphia: University of Pennsylvania Press. pp.&nbsp;165–167. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-8122-1828-0" title="Special:BookSources/0-8122-1828-0">0-8122-1828-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Archaeology%3A+An+Introduction&amp;rft.place=Philadelphia&amp;rft.pages=165-167&amp;rft.pub=University+of+Pennsylvania+Press&amp;rft.date=2002&amp;rft.isbn=0-8122-1828-0&amp;rft.aulast=Greene&amp;rft.aufirst=Kevin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABefore+Present" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Chronology" style="padding:3px">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background:#dd9;">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Chronology" title="Template:Chronology"><abbr title="View this template" style=";background:#dd9;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Chronology" title="Template talk:Chronology"><abbr title="Discuss this template" style=";background:#dd9;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chronology&amp;action=edit"><abbr title="Edit this template" style=";background:#dd9;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Chronology" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Chronology" title="Chronology">Chronology</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Key topics</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Archaeology" title="Archaeology">Archaeology</a></li> 
+             <li><a href="/wiki/Astronomy" title="Astronomy">Astronomy</a></li> 
+             <li><a href="/wiki/Geology" title="Geology">Geology</a></li> 
+             <li><a href="/wiki/History" title="History">History</a></li> 
+             <li><a href="/wiki/Paleontology" title="Paleontology">Paleontology</a></li> 
+             <li><a href="/wiki/Time" title="Time">Time</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">
+           <div class="hlist hlist-separated">
+            <ul>
+             <li><a href="/wiki/Era" title="Era">Eras</a></li>
+             <li><a href="/wiki/Epoch_(reference_date)" class="mw-redirect" title="Epoch (reference date)">Epochs</a></li>
+            </ul>
+           </div></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Calendar_era" title="Calendar era">Calendar eras</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Holocene_calendar" title="Holocene calendar">Human Era</a></li> 
+                 <li><i><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></i></li> 
+                 <li><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a>&nbsp;/ <a href="/wiki/Common_Era" title="Common Era">Common Era</a></li> 
+                 <li><a href="/wiki/Anno_Mundi" title="Anno Mundi">Anno Mundi</a></li> 
+                 <li><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine era</a></li> 
+                 <li><a href="/wiki/Seleucid_era" title="Seleucid era">Seleucid era</a></li> 
+                 <li><a href="/wiki/Spanish_era" title="Spanish era">Spanish era</a></li> 
+                 <li><a class="mw-selflink selflink">Before Present</a></li> 
+                 <li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Hijri</a></li> 
+                 <li><a href="/wiki/Egyptian_chronology" title="Egyptian chronology">Egyptian</a></li> 
+                 <li><a href="/wiki/Sothic_cycle" title="Sothic cycle">Sothic cycle</a></li> 
+                 <li><a href="/wiki/Hindu_units_of_time" title="Hindu units of time">Hindu units of time</a> (<a href="/wiki/Yuga" title="Yuga">Yuga</a>)</li> 
+                 <li><a href="/wiki/Mesoamerican_calendars" title="Mesoamerican calendars">Mesoamerican</a> 
+                  <ul>
+                   <li><a href="/wiki/Mesoamerican_Long_Count_calendar" title="Mesoamerican Long Count calendar">Long Count</a></li> 
+                   <li><a href="/wiki/Maya_calendar#Short_Count" title="Maya calendar">Short Count</a></li> 
+                   <li><a href="/wiki/Tzolk%27in" title="Tzolk'in">Tzolk'in</a></li> 
+                   <li><a href="/wiki/Haab%27" title="Haab'">Haab'</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Regnal_year" title="Regnal year">Regnal year</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Canon_of_Kings" title="Canon of Kings">Canon of Kings</a></li> 
+                 <li><a href="/wiki/Category:King_lists" title="Category:King lists">Lists of kings</a></li> 
+                 <li><a href="/wiki/Limmu" title="Limmu">Limmu</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Regnal_year" title="Regnal year">Era names</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Chinese_era_name" title="Chinese era name">Chinese</a></li> 
+                 <li><a href="/wiki/Japanese_era_name" title="Japanese era name">Japanese</a></li> 
+                 <li><a href="/wiki/Korean_era_name" title="Korean era name">Korean</a></li> 
+                 <li><a href="/wiki/Vietnamese_era_name" title="Vietnamese era name">Vietnamese</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Calendar" title="Calendar">Calendars</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Pre-Julian&nbsp;/ Julian</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Roman_calendar" title="Roman calendar">Pre-Julian Roman</a></li> 
+                 <li><a href="/wiki/Julian_calendar" title="Julian calendar">Original Julian</a></li> 
+                 <li><a href="/wiki/Proleptic_Julian_calendar" title="Proleptic Julian calendar">Proleptic Julian</a></li> 
+                 <li><a href="/wiki/Revised_Julian_calendar" title="Revised Julian calendar">Revised Julian</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Gregorian</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a></li> 
+                 <li><a href="/wiki/Proleptic_Gregorian_calendar" title="Proleptic Gregorian calendar">Proleptic Gregorian</a></li> 
+                 <li><a href="/wiki/Old_Style_and_New_Style_dates" title="Old Style and New Style dates">Old Style and New Style dates</a></li> 
+                 <li><a href="/wiki/Adoption_of_the_Gregorian_calendar" title="Adoption of the Gregorian calendar">Adoption of the Gregorian calendar</a></li> 
+                 <li><a href="/wiki/Dual_dating" title="Dual dating">Dual dating</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Astronomical</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">Lunisolar</a></li> 
+                 <li><a href="/wiki/Solar_calendar" title="Solar calendar">Solar</a></li> 
+                 <li><a href="/wiki/Lunar_calendar" title="Lunar calendar">Lunar</a></li> 
+                 <li><a href="/wiki/Astronomical_year_numbering" title="Astronomical year numbering">Astronomical year numbering</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Others</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Sexagenary_cycle" title="Sexagenary cycle">Chinese sexagenary cycle</a></li> 
+                 <li><a href="/wiki/Geologic_Calendar" title="Geologic Calendar">Geologic Calendar</a></li> 
+                 <li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew</a></li> 
+                 <li><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian</a></li> 
+                 <li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic</a></li> 
+                 <li><a href="/wiki/ISO_week_date" title="ISO week date">ISO week date</a></li> 
+                 <li><a href="/wiki/Mesoamerican_calendars" title="Mesoamerican calendars">Mesoamerican</a> 
+                  <ul>
+                   <li><a href="/wiki/Maya_calendar" title="Maya calendar">Maya</a></li> 
+                   <li><a href="/wiki/Aztec_calendar" title="Aztec calendar">Aztec</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Winter_count" title="Winter count">Winter count</a> (Plains Indians)</li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Astronomical_chronology" title="Astronomical chronology">Astronomic time</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#fff;">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Cosmic_Calendar" title="Cosmic Calendar">Cosmic Calendar</a></li> 
+             <li><a href="/wiki/Ephemeris" title="Ephemeris">Ephemeris</a></li> 
+             <li><a href="/wiki/Galactic_year" title="Galactic year">Galactic year</a></li> 
+             <li><a href="/wiki/Metonic_cycle" title="Metonic cycle">Metonic cycle</a></li> 
+             <li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Geologic_time_scale" title="Geologic time scale">Geologic time</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Concepts</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Deep_time" title="Deep time">Deep time</a></li> 
+                 <li><a href="/wiki/Geological_history_of_Earth" title="Geological history of Earth">Geological history of Earth</a></li> 
+                 <li><a href="/wiki/Geologic_time_scale#Terminology" title="Geologic time scale">Geological time units</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Standards</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Global_Standard_Stratigraphic_Age" title="Global Standard Stratigraphic Age">Global Standard Stratigraphic Age (GSSA)</a></li> 
+                 <li><a href="/wiki/Global_Boundary_Stratotype_Section_and_Point" title="Global Boundary Stratotype Section and Point">Global Boundary Stratotype Section and Point (GSSP)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Methods</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Chronostratigraphy" title="Chronostratigraphy">Chronostratigraphy</a></li> 
+                 <li><a href="/wiki/Geochronology" title="Geochronology">Geochronology</a></li> 
+                 <li><a href="/wiki/Isotope_geochemistry" title="Isotope geochemistry">Isotope geochemistry</a></li> 
+                 <li><a href="/wiki/Law_of_superposition" title="Law of superposition">Law of superposition</a></li> 
+                 <li><a href="/wiki/Luminescence_dating" title="Luminescence dating">Luminescence dating</a></li> 
+                 <li><a href="/wiki/Samarium%E2%80%93neodymium_dating" title="Samarium–neodymium dating">Samarium–neodymium dating</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Chronological_dating" title="Chronological dating">Chronological<br>dating</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Absolute_dating" title="Absolute dating">Absolute dating</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Amino_acid_dating" title="Amino acid dating">Amino acid racemisation</a></li> 
+                 <li><a href="/wiki/Archaeomagnetic_dating" title="Archaeomagnetic dating">Archaeomagnetic dating</a></li> 
+                 <li><a href="/wiki/Dendrochronology" title="Dendrochronology">Dendrochronology</a></li> 
+                 <li><a href="/wiki/Ice_core" title="Ice core">Ice core</a></li> 
+                 <li><a href="/wiki/Incremental_dating" title="Incremental dating">Incremental dating</a></li> 
+                 <li><a href="/wiki/Lichenometry" title="Lichenometry">Lichenometry</a></li> 
+                 <li><a href="/wiki/Paleomagnetism" title="Paleomagnetism">Paleomagnetism</a></li> 
+                 <li><a href="/wiki/Radiometric_dating" title="Radiometric dating">Radiometric dating</a> 
+                  <ul>
+                   <li><a href="/wiki/Radiocarbon_dating" title="Radiocarbon dating">Radiocarbon</a></li> 
+                   <li><a href="/wiki/Uranium%E2%80%93lead_dating" title="Uranium–lead dating">Uranium–lead</a></li> 
+                   <li><a href="/wiki/K%E2%80%93Ar_dating" title="K–Ar dating">Potassium–argon</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Tephrochronology" title="Tephrochronology">Tephrochronology</a></li> 
+                 <li><a href="/wiki/Luminescence_dating" title="Luminescence dating">Luminescence dating</a></li> 
+                 <li><a href="/wiki/Thermoluminescence_dating" title="Thermoluminescence dating">Thermoluminescence dating</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Relative_dating" title="Relative dating">Relative dating</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Fluorine_absorption_dating" title="Fluorine absorption dating">Fluorine absorption</a></li> 
+                 <li><a href="/wiki/Nitrogen_dating" title="Nitrogen dating">Nitrogen dating</a></li> 
+                 <li><a href="/wiki/Obsidian_hydration_dating" title="Obsidian hydration dating">Obsidian hydration</a></li> 
+                 <li><a href="/wiki/Seriation_(archaeology)" title="Seriation (archaeology)">Seriation</a></li> 
+                 <li><a href="/wiki/Stratigraphy_(archaeology)" title="Stratigraphy (archaeology)">Stratigraphy</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Genetic methods</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Molecular_clock" title="Molecular clock">Molecular clock</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Linguistic methods</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Glottochronology" title="Glottochronology">Glottochronology</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Related topics</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Chronicle" title="Chronicle">Chronicle</a></li> 
+             <li><a href="/wiki/New_Chronology_(Fomenko)" title="New Chronology (Fomenko)">New Chronology</a></li> 
+             <li><a href="/wiki/Periodization" title="Periodization">Periodization</a></li> 
+             <li><a href="/wiki/Synchronoptic_view" title="Synchronoptic view">Synchronoptic view</a></li> 
+             <li><a href="/wiki/Timeline" title="Timeline">Timeline</a></li> 
+             <li><a href="/wiki/Year_zero" title="Year zero">Year zero</a></li> 
+             <li><a href="/wiki/Circa" title="Circa">Circa</a></li> 
+             <li><a href="/wiki/Floruit" title="Floruit">Floruit</a></li> 
+             <li><a href="/wiki/Terminus_post_quem" title="Terminus post quem">Terminus post quem</a></li> 
+             <li><a href="/wiki/ASPRO_chronology" title="ASPRO chronology">ASPRO chronology</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="background:#dd9;">
+           <div> 
+            <ul>
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Chronology" title="Portal:Chronology">Portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20190312132706
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.348 seconds
+Real time usage: 0.427 seconds
+Preprocessor visited node count: 944/1000000
+Preprocessor generated node count: 0/1500000
+Post?expand include size: 70428/2097152 bytes
+Template argument size: 1040/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post?expand size: 40823/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.190/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  336.176      1 -total
+ 65.60%  220.538      1 Template:Reflist
+ 47.57%  159.906      8 Template:Cite_journal
+ 19.65%   66.073      5 Template:Navbox
+ 16.84%   56.610      1 Template:Chronology
+  9.26%   31.141      1 Template:Redirect2
+  5.52%   18.542      3 Template:Cite_book
+  4.35%   14.612      2 Template:Cite_web
+  4.06%   13.659      1 Template:Bquote
+  3.11%   10.453      1 Template:Hlist
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:971107-0!canonical and timestamp 20190312132705 and revision id 886633149
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Before_Present&amp;oldid=886633149">https://en.wikipedia.org/w/index.php?title=Before_Present&amp;oldid=886633149</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Calendar_eras" title="Category:Calendar eras">Calendar eras</a></li>
+       <li><a href="/wiki/Category:Geochronology" title="Category:Geochronology">Geochronology</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Before+Present" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Before+Present" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Before_Present" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Before_Present" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Before_Present">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Before_Present&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Before_Present&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Before_Present" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Before_Present" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Before_Present&amp;oldid=886633149" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Before_Present&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q503142" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Before_Present&amp;id=886633149" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Before+Present">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Before+Present&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Before_Present&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1" title="??? ?????? – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">???????</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Antes_del_Presente" title="Antes del Presente – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%94%D0%B0_%D0%BD%D0%B0%D1%88%D1%8B%D1%85_%D0%B4%D0%B7%D1%91%D0%BD" title="?? ????? ???? – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">?????????? (???????????)?</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/BP_(escala_de_temps)" title="BP (escala de temps) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/B._P." title="B. P. – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">?eština</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/CP" title="CP – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Before_Present" title="Before Present – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Before_Present" title="Before Present – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Antes_del_presente" title="Antes del presente – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Avant_le_pr%C3%A9sent" title="Avant le présent – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/BP" title="BP – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Sebelum_Sekarang" title="Sebelum Sekarang – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Before_Present" title="Before Present – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%A4%D7%A0%D7%99_%D7%96%D7%9E%D7%A0%D7%A0%D7%95" title="???? ????? – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">?????</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Ante_praesentem" title="Ante praesentem – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Pirms_m%C5%ABsdien%C4%81m" title="Pirms m?sdien?m – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4_%D1%81%D0%B5%D0%B3%D0%B0%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B0" title="???? ?????????? – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">??????????</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Sebelum_Kini" title="Sebelum Kini – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Before_Present" title="Before Present – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/BP_(%E5%B9%B4%E4%BB%A3%E6%B8%AC%E5%AE%9A)" title="BP (????) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">???</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Before_Present" title="Before Present – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Before_Present" title="Before Present – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Antes_do_Presente" title="Antes do Presente – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="?? ?????????? ??????? – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">???????</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/BP_(%C4%8Das)" title="BP (?as) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Sloven?ina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%98%D0%B5_%D1%81%D0%B0%D0%B4%D0%B0%D1%88%D1%9A%D0%BE%D1%81%D1%82%D0%B8" title="????? ?????????? – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">?????? / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/BP_(ajanlasku)" title="BP (ajanlasku) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/B.P." title="B.P. – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D2%AF%D0%B3%D0%B5%D0%BD%D0%B3%D3%99%D1%87%D3%99" title="????????? – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">???????/tatarça</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/G%C3%BCn%C3%BCm%C3%BCzden_%C3%96nce" title="Günümüzden Önce – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BA%D1%96%D0%B2_%D1%82%D0%BE%D0%BC%D1%83" title="????? ???? – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">??????????</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%B7%9D%E4%BB%8A" title="?? – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">??</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q503142#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 March 2019, at 14:34<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Before_Present&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.427","ppvisitednodes":{"value":944,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70428,"limit":2097152},"templateargumentsize":{"value":1040,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40823,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  336.176      1 -total"," 65.60%  220.538      1 Template:Reflist"," 47.57%  159.906      8 Template:Cite_journal"," 19.65%   66.073      5 Template:Navbox"," 16.84%   56.610      1 Template:Chronology","  9.26%   31.141      1 Template:Redirect2","  5.52%   18.542      3 Template:Cite_book","  4.35%   14.612      2 Template:Cite_web","  4.06%   13.659      1 Template:Bquote","  3.11%   10.453      1 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"10.000"},"limitreport-memusage":{"value":3971485,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20190312132706","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Before Present","url":"https:\/\/en.wikipedia.org\/wiki\/Before_Present","sameAs":"http:\/\/www.wikidata.org\/entity\/Q503142","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q503142","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-09T08:36:52Z","dateModified":"2019-03-07T14:34:03Z","headline":"calendar era based on 1950 CE (around when radiocarbon dating was developed and nuclear weapons testing artificially altered the proportion of carbon isotopes); used in radiocarbon dating; e.g. 1 ka BP (kiloyear Before Present) = 950 CE"}</script> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":532,"wgHostname":"mw1268"});});</script>   
+ </body>
+</html>
