@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.Set;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
@@ -25,6 +26,8 @@ public class SpiderLeg {
 	private List<String> links = new LinkedList<String>();
 	
 	private static HashMap<String, Integer> outlinks = new HashMap<String, Integer>();
+	
+	private static File urlFile = new File("/Users/Richard Pham/workspace/CS4990Project1/src/crawler/report.csv");
 	
 	private BufferedWriter writer = null;
 	
@@ -73,6 +76,7 @@ public class SpiderLeg {
 				this.links.add(link.absUrl("href"));
 			}
 			index.indexFile(new File("/Users/Richard Pham/workspace/CS4990Project1/src/crawler/repository", parsedFileName));
+			writeURLCountFile();
 			index.printHashMap();
 			documentNumber++;
 			return true;
@@ -80,6 +84,29 @@ public class SpiderLeg {
 			return false;
 		}
 
+	}
+	
+	public void writeURLCountFile() throws IOException {
+		StringBuilder build = null;
+		Set<String> keys = outlinks.keySet();
+		FileWriter writer = new FileWriter(SpiderLeg.urlFile);
+		String[] arrayOfKeys = keys.toArray(new String[keys.size()]);
+		for(int i = 0; i < arrayOfKeys.length; i++) {
+			build = new StringBuilder();
+			build.append(arrayOfKeys[i]+","+outlinks.get(arrayOfKeys[i]));
+			build.append("\n");
+			writer.write(build.toString());
+		}
+		writer.flush();
+		writer.close();
+	}
+	
+	public void printURLAndLinks() {
+		Set<String> keys = outlinks.keySet();
+		String[] arrayOfKeys = keys.toArray(new String[keys.size()]);
+		for(int i = 0; i < arrayOfKeys.length; i++) {
+			System.out.println(arrayOfKeys[i]+" : "+outlinks.get(arrayOfKeys[i]));
+		}
 	}
 	
 	public List<String> getLinks() {

@@ -8,6 +8,8 @@ public class SpiderTest {
 		Spider spider = new Spider();
 		
 		spider.search("http://www.cpp.edu");
+//		spider = new Spider();
+//		spider.search("http://www.yahoo.com");
 	}
 
 }

@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class Spider {
 	
-	private static final int MAX_PAGES_TO_SEARCH = 1;
+	private final int MAX_PAGES_TO_SEARCH = 1;
 	
 	private Set<String> pagesVisited = new HashSet<String>();
 	

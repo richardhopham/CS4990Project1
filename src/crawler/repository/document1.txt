@@ -7,7 +7,7 @@
   <meta charset="utf-8"> 
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
   <meta content="CPP" property="cludo:category"> 
-  <meta content="2019-03-12T14:06Z" property="date"> 
+  <meta content="2019-03-13T15:39Z" property="date"> 
   <link href="https://www.cpp.edu/index.shtml" rel="canonical"> 
   <meta content="Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, we cultivate success through experiential learning, discovery and innovation. Our graduates are ready to succeed in the professional world on Day 1." name="description"> 
   <script>// <![CDATA[
@@ -83,22 +83,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="carousel-inner"> 
      <!--make sure slide has text information --> 
      <div class="carousel-item standard-slide active"> 
-      <div class="video-slide-container"> 
-       <video aria-hidden="true" autoplay="true" loop="true" muted="true"> 
-        <source src="https://www.cpp.edu/video-slides/provost-alexander-rudolf.mp4" type="video/mp4"> 
-        <img alt="Physics and Astronomy Professor Alexander Rudolph" src="img/19provost-awards-rudolph2.jpg"> 
-       </video> 
-       <div class="sr-only">
-         This slide contains video without audio. The description of the video is "Physics and Astronomy Professor Alexander Rudolph" 
-       </div> 
-      </div> 
+      <img alt="President Coley and ASI President Greenburg" src="img/18pizza-prez-presidents5.jpg"> 
       <div class="carousel-caption text-left"> 
        <div class="caption-shade-left"> 
-        <p class="slide-title">Excellence in Teaching</p> 
+        <p class="slide-title">Have a Question?</p> 
         <span class="inline-break"></span> 
-        <p class="slide-description">Learn how Professor Alexander Rudolph undertakes access and inclusion issues in his field.</p> 
+        <p class="slide-description">The spring semester Pizza with the Presidents will take place on Thursday, March 21 during U-Hour. </p> 
         <!--set up slide link --> 
-        <p> <a class="btn btn-lg btn-primary" href="http://weare.cpp.edu/excellence-in-teaching-alexander-rudolph/" role="button">Watch Video</a></p> 
+        <p> <a class="btn btn-lg btn-primary" href="http://polycentric.cpp.edu/2019/03/spring-pizza-with-the-presidents-on-march-21/" role="button">Learn More</a></p> 
        </div> 
       </div> 
      </div> 
@@ -130,27 +122,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      </div> 
      <!--make sure slide has text information --> 
      <div class="carousel-item standard-slide"> 
-      <img alt="" src="img/jarnagin-lea-002.jpg"> 
+      <img alt="Alexander Rudolph" src="img/rudolph-alexander7.jpg"> 
       <div class="carousel-caption text-right"> 
        <div class="caption-shade-right"> 
-        <p class="slide-title">Excellence in Mentoring</p> 
+        <p class="slide-title">Excellence in Teaching</p> 
         <span class="inline-break"></span> 
-        <p class="slide-description">"Dr. J" honored for dedicating her career to supporting students and staff.</p> 
+        <p class="slide-description">Learn how Professor Alexander Rudolph undertakes access and inclusion issues in his field.</p> 
         <!--set up slide link --> 
-        <p> <a class="btn btn-lg btn-primary" href="http://polycentric.cpp.edu/2019/03/student-affairs-vp-honored-for-mentoring-excellence/" role="button">Learn More</a></p> 
+        <p> <a class="btn btn-lg btn-primary" href="http://weare.cpp.edu/excellence-in-teaching-alexander-rudolph/" role="button">Watch Video</a></p> 
        </div> 
       </div> 
      </div> 
      <!--make sure slide has text information --> 
      <div class="carousel-item standard-slide"> 
-      <img alt="Student in lab class" src="img/19geology-lab-mckinney2.jpg"> 
+      <img alt="" src="img/jarnagin-lea-002.jpg"> 
       <div class="carousel-caption text-left"> 
        <div class="caption-shade-left"> 
-        <p class="slide-title">Stay on Track for Your Take 30</p> 
+        <p class="slide-title">Excellence in Mentoring</p> 
         <span class="inline-break"></span> 
-        <p class="slide-description">Summer Session 2019 general registration is now open. </p> 
+        <p class="slide-description">"Dr. J" honored for dedicating her career to supporting students and staff.</p> 
         <!--set up slide link --> 
-        <p> <a class="btn btn-lg btn-primary" href="https://www.cpp.edu/~summer/" role="button">Register Now</a></p> 
+        <p> <a class="btn btn-lg btn-primary" href="http://polycentric.cpp.edu/2019/03/student-affairs-vp-honored-for-mentoring-excellence/" role="button">Learn More</a></p> 
        </div> 
       </div> 
      </div> 
