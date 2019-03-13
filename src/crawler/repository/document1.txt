@@ -1,0 +1,429 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+ <head> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>Cal Poly Pomona</title> 
+  <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
+  <meta content="CPP" property="cludo:category"> 
+  <meta content="2019-03-12T14:06Z" property="date"> 
+  <link href="https://www.cpp.edu/index.shtml" rel="canonical"> 
+  <meta content="Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, we cultivate success through experiential learning, discovery and innovation. Our graduates are ready to succeed in the professional world on Day 1." name="description"> 
+  <script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script> 
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
+  <script crossorigin="anonymous" defer integrity="sha384-d84LGg2pm9KhR4mCAs3N29GQ4OYNy+K+FBHX8WhimHpPm86c839++MDABegrZ3gn" src="https://pro.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
+ </head> 
+ <body> 
+  <noscript>
+   <!-- Google Tag Manager (noscript) --> 
+   <iframe aria-hidden="true" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" title="google tag manager" width="0">Google Tag Manager</iframe> 
+   <!-- End Google Tag Manager (noscript) --> 
+  </noscript> 
+  <a class="sr-only" href="#main" id="skip-to-nav" style="top: 0px; left: 15px;">Skip To Main Content</a>
+  <header title="audience gateway">
+   <nav> 
+    <ul class="audience"> 
+     <li class="afs"><a href="https://www.cpp.edu/prospective-student-gateway/index.shtml">Prospective Students</a></li> 
+     <li class="acs"><a href="https://www.cpp.edu/student-gateway/index.shtml">Current Students</a></li> 
+     <li class="astaff"><a href="https://www.cpp.edu/faculty-staff-gateway/index.shtml">Faculty/Staff</a></li> 
+     <li class="aalumni"><a href="https://www.cpp.edu/~alumni/">Alumni</a></li> 
+     <li class="amycpp"><a href="https://my.cpp.edu">MyCPP <i class="fas fa-sign-in-alt"></i> </a></li> 
+    </ul> 
+   </nav>
+  </header>
+  <header class="fixed-top" title="Cal Poly Pomona Search">
+   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
+    <div class="navbar-nav mr-auto">
+     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link"> <img alt="Cal Poly Pomona" id="cpp-logo-octo" src="/common/2018/assets/img/cpp-octo-web.svg"></a>
+    </div> 
+    <form action="https://gsa.cpp.edu/search" autocomplete="off" class="center-search row justify-content-center" id="searchcpp" method="get" role="search">
+     <label class="sr-only" for="searchbar">SEARCH Box</label> 
+     <input class="search-query_new" id="searchbar" maxlength="256" name="q" placeholder="What can we help you find?" title="search" type="text"> 
+     <button alt="SEARCH" class="button" id="searchbutton" title="SEARCH" type="submit" value="submit"> <i class="fas fa-search"></i> <span class="sr-only">Submit Search</span> </button> 
+     <input name="site" type="hidden" value="default_collection"> 
+     <input name="client" type="hidden" value="cpp-fe"> 
+     <input name="output" type="hidden" value="xml_no_dtd"> 
+     <input name="proxystylesheet" type="hidden" value="cpp-fe"> 
+     <input name="markup" type="hidden" value="html5"> 
+     <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
+      <div aria-labelledby="suggestedh2" class="dropdown-menu dropdown-menu-right" id="searchhelp"> 
+       <h2 id="suggestedh2">Popular Searches</h2> 
+       <ul id="autocomplete-results"></ul> 
+      </div> 
+     </div> 
+    </form>
+   </nav>
+  </header> 
+  <div id="alert"></div> 
+  <header title="Cal Poly Pomona"> 
+   <!-- Start Carousel --> 
+   <div class="carousel slide" data-interval="8000" data-ride="carousel" id="CPPCarousel"> 
+    <div aria-controls="CPPCarousel" id="carousel-controls"> 
+     <button aria-label="pause slide show" id="cpp-carousel-pause" value="pause"><i class="fas fa-pause"></i></button> 
+     <button aria-label="play slide show" id="cpp-carousel-play" value="play"><i class="fas fa-play"></i></button> 
+     <!-- Indicators --> 
+     <ul class="carousel-indicators"> 
+      <li class="active"><button aria-label="slide 1" data-slide-to="0" data-target="#CPPCarousel">1</button></li> 
+      <li><button aria-label="slide 2" class="" data-slide-to="1" data-target="#CPPCarousel">2</button></li> 
+      <li><button aria-label="slide 3" class="" data-slide-to="2" data-target="#CPPCarousel">3</button></li> 
+      <li><button aria-label="slide 4" class="" data-slide-to="3" data-target="#CPPCarousel">4</button></li> 
+      <li><button aria-label="slide 5" class="" data-slide-to="4" data-target="#CPPCarousel">5</button></li> 
+     </ul> 
+    </div> 
+    <!-- The slideshow --> 
+    <div class="carousel-inner"> 
+     <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide active"> 
+      <div class="video-slide-container"> 
+       <video aria-hidden="true" autoplay="true" loop="true" muted="true"> 
+        <source src="https://www.cpp.edu/video-slides/provost-alexander-rudolf.mp4" type="video/mp4"> 
+        <img alt="Physics and Astronomy Professor Alexander Rudolph" src="img/19provost-awards-rudolph2.jpg"> 
+       </video> 
+       <div class="sr-only">
+         This slide contains video without audio. The description of the video is "Physics and Astronomy Professor Alexander Rudolph" 
+       </div> 
+      </div> 
+      <div class="carousel-caption text-left"> 
+       <div class="caption-shade-left"> 
+        <p class="slide-title">Excellence in Teaching</p> 
+        <span class="inline-break"></span> 
+        <p class="slide-description">Learn how Professor Alexander Rudolph undertakes access and inclusion issues in his field.</p> 
+        <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="http://weare.cpp.edu/excellence-in-teaching-alexander-rudolph/" role="button">Watch Video</a></p> 
+       </div> 
+      </div> 
+     </div> 
+     <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide"> 
+      <img alt="Alumna Linda Lopez" src="img/linda-lopez-immigrant-affairs14.jpg"> 
+      <div class="carousel-caption text-right"> 
+       <div class="caption-shade-right"> 
+        <p class="slide-title">The American Dream</p> 
+        <span class="inline-break"></span> 
+        <p class="slide-description">Alumna Linda Lopez works to connect Angelenos to LA's diverse community.</p> 
+        <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="https://www.cpp.edu/~cppmag/building-a-better-california/the-american-dream.shtml" role="button">Read Story</a></p> 
+       </div> 
+      </div> 
+     </div> 
+     <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide"> 
+      <img alt="Eric Kinjo, Breanna Barragan and Steven Pham" src="img/pdc-winners-ajinomoto.jpg"> 
+      <div class="carousel-caption text-left"> 
+       <div class="caption-shade-left"> 
+        <p class="slide-title">Recipe for Success</p> 
+        <span class="inline-break"></span> 
+        <p class="slide-description">Nutrition and food science students win national baking competition.</p> 
+        <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="http://polycentric.cpp.edu/2019/03/baking-rock-stars-conquer-national-contest/" role="button">Learn More</a></p> 
+       </div> 
+      </div> 
+     </div> 
+     <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide"> 
+      <img alt="" src="img/jarnagin-lea-002.jpg"> 
+      <div class="carousel-caption text-right"> 
+       <div class="caption-shade-right"> 
+        <p class="slide-title">Excellence in Mentoring</p> 
+        <span class="inline-break"></span> 
+        <p class="slide-description">"Dr. J" honored for dedicating her career to supporting students and staff.</p> 
+        <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="http://polycentric.cpp.edu/2019/03/student-affairs-vp-honored-for-mentoring-excellence/" role="button">Learn More</a></p> 
+       </div> 
+      </div> 
+     </div> 
+     <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide"> 
+      <img alt="Student in lab class" src="img/19geology-lab-mckinney2.jpg"> 
+      <div class="carousel-caption text-left"> 
+       <div class="caption-shade-left"> 
+        <p class="slide-title">Stay on Track for Your Take 30</p> 
+        <span class="inline-break"></span> 
+        <p class="slide-description">Summer Session 2019 general registration is now open. </p> 
+        <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="https://www.cpp.edu/~summer/" role="button">Register Now</a></p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="carousel-control-prev" data-slide="prev" href="#CPPCarousel" role="button"> <span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span> </a> 
+    <a class="carousel-control-next" data-slide="next" href="#CPPCarousel" role="button"> <span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="sr-only">Next</span> </a> 
+   </div> 
+   <!-- End Carousel --> 
+  </header> 
+  <main class="container-fluid flex-grow"> 
+   <div class="row"> 
+    <div class="col-12" id="main"> 
+     <h1 class="sr-only">Cal Poly Pomona</h1> 
+     <h2>University News</h2> 
+     <section class="row card-section"> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <img alt="Jaqueline Ruiz a senior majoring in microbiology" src="img/rsca-poster-prosthetic-alloys.jpg"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h3 id="ch-0">Research and Creative Activities Conference Highlights Student Work in a Range of Fields</h3> 
+         <div class="card-collapse">
+          Distinguished guest artists mezzo soprano Megan Ihnen, violist Michael Hall and the Villiers String Quartet will perform concerts and work with music students in March as part of the Shpachenko and Friends Chamber Music On Friday, March 1, more than 400 students presented their research at the 7th Annual Student RSCA Conference in oral presentations or at the poster and creative works showcase The more than 200 projects provided hands-on experience in fields ranging from graphic design, the humanities and behavioral and social sciences to biological and agricultural sciences, engineering and physics.
+         </div> 
+         <a class="btn btn-primary mt-3" href="http://polycentric.cpp.edu/2019/03/research-and-creative-activities-conference-highlights-student-work-in-a-range-of-fields/" title="Read on PolyCentric - Research and Creative Activities Conference Highlights Student Work in a Range of Fields">Read on PolyCentric</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <img alt="Customer looking at Tomato plants" src="img/tomatozania-shopper1.jpg"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h3 id="ch-1">Tomatozania Plant Sale Returns March 15-17</h3> 
+         <div class="card-collapse">
+          The tomato plants are coming! The tomato plants are coming! The tomato plants are coming! Tomatozania is returning to Cal Poly Pomona. The Cal Poly Pomona Nursery will hold its 20th annual tomato plant sale from 10 a.m. to 3 p.m., March 15 to 17, in the greenhouses, rain or shine! Come enjoy shopping in the greenhouse and picking your plants right off the benches where they are grown. Talk to our experts to discover which ones are perfect for you.
+         </div> 
+         <a class="btn btn-primary mt-3" href="http://polycentric.cpp.edu/2019/02/tomatozania-plant-sale-returns-to-cal-poly-pomona-march-15-17/" title="Read on PolyCentric - Tomatozania Plant Sale Returns March 15-17">Read on PolyCentric</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <img alt="Jennifer Switkes" src="img/switkes,-jenny6.jpg"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h3 id="ch-2">Professor Helps Students Discover the Beauty of Math</h3> 
+         <div class="card-collapse">
+          Cal Poly Pomona’s Jennifer Switkes was one of three college professors in the country to receive a prestigious award from the Mathematical Association of America in January. Switkes was honored with the Deborah and Franklin Tepper Haimo Award for Distinguished College or University Teaching of Mathematics at the largest mathematics meeting in the world, a joint meeting of the American Mathematical Society and the MAA in Baltimore.
+         </div> 
+         <a class="btn btn-primary mt-3" href="http://polycentric.cpp.edu/2019/02/professor-helps-students-discover-the-beauty-of-math/" title="Read on PolyCentric - Professor Helps Students Discover the Beauty of Math">Read on PolyCentric</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <img alt="Lanterman Development Center" src="img/18lanterman-sign.jpg"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h3 id="ch-3">University Establishes Lanterman Advisory Committee</h3> 
+         <div class="card-collapse">
+          President Soraya M. Coley has established a broad-based campus committee to provide input as Cal Poly Pomona and FivePoint Holdings, LLC partner to re-envision and develop the site formerly known as the Lanterman Development Center. The ultimate vision is to transform the site into a vibrant university-oriented, mixed-use community that supports the academic mission, generates revenue and provides benefits to the surrounding area.
+         </div> 
+         <a class="btn btn-primary mt-3" href="http://polycentric.cpp.edu/2018/11/university-establishes-lanterman-advisory-committee/" title="Read on PolyCentric - University Establishes Lanterman Advisory Committee">Read on PolyCentric</a> 
+        </div> 
+       </div> 
+       <div class="text-right"> 
+        <a class="btn btn-primary" href="https://polycentric.cpp.edu">Read More News</a> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="large-blur-content"> 
+      <div class="large-blur-background"> 
+       <img alt="Christian Martinez" src="../img/kopp,-andrew3.jpg"> 
+      </div> 
+      <div class="row align-items-center small-blur-content-container"> 
+       <div class="col small-blur-content d-flex flex-column align-self-center justify-content-center"> 
+        <img alt="Alumnus Andrew Kopp" src="../img/andrew-kopp-3.jpg"> 
+        <p>"What I’ve learned at the Petersen Automotive museum and what I learned at Cal Poly Pomona is, if you’re passionate about something, don’t hesitate to go for it."</p> 
+        <p>Andrew Kopp<br>Archival and Metadata Technician at the Petersen Automotive Museum</p> 
+        <div> 
+         <a class="btn btn-primary btn-fancy-box" href="https://www.cpp.edu/~alumni/outstanding-alumni/spotlight/andrew-kopp.shtml">Read His Story</a> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="row featurette align-items-center primary-blue mb-0"> 
+      <div class="col-md-5 order-1"> 
+       <img alt="Luca Bella food samples" class="featurette-image img-fluid mx-auto" src="img/16tasting-lucabella-recovered.jpg"> 
+      </div> 
+      <div class="col-md-7 order-2"> 
+       <h2 class="featurette-heading">Cal Poly Pomona Tasting &amp; Auction <span class="text-muted"></span> </h2> 
+       <p class="lead"> The annual Cal Poly Pomona Tasting &amp; Auction is an unforgettable, open-air gathering in the picturesque Kellogg Pomona Rose Garden and Aratani Japanese Garden. Guests mingle with friends, savor fabulous wines, sample wonderful craft beer and taste enticing cuisine from some of Southern California’s most popular restaurants, while enjoying lively musical and auction entertainment. Proceeds will benefit Cal Poly Pomona and its 24,000 students with academic enrichment opportunities.</p> 
+       <a class="btn btn-primary" href="http://tasting.cpp.edu/">Get Your Early Bird Tickets</a> 
+      </div> 
+     </section> 
+     <section class="row featurette align-items-center  mb-0"> 
+      <div class="col-md-7 order-2"> 
+       <h2 class="featurette-heading">Career Center <span class="text-muted"></span> </h2> 
+       <p class="lead"> The Career Center’s goal is to provide students with resources and assistance to address all aspects of planning their career and searching for a job. Students can navigate a variety of part-time and full-time jobs or internships via Handshake, the Career Center’s job posting board. The Clothes Closet provides students with professional attire needed for interviews and career-related activities. Drop-in peer advisors are ready to review resumes and cover letters while career counselors work with individuals to explore the best major based upon interests and career goals. Take advantage of career fairs during the semester to help launch your career.</p> 
+       <a class="btn btn-primary" href="https://www.cpp.edu/~career/">Visit Career Center Website</a> 
+      </div> 
+      <div class="col-md-5 order-1 order-md-3"> 
+       <img alt="Student and advisor" class="featurette-image img-fluid mx-auto" src="img/career-center-room4.jpg"> 
+      </div> 
+     </section> 
+     <section class="row featurette align-items-center primary-green mb-0"> 
+      <div class="col-md-5 order-1"> 
+       <img alt="Students smile during the 2018 commencement ceremonies" class="featurette-image img-fluid mx-auto" src="img/18aggrad5.jpg"> 
+      </div> 
+      <div class="col-md-7 order-2"> 
+       <h2 class="featurette-heading">Commencement <span class="text-muted"></span> </h2> 
+       <p class="lead"> <span>Get ready to turn your tassels and leave Cal Poly Pomona with a sense of accomplishment and pride. Here’s what you need to know about the 63rd annual commencement ceremonies.</span></p> 
+       <a class="btn btn-primary" href="https://www.cpp.edu/~commencement/">Visit Commencement Website</a> 
+      </div> 
+     </section> 
+     <section class="event-section primary-blue"> 
+      <h2 class="event-heading">University Events</h2> 
+      <div class="row"> 
+       <div class="col-lg-3 col-md-6 col-sm-12 event-div"> 
+        <a class="cpp-event-link" href="https://www.cpp.edu/~registrar/graduation/index.shtml"> 
+         <div class="card h-100 cpp-event-card"> 
+          <div class="zoom-container"> 
+           <img alt="" src="../img/busted-workshop1.jpg"> 
+          </div> 
+          <div class="card-body d-flex flex-column align-items-start cpp-event-body"> 
+           <p class="cpp-event-date"><span class="cpp-event-month">Mar</span><span class="cpp-event-day">12</span></p> 
+           <p class="cpp-event-catagory">Special Event</p> 
+           <h3>Ready, Set, Graduate! Workshop</h3> 
+           <p class="cpp-event-time">12:00 PM</p> 
+          </div> 
+         </div></a>
+       </div> 
+       <div class="col-lg-3 col-md-6 col-sm-12 event-div"> 
+        <a class="cpp-event-link" href="https://www.cpp.edu/~studentsuccess/academic-calendar/index.shtml"> 
+         <div class="card h-100 cpp-event-card"> 
+          <div class="zoom-container"> 
+           <img alt="" src="../img/18collinsgrad59.jpg"> 
+          </div> 
+          <div class="card-body d-flex flex-column align-items-start cpp-event-body"> 
+           <p class="cpp-event-date"><span class="cpp-event-month">Mar</span><span class="cpp-event-day">15</span></p> 
+           <p class="cpp-event-catagory">Academic and Important Deadlines</p> 
+           <h3>Last Day to Apply for Graduation</h3> 
+           <p class="cpp-event-time">12:00 AM</p> 
+          </div> 
+         </div></a>
+       </div> 
+       <div class="col-lg-3 col-md-6 col-sm-12 event-div"> 
+        <a class="cpp-event-link" href="https://www.cpp.edu/~farmstore/tomatozania.shtml"> 
+         <div class="card h-100 cpp-event-card"> 
+          <div class="zoom-container"> 
+           <img alt="" src="../img/tomatozania-shopper2-2.jpg"> 
+          </div> 
+          <div class="card-body d-flex flex-column align-items-start cpp-event-body"> 
+           <p class="cpp-event-date"><span class="cpp-event-month">Mar</span><span class="cpp-event-day">15</span></p> 
+           <p class="cpp-event-catagory">Special Event</p> 
+           <h3>Tomatozania </h3> 
+           <p class="cpp-event-time">10:00 AM</p> 
+          </div> 
+         </div></a>
+       </div> 
+       <div class="col-lg-3 col-md-6 col-sm-12 event-div"> 
+        <a class="cpp-event-link" href="https://www.cpp.edu/events/day.php?date=03/19/2019&amp;audience=all#.XCzqalVKiUk"> 
+         <div class="card h-100 cpp-event-card"> 
+          <div class="zoom-container"> 
+           <img alt="" src="../img/spring-showcase-cintron.jpg"> 
+          </div> 
+          <div class="card-body d-flex flex-column align-items-start cpp-event-body"> 
+           <p class="cpp-event-date"><span class="cpp-event-month">Mar</span><span class="cpp-event-day">19</span></p> 
+           <p class="cpp-event-catagory">The Arts</p> 
+           <h3>Music Hour Showcase</h3> 
+           <p class="cpp-event-time">12:00 PM</p> 
+          </div> 
+         </div></a>
+       </div> 
+      </div> 
+      <div class="row more-events justify-content-end"> 
+       <a class="btn btn-events" href="https://www.cpp.edu/events/">See more events</a> 
+      </div> 
+     </section> 
+    </div> 
+   </div> 
+  </main> 
+  <footer class="container-fluid" id="additonal-footer"> 
+   <div class="row footer-nav-top"> 
+    <div class="col-lg-3 col-md-2 col-sm-4 footer-mycpp">
+     <a class="footer-nav-top-item" href="https://goo.gl/T9X2zC"> <i class="fas fa-sign-in-alt"></i> &nbsp;MyCPP </a>
+    </div> 
+    <div class="col-lg-6 col-md-6 col-sm-8 footer-audience">
+     <a class="footer-nav-top-item" href="https://www.cpp.edu/prospective-student-gateway/index.shtml">Prospective Students</a> 
+     <a class="footer-nav-top-item" href="https://www.cpp.edu/student-gateway/index.shtml">Current Students</a> 
+     <a class="footer-nav-top-item" href="https://www.cpp.edu/faculty-staff-gateway/index.shtml"> Faculty &amp; Staff </a> 
+     <a class="footer-nav-top-item" href="https://www.cpp.edu/~alumni/"> Alumni</a>
+    </div> 
+    <div class="footer-social-media-links col-lg-3 col-md-4 col-sm-12 footer-nav-top-item">
+     <a href="https://goo.gl/cGtfXT" title="facebook"> <img alt="Facebook Logo" src="https://www.cpp.edu/common/resources/img/social/facebook-60x60.png" style="height: 30px; width: 30px;"> </a> 
+     <a href="https://goo.gl/LstL9D" title="twitter"> <img alt="Twitter Logo" height="30" src="https://www.cpp.edu/common/resources/img/social/twitter-60x60.png" style="height: 30px; width: 30px;" width="30"> </a> 
+     <a href="https://goo.gl/j59P2Y" title="portfolium"> <img alt="Portfolium Logo" src="https://www.cpp.edu/common/resources/img/social/portfolium-60x60.png" style="height: 30px; width: 30px;"> </a> 
+     <a href="https://goo.gl/4uYgVp" title="LinkedIn"> <img alt="LinkedIn Logo" src="https://www.cpp.edu/common/resources/img/social/linkedin-60x60.png" style="height: 30px; width: 30px;"> </a> 
+     <a href="https://goo.gl/ixzzc9" title="Youtube"> <img alt="YouTube Logo" src="https://www.cpp.edu/common/resources/img/social/youtube-60x60.png" style="height: 30px; width: 30px;"> </a> 
+     <a href="https://goo.gl/GEyAjK" title="instagram"> <img alt="Instagram Logo" src="https://www.cpp.edu/common/resources/img/social/instagram-60x60.png" style="height: 30px; width: 30px;"> </a>
+    </div> 
+   </div> 
+   <div class="row footer-nav-middle"> 
+    <div class="col-lg-4 col-md-4"> 
+     <h2>Colleges</h2> 
+     <ul> 
+      <li><a href="https://www.cpp.edu/~agri/">Don B. Huntley College of Agriculture</a></li> 
+      <li><a href="https://www.cpp.edu/~cba/">College of Business Administration</a></li> 
+      <li><a href="https://www.cpp.edu/~ceis/">College of Education &amp; Integrative Studies</a></li> 
+      <li><a href="https://www.cpp.edu/~engineering/">College of Engineering</a></li> 
+      <li><a href="https://www.cpp.edu/~env/">College of Environmental Design</a></li> 
+      <li><a href="https://www.ceu.cpp.edu/">College of the Extended University</a></li> 
+      <li><a href="https://www.cpp.edu/~collins/">The Collins College of Hospitality Management</a></li> 
+      <li><a href="https://www.cpp.edu/~class/">College of Letters, Arts &amp; Social Sciences</a></li> 
+      <li><a href="https://www.cpp.edu/~sci">College of Science</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-lg col-md"> 
+     <h2>Resources</h2> 
+     <ul> 
+      <li><a href="https://www.cpp.edu/~library/index.shtml">Library</a></li> 
+      <li><a href="https://apps.cpp.edu/bronco411/search/" title="bronco411">Directory</a></li> 
+      <li><a href="https://www.cpp.edu/events/">Calendar</a></li> 
+      <li><a href="https://apps.cpp.edu/idm/login.aspx?ReturnUrl=%2fidm%2fuser_account.aspx">Change Your Password</a></li> 
+      <li><a href="https://www.cpp.edu/alpha-index/index.shtml">A-Z Index</a></li> 
+      <li><a href="https://cpp.service-now.com/ehelp">eHelp</a></li> 
+      <li><a href="https://goo.gl/ryNt1n" title="Cal Poly Pomona Email Login">Email</a></li> 
+      <li><a href="https://polycentric.cpp.edu">News</a></li> 
+      <li><a href="https://www.cpp.edu/~stratcomm/for-the-media.shtml">For the Media</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-lg col-md"> 
+     <h2>Campus Safety</h2> 
+     <ul> 
+      <li><a href="https://www.cpp.edu/annual-security-report.shtml">Annual Security Report</a></li> 
+      <li><a href="https://www.cpp.edu/campus-safety-plan.shtml">Campus Safety Plan</a></li> 
+      <li><a href="https://www.cpp.edu/~safety/index.shtml">Safety&nbsp;&amp; Emergency Info</a></li> 
+      <li><a href="https://www.cpp.edu/~officeofequity/titleIX/index.shtml">Title IX</a></li> 
+     </ul> 
+     <h2>Athletics</h2> 
+     <ul> 
+      <li><a href="https://goo.gl/88NES" title="broncoathetics.com">Bronco Athletics</a></li> 
+      <li><a href="https://goo.gl/hpbbFt" title="broncoathletics schedule">Schedule</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-lg-3 col-md-3">
+     <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/~admissions/">Apply</a> 
+     <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/~giving/index.shtml">Giving</a> 
+     <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/~jobs/index.shtml">Jobs</a> 
+     <a class="btn-primary btn footer-btn" href="https://maps.cpp.edu/">Maps &amp; Directions</a> 
+     <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/contact.shtml">Contact Us</a>
+    </div> 
+   </div> 
+  </footer> 
+  <footer class="container-fluid" id="main-footer"> 
+   <div class="row"> 
+    <div class="col-lg col-md col-sm-6 address text-left">
+     <img alt="cal poly pomona" class="footer-logo" src="https://www.cpp.edu/common/2018/assets/img/cpp-white.png"> 
+     <p>3801 West Temple Avenue,Pomona, CA 91768</p> 
+     <div class="copyright"> 
+      <p class="copyright-text">©2019 California State Polytechnic University, Pomona</p> 
+      <p class="copyright-text">All Rights Reserved</p> 
+     </div> 
+    </div> 
+    <div class="col-lg col-md-7 col-sm-6 footer-links">
+     <a href="https://www.cpp.edu/~aboutcpp/index.shtml" title="Cpp About">About Cal Poly Pomona</a> 
+     <a aria-label="Cpp Feedback" href="https://www.cpp.edu/website-feedback.php" title="Cpp Feedback">Feedback</a> 
+     <a aria-label="Cpp Privacy" href="https://www.cpp.edu/privacy.shtml" title="footer - Privacy">Privacy</a> 
+     <a href="https://www.cpp.edu/accessibility.shtml">Accessibility</a> 
+     <a href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+    </div> 
+   </div> 
+   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+   <script src="https://www.cpp.edu/common/2018/assets/js/cpp.js"></script> 
+  </footer>  
+ </body>
+</html>

@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class Spider {
 	
-	private static final int MAX_PAGES_TO_SEARCH = 1000;
+	private static final int MAX_PAGES_TO_SEARCH = 1;
 	
 	private Set<String> pagesVisited = new HashSet<String>();
 	
@@ -34,10 +34,10 @@ public class Spider {
 				currentURL = this.getNextURL();
 			}
 			leg.crawl(currentURL);
-			System.out.println(String.format("**Success** Connected to %s", currentURL));
+			System.out.println(String.format("Connected to %s", currentURL));
 			this.pagesToVisit.addAll(leg.getLinks());
 		}
-		System.out.println("\n**Done** Visited " + this.pagesVisited.size() + " web page(s)");
+		System.out.println("\nVisited " + this.pagesVisited.size() + " web page(s)");
 	}
 	
 }

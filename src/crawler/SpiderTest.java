@@ -7,7 +7,7 @@ public class SpiderTest {
 
 		Spider spider = new Spider();
 		
-		spider.search("http://www.youtube.com");
+		spider.search("http://www.cpp.edu");
 	}
 
 }
