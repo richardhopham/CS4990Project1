@@ -31,7 +31,7 @@
       <form class="AnimatedForm" action="/login" method="post"> 
        <input type="hidden" name="cookie_domain" value=".reddit.com"> 
        <input type="hidden" name="dest" value="https://www.reddit.com/"> 
-       <input type="hidden" name="csrf_token" value="b0d979055e6d9fd11bec7918bcbfa114aa8a9a36"> 
+       <input type="hidden" name="csrf_token" value="996290bd87947a5ccb3958b3c4e8274f674433da"> 
        <input type="hidden" name="is_oauth" value="False"> 
        <fieldset class="AnimatedForm__field m-required login hideable"> 
         <input id="loginUsername" class="AnimatedForm__textInput" type="text" name="username"> 

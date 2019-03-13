@@ -31,7 +31,7 @@
         <p class="Description"> By having a Reddit account, you can subscribe, vote, and comment on all your favorite Reddit content.<br>Sign up in just seconds. </p> 
         <input type="hidden" name="cookie_domain" value=".reddit.com"> 
         <input type="hidden" name="dest" value="https://www.reddit.com/"> 
-        <input type="hidden" name="csrf_token" value="b1480f98b4246da6a01eaf63e1c09d88791c9d4c"> 
+        <input type="hidden" name="csrf_token" value="96d2046f9d457063fdbdf287fa283f088ae5047b"> 
         <input type="hidden" name="is_oauth" value="False"> 
         <fieldset class="AnimatedForm__field"> 
          <input id="regEmail" class="AnimatedForm__textInput" type="email" name="email" data-step="1"> 
