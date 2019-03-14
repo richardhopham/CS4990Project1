@@ -16,11 +16,11 @@ public class Main {
 		
 		
 		//OTHER TWO SEED URLs
-//		spider = new Spider();
-//		spider.search("http://www.reddit.com");
-//		
-//		spider = new Spider();
-//		spider.search("http://en.wikipedia.org/wiki/Dog");
+		spider = new Spider();
+		spider.search("http://www.reddit.com");
+		
+		spider = new Spider();
+		spider.search("http://en.wikipedia.org/wiki/Dog");
 	}
 
 }

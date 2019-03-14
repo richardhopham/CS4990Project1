@@ -679,7 +679,7 @@ display:none;}
   <script type="text/javascript">var switchTo5x=true;</script> 
   <!-- <link rel="stylesheet" href="https://www-dev.csupomona.edu/common/resources/css/cpp-headers1.css" type="text/css" /> --> 
  </head> 
- <body class="wordpress ltr en_US child-theme y2019 m03 d13 h16 wednesday logged-out singular singular-post singular-post-51046 post-format-standard chrome topbar-enabled layout-3c-l category_id-233" style="padding-left: 0px; padding-right: 0px;"> 
+ <body class="wordpress ltr en_US child-theme y2019 m03 d13 h17 wednesday logged-out singular singular-post singular-post-51046 post-format-standard chrome topbar-enabled layout-3c-l category_id-233" style="padding-left: 0px; padding-right: 0px;"> 
   <style>
 .hentry {
     border-bottom: none;
@@ -1125,7 +1125,7 @@ function openMenu() {
           </div>
           <!-- .post-thumbnail-wrap --> <h2 class="title"> <a href="http://polycentric.cpp.edu/2019/01/open-house-for-student-services-building-set-for-jan-18/">Open House for Student Services Building Set for Jan. 18</a> </h2> 
           <div class="byline">
-            2575 views / Posted 
+            2576 views / Posted 
            <time class="published" datetime="2019-01-07T12:31:09-07:00" title="Monday, January 7th, 2019, 12:31 pm">January 7, 2019</time> 
           </div> </li> 
          <li> 
@@ -1134,7 +1134,7 @@ function openMenu() {
           </div>
           <!-- .post-thumbnail-wrap --> <h2 class="title"> <a href="http://polycentric.cpp.edu/2019/01/student-services-building-officially-opens-at-cal-poly-pomona/">Student Services Building Officially Opens at Cal Poly Pomona</a> </h2> 
           <div class="byline">
-            2283 views / Posted 
+            2285 views / Posted 
            <time class="published" datetime="2019-01-18T14:24:50-07:00" title="Friday, January 18th, 2019, 2:24 pm">January 18, 2019</time> 
           </div> </li> 
          <li> 
@@ -1152,7 +1152,7 @@ function openMenu() {
           </div>
           <!-- .post-thumbnail-wrap --> <h2 class="title"> <a href="http://polycentric.cpp.edu/2019/01/faqs-about-the-student-services-building-ssb/">FAQs About the Student Services Building (SSB)</a> </h2> 
           <div class="byline">
-            1031 views / Posted 
+            1032 views / Posted 
            <time class="published" datetime="2019-01-15T11:37:04-07:00" title="Tuesday, January 15th, 2019, 11:37 am">January 15, 2019</time> 
           </div> </li> 
          <li> 
@@ -1355,7 +1355,7 @@ var DEFAULT_SEARCH={name:"polycentric",opts:{type:"standard",options:{site:"cpp-
 		);
 	});
 </script> 
-    <script type="text/javascript">/* <![CDATA[ */ jQuery(document).ready( function() { jQuery.post( "https://polycentric.cpp.edu/wp-admin/admin-ajax.php", { action : "entry_views", _ajax_nonce : "c118dc9829", post_id : 51046 } ); } ); /* ]]> */</script> 
+    <script type="text/javascript">/* <![CDATA[ */ jQuery(document).ready( function() { jQuery.post( "https://polycentric.cpp.edu/wp-admin/admin-ajax.php", { action : "entry_views", _ajax_nonce : "ececa8eaa6", post_id : 51046 } ); } ); /* ]]> */</script> 
     <script type="text/javascript" src="http://polycentric.cpp.edu/wp-content/themes/fearless/js/jquery.backstretch.min.js?ver=2.0.3"></script> 
     <script type="text/javascript" src="http://polycentric.cpp.edu/wp-content/themes/fearless/js/jquery.fitvids.min.js?ver=4.7.11"></script> 
     <script type="text/javascript">
